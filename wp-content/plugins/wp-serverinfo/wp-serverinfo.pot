@@ -1,0 +1,234 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP-ServerInfo 1.50\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-06-08 18:45+0800\n"
+"PO-Revision-Date: 2009-06-08 18:45+0800\n"
+"Last-Translator: Lester Chan <lesterchan@gmail.com>\n"
+"Language-Team: Lester Chan <lesterchan@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: SINGAPORE\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;__ngettext_noop:1,2\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: wp-serverinfo.php:42
+msgid "WP-ServerInfo"
+msgstr ""
+
+#: wp-serverinfo.php:84
+msgid "General Overview"
+msgstr ""
+
+#: wp-serverinfo.php:90
+#: wp-serverinfo.php:92
+#: wp-serverinfo.php:248
+msgid "Variable Name"
+msgstr ""
+
+#: wp-serverinfo.php:91
+#: wp-serverinfo.php:93
+#: wp-serverinfo.php:248
+msgid "Value"
+msgstr ""
+
+#: wp-serverinfo.php:98
+#: wp-serverinfo.php:530
+msgid "OS"
+msgstr ""
+
+#: wp-serverinfo.php:100
+msgid "Database Data Disk Usage"
+msgstr ""
+
+#: wp-serverinfo.php:104
+#: wp-serverinfo.php:531
+msgid "Server"
+msgstr ""
+
+#: wp-serverinfo.php:106
+msgid "Database Index Disk Usage"
+msgstr ""
+
+#: wp-serverinfo.php:112
+msgid "MYSQL Maximum Packet Size"
+msgstr ""
+
+#: wp-serverinfo.php:118
+msgid "MYSQL Maximum No. Connection"
+msgstr ""
+
+#: wp-serverinfo.php:124
+msgid "PHP Short Tag"
+msgstr ""
+
+#: wp-serverinfo.php:128
+msgid "Server Hostname"
+msgstr ""
+
+#: wp-serverinfo.php:130
+msgid "PHP Safe Mode"
+msgstr ""
+
+#: wp-serverinfo.php:134
+msgid "Server IP:Port"
+msgstr ""
+
+#: wp-serverinfo.php:136
+msgid "PHP Magic Quotes GPC"
+msgstr ""
+
+#: wp-serverinfo.php:140
+msgid "Server Document Root"
+msgstr ""
+
+#: wp-serverinfo.php:142
+msgid "PHP Memory Limit"
+msgstr ""
+
+#: wp-serverinfo.php:146
+msgid "Server Admin"
+msgstr ""
+
+#: wp-serverinfo.php:148
+msgid "PHP Max Upload Size"
+msgstr ""
+
+#: wp-serverinfo.php:152
+msgid "Server Load"
+msgstr ""
+
+#: wp-serverinfo.php:154
+msgid "PHP Max Post Size"
+msgstr ""
+
+#: wp-serverinfo.php:158
+msgid "Server Date/Time"
+msgstr ""
+
+#: wp-serverinfo.php:159
+#, php-format
+msgid "%s @ %s"
+msgstr ""
+
+#: wp-serverinfo.php:160
+msgid "PHP Max Script Execute Time"
+msgstr ""
+
+#: wp-serverinfo.php:260
+msgid "Display General Overview"
+msgstr ""
+
+#: wp-serverinfo.php:260
+msgid "Display PHP Information"
+msgstr ""
+
+#: wp-serverinfo.php:260
+msgid "Display MYSQL Information"
+msgstr ""
+
+#: wp-serverinfo.php:273
+msgid "TiB"
+msgstr ""
+
+#: wp-serverinfo.php:275
+msgid "GiB"
+msgstr ""
+
+#: wp-serverinfo.php:277
+msgid "MiB"
+msgstr ""
+
+#: wp-serverinfo.php:279
+msgid "KiB"
+msgstr ""
+
+#: wp-serverinfo.php:281
+msgid "bytes"
+msgstr ""
+
+#: wp-serverinfo.php:283
+msgid "unknown"
+msgstr ""
+
+#: wp-serverinfo.php:306
+#: wp-serverinfo.php:319
+#: wp-serverinfo.php:332
+msgid "On"
+msgstr ""
+
+#: wp-serverinfo.php:308
+#: wp-serverinfo.php:321
+#: wp-serverinfo.php:334
+msgid "Off"
+msgstr ""
+
+#: wp-serverinfo.php:347
+#: wp-serverinfo.php:360
+#: wp-serverinfo.php:373
+#: wp-serverinfo.php:386
+#: wp-serverinfo.php:411
+#: wp-serverinfo.php:427
+#: wp-serverinfo.php:441
+#: wp-serverinfo.php:455
+#: wp-serverinfo.php:479
+#: wp-serverinfo.php:505
+msgid "N/A"
+msgstr ""
+
+#: wp-serverinfo.php:516
+msgid "Server Information"
+msgstr ""
+
+#: wp-serverinfo.php:528
+msgid "General"
+msgstr ""
+
+#: wp-serverinfo.php:532
+msgid "Hostname"
+msgstr ""
+
+#: wp-serverinfo.php:533
+msgid "IP:Port"
+msgstr ""
+
+#: wp-serverinfo.php:534
+msgid "Document Root"
+msgstr ""
+
+#: wp-serverinfo.php:540
+msgid "Magic Quotes GPC"
+msgstr ""
+
+#: wp-serverinfo.php:541
+msgid "Memory Limit"
+msgstr ""
+
+#: wp-serverinfo.php:542
+msgid "Max Upload Size"
+msgstr ""
+
+#: wp-serverinfo.php:547
+msgid "Maximum No. Connections"
+msgstr ""
+
+#: wp-serverinfo.php:548
+msgid "Maximum Packet Size"
+msgstr ""
+
+#: wp-serverinfo.php:549
+msgid "Data Disk Usage"
+msgstr ""
+
+#: wp-serverinfo.php:550
+msgid "Index Disk Usage"
+msgstr ""
+
+#: wp-serverinfo.php:552
+msgid "View all"
+msgstr ""
+

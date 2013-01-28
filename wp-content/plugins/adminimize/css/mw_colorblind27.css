@@ -1,0 +1,24 @@
+@import url(colors-colorblind.css);
+@import url(mw_basic.css);
+@import url(mw_admin27.css);
+@import url(mw_cat.css);
+
+div#wpbody {
+	background:#F0720C;
+}
+
+iv#wpbody-content {
+	background:#fff;
+}d
+
+#wphead #viewsite a{
+	color:#550007 !important;
+}
+
+#wphead #viewsite a:hover{
+	color:#000 !important;
+}
+
+ul#adminmenu li.write-new-button a {
+	color:#ccc;
+}

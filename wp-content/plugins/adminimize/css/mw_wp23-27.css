@@ -1,0 +1,16 @@
+@import url(colors-wp23.css);
+@import url(mw_basic.css);
+@import url(mw_admin27.css);
+@import url(mw_cat.css);
+
+div#sidemenu-bg {
+display:none; !important;
+}
+
+div#wpbody-content {
+	margin:0;
+}
+
+#dashmenu {
+display:none !important;
+}

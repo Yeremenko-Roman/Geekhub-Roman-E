@@ -1,0 +1,20 @@
+@import url(colors-grey.css);
+@import url(mw_basic.css);
+@import url(mw_admin27.css);
+@import url(mw_cat.css);
+
+div#wpbody {
+	background:#787878;
+}
+
+div#wpbody-content {
+	background:#fff;
+}
+
+#wphead #viewsite a{
+	color:#fff;
+}
+
+#wphead #viewsite a:hover{
+	color:#D8D8D8
+}

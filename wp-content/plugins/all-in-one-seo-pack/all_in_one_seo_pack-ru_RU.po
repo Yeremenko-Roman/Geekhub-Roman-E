@@ -1,0 +1,514 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: All in one SEO pack Russian\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-07-22 00:52+0600\n"
+"PO-Revision-Date: 2009-07-22 00:57+0600\n"
+"Last-Translator: Kalinin Ivan <lecactus@lecactus.ru>\n"
+"Language-Team: Lecactus <lecactus@lecactus.ru>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Russian\n"
+"X-Poedit-Country: RUSSIAN FEDERATION\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: C:\\temp\\tr\n"
+
+#: C:\temp\tr/aioseop.class.php:918
+#, php-format
+msgid "Could not download distribution (%s)"
+msgstr "Невозможно скачать дистрибутив (%s)"
+
+#: C:\temp\tr/aioseop.class.php:921
+#, php-format
+msgid "Could not download distribution (%s): %s"
+msgstr "Невозможно скачать дистрибутив (%s): %s"
+
+#: C:\temp\tr/aioseop.class.php:928
+#, php-format
+msgid "Could not open %s for writing"
+msgstr "Невозможно открыть %s для записи"
+
+#: C:\temp\tr/aioseop.class.php:930
+#, php-format
+msgid "Please make sure %s is writable"
+msgstr "Пожалуйста, будьте уверены что %s открыта для записи"
+
+#: C:\temp\tr/aioseop.class.php:936
+#, php-format
+msgid "Could not write to %s"
+msgstr "Невозможно записать в %s"
+
+#: C:\temp\tr/aioseop.class.php:1104
+#: C:\temp\tr/aioseop.class.php:1144
+#: C:\temp\tr/aioseop.class.php:1151
+#: C:\temp\tr/all_in_one_seo_pack.php:694
+#: C:\temp\tr/all_in_one_seo_pack.php:695
+msgid "All in One SEO Pack"
+msgstr "All in One SEO Pack"
+
+#: C:\temp\tr/aioseop.class.php:1108
+#: C:\temp\tr/aioseop.class.php:1165
+#: C:\temp\tr/all_in_one_seo_pack.php:734
+msgid "Title:"
+msgstr "Заголовок:"
+
+#: C:\temp\tr/aioseop.class.php:1112
+#: C:\temp\tr/aioseop.class.php:1178
+#: C:\temp\tr/all_in_one_seo_pack.php:747
+msgid "Keywords (comma separated):"
+msgstr "Ключевые слова / Keywords (разделенные запятыми):"
+
+#: C:\temp\tr/aioseop.class.php:1157
+#: C:\temp\tr/all_in_one_seo_pack.php:727
+msgid "Click here for Support"
+msgstr "Щелкните здесь для получения поддержки"
+
+#: C:\temp\tr/aioseop.class.php:1169
+#: C:\temp\tr/all_in_one_seo_pack.php:738
+msgid "Description:"
+msgstr "Описание:"
+
+#: C:\temp\tr/aioseop.class.php:1174
+#: C:\temp\tr/all_in_one_seo_pack.php:743
+msgid " characters. Most search engines use a maximum of 160 chars for the description."
+msgstr " символов. Большинство поисковых машин использует максимум 160 символов для описания."
+
+#: C:\temp\tr/aioseop.class.php:1185
+#: C:\temp\tr/all_in_one_seo_pack.php:764
+msgid "Disable on this page/post:"
+msgstr "Отключить в записи/странице:"
+
+#: C:\temp\tr/aioseop.class.php:1193
+#: C:\temp\tr/all_in_one_seo_pack.php:753
+msgid "Title Attribute:"
+msgstr "Атрибут заголовка:"
+
+#: C:\temp\tr/aioseop.class.php:1198
+#: C:\temp\tr/all_in_one_seo_pack.php:758
+msgid "Menu Label:"
+msgstr "Метка меню:"
+
+#: C:\temp\tr/aioseop.class.php:1230
+msgid "All in One SEO"
+msgstr "All in One SEO"
+
+#: C:\temp\tr/aioseop.class.php:1262
+msgid "All in One SEO Options Updated."
+msgstr "Настройки All in One SEO обновлены."
+
+#: C:\temp\tr/aioseop.class.php:1322
+msgid "All in One SEO Plugin Options"
+msgstr "Настройки плагина All in One SEO"
+
+#: C:\temp\tr/aioseop.class.php:1325
+msgid "All in One SEO Plugin Release History"
+msgstr "История релизов плагина All in One SEO"
+
+#: C:\temp\tr/aioseop.class.php:1326
+msgid "Changelog"
+msgstr "Список изменений"
+
+#: C:\temp\tr/aioseop.class.php:1328
+#: C:\temp\tr/aioseop.class.php:1329
+msgid "FAQ"
+msgstr "FAQ"
+
+#: C:\temp\tr/aioseop.class.php:1330
+msgid "All in One SEO Plugin Support Forum"
+msgstr "Форум поддержки плагина All in One SEO"
+
+#: C:\temp\tr/aioseop.class.php:1331
+msgid "Support"
+msgstr "Поддержка"
+
+#: C:\temp\tr/aioseop.class.php:1332
+msgid "All in One SEO Plugin Translations"
+msgstr "Языковые модули для All in One SEO"
+
+#: C:\temp\tr/aioseop.class.php:1333
+msgid "Translations"
+msgstr "Языковые модули"
+
+#: C:\temp\tr/aioseop.class.php:1338
+msgid "Follow us on Twitter"
+msgstr "Следуйте за нами на Твиттере"
+
+#: C:\temp\tr/aioseop.class.php:1339
+msgid "Follow Us on Twitter"
+msgstr "Следуйте за нами на Твиттере"
+
+#: C:\temp\tr/aioseop.class.php:1377
+msgid "Click on option titles to get help!"
+msgstr "Щелкайте по заголовкам опций для получения помощи!"
+
+#: C:\temp\tr/aioseop.class.php:1454
+#: C:\temp\tr/aioseop.class.php:1471
+#: C:\temp\tr/aioseop.class.php:1488
+#: C:\temp\tr/aioseop.class.php:1504
+#: C:\temp\tr/aioseop.class.php:1520
+#: C:\temp\tr/aioseop.class.php:1536
+#: C:\temp\tr/aioseop.class.php:1552
+#: C:\temp\tr/aioseop.class.php:1568
+#: C:\temp\tr/aioseop.class.php:1595
+#: C:\temp\tr/aioseop.class.php:1620
+#: C:\temp\tr/aioseop.class.php:1642
+#: C:\temp\tr/aioseop.class.php:1663
+#: C:\temp\tr/aioseop.class.php:1684
+#: C:\temp\tr/aioseop.class.php:1705
+#: C:\temp\tr/aioseop.class.php:1727
+#: C:\temp\tr/aioseop.class.php:1750
+#: C:\temp\tr/aioseop.class.php:1770
+#: C:\temp\tr/aioseop.class.php:1785
+#: C:\temp\tr/aioseop.class.php:1800
+#: C:\temp\tr/aioseop.class.php:1816
+#: C:\temp\tr/aioseop.class.php:1832
+#: C:\temp\tr/aioseop.class.php:1848
+#: C:\temp\tr/aioseop.class.php:1864
+#: C:\temp\tr/aioseop.class.php:1880
+#: C:\temp\tr/aioseop.class.php:1896
+#: C:\temp\tr/aioseop.class.php:1912
+#: C:\temp\tr/aioseop.class.php:1929
+msgid "Click for Help!"
+msgstr "Нажмите для получения помощи!"
+
+#: C:\temp\tr/aioseop.class.php:1455
+msgid "I enjoy this plugin and have made a donation:"
+msgstr "Мне нравится этот плагин и я хочу сделать пожертвование:"
+
+#: C:\temp\tr/aioseop.class.php:1462
+#: C:\temp\tr/aioseop.class.php:1937
+msgid "All donations support continued development of this free software."
+msgstr "Все пожертвования поддерживают продолжение разработки этого бесплатного приложения."
+
+#: C:\temp\tr/aioseop.class.php:1472
+msgid "Plugin Status:"
+msgstr "Статус плагина:"
+
+#: C:\temp\tr/aioseop.class.php:1480
+msgid "All in One SEO Pack must be enabled for use."
+msgstr "Плагин All in One SEO Pack должен быть включен для использования."
+
+#: C:\temp\tr/aioseop.class.php:1489
+msgid "Home Title:"
+msgstr "Заголовок главной страницы:"
+
+#: C:\temp\tr/aioseop.class.php:1496
+msgid "As the name implies, this will be the title of your homepage. This is independent of any other option. If not set, the default blog title will get used."
+msgstr "Как видно из названия, это будет название вашей главной страницы. Это независит от других опций. Если вы не задали его, будет использоваться заголовок блога 'по умолчанию'."
+
+#: C:\temp\tr/aioseop.class.php:1505
+msgid "Home Description:"
+msgstr "Описание главной страницы:"
+
+#: C:\temp\tr/aioseop.class.php:1512
+msgid "The META description for your homepage. Independent of any other options, the default is no META description at all if this is not set."
+msgstr "META описание вашей главной страницы. Независимо от других настроек, по умолчанию META описание для всего не установлено."
+
+#: C:\temp\tr/aioseop.class.php:1521
+msgid "Home Keywords (comma separated):"
+msgstr "Ключевые слова главной страницы / Keywords (разделенные запятыми):"
+
+#: C:\temp\tr/aioseop.class.php:1528
+msgid "A comma separated list of your most important keywords for your site that will be written as META keywords on your homepage. Don't stuff everything in here."
+msgstr "Разделенный запятыми список наиболее важных ключевых слов вашего сайта, которые будут записаны в META keywords на вашей главной странице. Не наполняйте все в здесь."
+
+#: C:\temp\tr/aioseop.class.php:1537
+msgid "Canonical URLs:"
+msgstr "Канонические URL-ы:"
+
+#: C:\temp\tr/aioseop.class.php:1544
+msgid "This option will automatically generate Canonical URLS for your entire WordPress installation.  This will help to prevent duplicate content penalties by <a href='http://googlewebmastercentral.blogspot.com/2009/02/specify-your-canonical.html' target='_blank'>Google</a>."
+msgstr "Эта опция автоматически генерирует Канонические URL-ы для вашего WordPress. Это поможет предотвратить дублирование контента и <a href='http://googlewebmastercentral.blogspot.com/2009/02/specify-your-canonical.html' target='_blank'>соответствующих санкций от Гугла</a>."
+
+#: C:\temp\tr/aioseop.class.php:1553
+msgid "Rewrite Titles:"
+msgstr "Перезапись заголовков:"
+
+#: C:\temp\tr/aioseop.class.php:1560
+msgid "Note that this is all about the title tag. This is what you see in your browser's window title bar. This is NOT visible on a page, only in the window title bar and of course in the source. If set, all page, post, category, search and archive page titles get rewritten. You can specify the format for most of them. For example: The default templates puts the title tag of posts like this: ‚ÄúBlog Archive >> Blog Name >> Post Title‚Äù (maybe I've overdone slightly). This is far from optimal. With the default post title format, Rewrite Title rewrites this to ‚ÄúPost Title | Blog Name‚Äù. If you have manually defined a title (in one of the text fields for All in One SEO Plugin input) this will become the title of your post in the format string."
+msgstr "Примите к сведения, что это все теги заголовка. Это то, что вы видите в браузере в строке заголовка окна. Это <strong>не</strong> видно на странице, только в строке заголовка окна и, разумеется, в исходнике страницы. Если выбрано, все заголовки страниц, записей, рубрик, поиска, архивов получат новый вид. Вы можете определить формат для большинства из них. Например: Шаблоны по умолчанию помещают тег заголовка записей примерно так: \"Архив блога >> Имя блога >> Заголовок записи\" (возможно немного чрезмерно). Это далеко от оптимального. С шаблоном заголовка по умолчанию, <strong>Перезапись заголовка</strong> превращает это в такое \"Заголовок | Имя блога\". Если вы хотите вручную задать заголовок (вводится в одном из текстовых полей плагина <strong>All in One SEO</strong>), это станет заголовком вашей записи в строке формата."
+
+#: C:\temp\tr/aioseop.class.php:1569
+msgid "Post Title Format:"
+msgstr "Формат заголовка записи:"
+
+#: C:\temp\tr/aioseop.class.php:1576
+#: C:\temp\tr/aioseop.class.php:1603
+#: C:\temp\tr/aioseop.class.php:1628
+#: C:\temp\tr/aioseop.class.php:1650
+#: C:\temp\tr/aioseop.class.php:1671
+#: C:\temp\tr/aioseop.class.php:1692
+#: C:\temp\tr/aioseop.class.php:1713
+#: C:\temp\tr/aioseop.class.php:1735
+#: C:\temp\tr/aioseop.class.php:1759
+msgid "The following macros are supported:"
+msgstr "Поддерживаются следующие макросы:"
+
+#: C:\temp\tr/aioseop.class.php:1578
+#: C:\temp\tr/aioseop.class.php:1605
+#: C:\temp\tr/aioseop.class.php:1630
+#: C:\temp\tr/aioseop.class.php:1652
+#: C:\temp\tr/aioseop.class.php:1673
+#: C:\temp\tr/aioseop.class.php:1694
+#: C:\temp\tr/aioseop.class.php:1715
+#: C:\temp\tr/aioseop.class.php:1737
+msgid "%blog_title% - Your blog title"
+msgstr "%blog_title% - Заголовок вашего блога"
+
+#: C:\temp\tr/aioseop.class.php:1579
+#: C:\temp\tr/aioseop.class.php:1606
+#: C:\temp\tr/aioseop.class.php:1631
+#: C:\temp\tr/aioseop.class.php:1653
+#: C:\temp\tr/aioseop.class.php:1674
+#: C:\temp\tr/aioseop.class.php:1695
+#: C:\temp\tr/aioseop.class.php:1716
+#: C:\temp\tr/aioseop.class.php:1738
+msgid "%blog_description% - Your blog description"
+msgstr "%blog_description% - Описание вашего блога"
+
+#: C:\temp\tr/aioseop.class.php:1580
+msgid "%post_title% - The original title of the post"
+msgstr "%post_title% - Оригинальный заголовок записи"
+
+#: C:\temp\tr/aioseop.class.php:1581
+msgid "%category_title% - The (main) category of the post"
+msgstr "%category_title% - Основная рубрика записи"
+
+#: C:\temp\tr/aioseop.class.php:1582
+msgid "%category% - Alias for %category_title%"
+msgstr "%category% - Псевдоним для %category_title%"
+
+#: C:\temp\tr/aioseop.class.php:1583
+msgid "%post_author_login% - This post's author' login"
+msgstr "%post_author_login% - ИМЯ ПОЛЬЗОВАТЕЛЯ автора этой записи"
+
+#: C:\temp\tr/aioseop.class.php:1584
+msgid "%post_author_nicename% - This post's author' nicename"
+msgstr "%post_author_nicename% - НИК автора этой записи"
+
+#: C:\temp\tr/aioseop.class.php:1585
+msgid "%post_author_firstname% - This post's author' first name (capitalized)"
+msgstr "%post_author_firstname% - ИМЯ(Большими буквами) автора этой записи"
+
+#: C:\temp\tr/aioseop.class.php:1586
+msgid "%post_author_lastname% - This post's author' last name (capitalized)"
+msgstr "%post_author_lastname% - ФАМИЛИЯ(Большими буквами) автора этой записи"
+
+#: C:\temp\tr/aioseop.class.php:1596
+msgid "Page Title Format:"
+msgstr "Формат заголовка страницы:"
+
+#: C:\temp\tr/aioseop.class.php:1607
+msgid "%page_title% - The original title of the page"
+msgstr "%page_title% - Оригинальный заголовок страницы"
+
+#: C:\temp\tr/aioseop.class.php:1608
+msgid "%page_author_login% - This page's author' login"
+msgstr "%page_author_login% - ИМЯ ПОЛЬЗОВАТЕЛЯ автора этой страницы"
+
+#: C:\temp\tr/aioseop.class.php:1609
+msgid "%page_author_nicename% - This page's author' nicename"
+msgstr "%page_author_nicename% - НИК автора этой страницы"
+
+#: C:\temp\tr/aioseop.class.php:1610
+msgid "%page_author_firstname% - This page's author' first name (capitalized)"
+msgstr "%page_author_firstname% - ИМЯ(Большими буквами) автора этой страницы"
+
+#: C:\temp\tr/aioseop.class.php:1611
+msgid "%page_author_lastname% - This page's author' last name (capitalized)"
+msgstr "%page_author_lastname% - ФАМИЛИЯ(Большими буквами) автора этой страницы"
+
+#: C:\temp\tr/aioseop.class.php:1621
+msgid "Category Title Format:"
+msgstr "Формат заголовка рубрики:"
+
+#: C:\temp\tr/aioseop.class.php:1632
+msgid "%category_title% - The original title of the category"
+msgstr "%category_title% - Оригинальный заголовок рубрики"
+
+#: C:\temp\tr/aioseop.class.php:1633
+msgid "%category_description% - The description of the category"
+msgstr "%category_description% - Описание рубрики"
+
+#: C:\temp\tr/aioseop.class.php:1643
+msgid "Archive Title Format:"
+msgstr "Формат заголовка архива:"
+
+#: C:\temp\tr/aioseop.class.php:1654
+msgid "%date% - The original archive title given by wordpress, e.g. \"2007\" or \"2007 August\""
+msgstr "%date% - Оригинальный заголовок архива, который дается wordpress'ом, например \"2007\" или \"2007 Август\" "
+
+#: C:\temp\tr/aioseop.class.php:1664
+msgid "Tag Title Format:"
+msgstr "Формат заголовка тега:"
+
+#: C:\temp\tr/aioseop.class.php:1675
+msgid "%tag% - The name of the tag"
+msgstr "%tag% - Имя тега (метки)"
+
+#: C:\temp\tr/aioseop.class.php:1685
+msgid "Search Title Format:"
+msgstr "Формат заголовка поиска:"
+
+#: C:\temp\tr/aioseop.class.php:1696
+msgid "%search% - What was searched for"
+msgstr "%search% - Что искали (слово,выражение)"
+
+#: C:\temp\tr/aioseop.class.php:1706
+msgid "Description Format:"
+msgstr "Формат описания:"
+
+#: C:\temp\tr/aioseop.class.php:1717
+msgid "%description% - The original description as determined by the plugin, e.g. the excerpt if one is set or an auto-generated one if that option is set"
+msgstr "%description% - Оригинальное описание, определяемое плагином, например: цитата(excerpt) если установлена или автоматически-генерируемая если задана эта опция"
+
+#: C:\temp\tr/aioseop.class.php:1718
+msgid "%wp_title% - The original wordpress title, e.g. post_title for posts"
+msgstr "%wp_title% - Оригинальный заголовок wordpress, например post_title для записей"
+
+#: C:\temp\tr/aioseop.class.php:1728
+msgid "404 Title Format:"
+msgstr "Формат заголовка страницы 404 ошибки:"
+
+#: C:\temp\tr/aioseop.class.php:1739
+msgid "%request_url% - The original URL path, like \"/url-that-does-not-exist/\""
+msgstr "%request_url% - Оригинальный путь URL, например \"/url-that-does-not-exist/\""
+
+#: C:\temp\tr/aioseop.class.php:1740
+msgid "%request_words% - The URL path in human readable form, like \"Url That Does Not Exist\""
+msgstr "%request_words% - Путь URL в понятной человеку форме, например \"Url который не существует\""
+
+#: C:\temp\tr/aioseop.class.php:1741
+msgid "%404_title% - Additional 404 title input\""
+msgstr "%404_title% - ввод дополнительного заголовка страницы 404\""
+
+#: C:\temp\tr/aioseop.class.php:1751
+msgid "Paged Format:"
+msgstr "Формат навигации по страницам:"
+
+#: C:\temp\tr/aioseop.class.php:1758
+msgid "This string gets appended/prepended to titles when they are for paged index pages (like home or archive pages)."
+msgstr "Эта строка добавляется в заголовки, создающиеся в индексных страницах (такие как страницы архивов или домашней страницы)."
+
+#: C:\temp\tr/aioseop.class.php:1761
+msgid "%page% - The page number"
+msgstr "%page% - Номер страницы"
+
+#: C:\temp\tr/aioseop.class.php:1771
+msgid "Use Categories for META keywords:"
+msgstr "Использовать рубрики для META keywords:"
+
+#: C:\temp\tr/aioseop.class.php:1777
+msgid "Check this if you want your categories for a given post used as the META keywords for this post (in addition to any keywords and tags you specify on the post edit page)."
+msgstr "Отметьте это если вы хотите использовать ваши рубрики записи как META keywords этой записи (в дополнение ко всем ключевым словам и тегам, которые вы задали на странице редактирования записи)."
+
+#: C:\temp\tr/aioseop.class.php:1786
+msgid "Dynamically Generate Keywords for Posts Page:"
+msgstr "Динамически генерировать ключевые слова для страниц записей:"
+
+#: C:\temp\tr/aioseop.class.php:1792
+msgid "Check this if you want your keywords on a custom posts page (set it in options->reading) to be dynamically generated from the keywords of the posts showing on that page.  If unchecked, it will use the keywords set in the edit page screen for the posts page."
+msgstr "Отметьте здесь если вы хотите чтобы ваши ключевые слова на произвольных страницах записей (установите это в Настройки->Чтение) динамически создавались из ключевых слов записей без показа их на странице. Если снять галочку, будут использоваться ключевые слова, введенные на странице редактирования записи."
+
+#: C:\temp\tr/aioseop.class.php:1801
+msgid "Use noindex for Categories:"
+msgstr "Использовать тег <strong>noindex</strong> для рубрик:"
+
+#: C:\temp\tr/aioseop.class.php:1808
+msgid "Check this for excluding category pages from being crawled. Useful for avoiding duplicate content."
+msgstr "Отметьте это чтобы запретить поисковым роботам индексацию страниц рубрик. Полезно чтобы избежать повторяющегося контента."
+
+#: C:\temp\tr/aioseop.class.php:1817
+msgid "Use noindex for Archives:"
+msgstr "Использовать тег <strong>noindex</strong> для архивов:"
+
+#: C:\temp\tr/aioseop.class.php:1824
+msgid "Check this for excluding archive pages from being crawled. Useful for avoiding duplicate content."
+msgstr "Отметьте это чтобы запретить поисковым роботам индексацию страниц архивов. Полезно чтобы избежать повторяющегося контента."
+
+#: C:\temp\tr/aioseop.class.php:1833
+msgid "Use noindex for Tag Archives:"
+msgstr "Использовать тег <strong>noindex</strong> для архивов по тегам:"
+
+#: C:\temp\tr/aioseop.class.php:1840
+msgid "Check this for excluding tag pages from being crawled. Useful for avoiding duplicate content."
+msgstr "Отметьте это чтобы запретить поисковым роботам индексацию страниц тегов. Полезно чтобы избежать повторяющегося контента."
+
+#: C:\temp\tr/aioseop.class.php:1849
+msgid "Autogenerate Descriptions:"
+msgstr "Автоматически генерируемое описание:"
+
+#: C:\temp\tr/aioseop.class.php:1856
+msgid "Check this and your META descriptions will get autogenerated if there's no excerpt."
+msgstr "Отметьте это и ваши META описания будут генерироваться автоматически если не имеют цитат (excerpt). "
+
+#: C:\temp\tr/aioseop.class.php:1865
+msgid "Additional Post Headers:"
+msgstr "Дополнительные заголовки записи:"
+
+#: C:\temp\tr/aioseop.class.php:1872
+msgid "What you enter here will be copied verbatim to your header on post pages. You can enter whatever additional headers you want here, even references to stylesheets."
+msgstr "То, что вы здесь введете будет скопировано дословно в ваш заголовок страниц записей. Вы можете ввести любые дополнительные заголовки здесь, и даже ссылки на ваши таблицы стилей (css)."
+
+#: C:\temp\tr/aioseop.class.php:1881
+msgid "Additional Page Headers:"
+msgstr "Дополнительные заголовки страницы:"
+
+#: C:\temp\tr/aioseop.class.php:1888
+msgid "What you enter here will be copied verbatim to your header on pages. You can enter whatever additional headers you want here, even references to stylesheets."
+msgstr "То, что вы здесь введете будет скопировано дословно в ваш заголовок страниц. Вы можете ввести любые дополнительные заголовки здесь, и даже ссылки на ваши таблицы стилей (css)."
+
+#: C:\temp\tr/aioseop.class.php:1897
+msgid "Additional Home Headers:"
+msgstr "Дополнительные заголовки записи:"
+
+#: C:\temp\tr/aioseop.class.php:1904
+msgid "What you enter here will be copied verbatim to your header on the home page. You can enter whatever additional headers you want here, even references to stylesheets."
+msgstr "То, что вы здесь введете будет скопировано дословно в ваш заголовок главной страницы. Вы можете ввести любые дополнительные заголовки здесь, и даже ссылки на ваши таблицы стилей (css)."
+
+#: C:\temp\tr/aioseop.class.php:1913
+msgid "Log important events:"
+msgstr "Записывать важные события в журнал:"
+
+#: C:\temp\tr/aioseop.class.php:1920
+msgid "Check this and SEO pack will create a log of important events (all_in_one_seo_pack.log) in its plugin directory which might help debugging it. Make sure this directory is writable."
+msgstr "Отметьте это и SEO-набор создаст лог важных событий (all_in_one_seo_pack.log) в директории плагина, который поможет при отладке работы. Удостоверьтесь что в директорию разрешена запись."
+
+#: C:\temp\tr/aioseop.class.php:1930
+msgid "Thank you for your donation:"
+msgstr "Спасибо за ваше пожертвование:"
+
+#: C:\temp\tr/aioseop.class.php:1949
+msgid "Update Options"
+msgstr "Обновить настройки"
+
+#~ msgid "This is version "
+#~ msgstr "Текущая версия "
+#~ msgid "All in One SEO Plugin Feedback"
+#~ msgstr "Обратная связь с автором плагина SEO все-в-одном"
+#~ msgid "Feedback"
+#~ msgstr "Обратная связь"
+#~ msgid ""
+#~ "Upgraded to newest version. Please revisit the options page to make sure "
+#~ "you see the newest version."
+#~ msgstr ""
+#~ "Обновлено до новейшей версии. Пожалуйста, посетите вашу страницу настроек "
+#~ "заново чтобы быть уверенными что вы видите новую версию."
+#~ msgid "Upgrade failed"
+#~ msgstr "Неудачное обновление"
+#~ msgid "(Remember: Backup early, backup often!)"
+#~ msgstr "(Помните: прежде делайте бэкап и почаще)"
+#~ msgid "Please make sure that %s is writable."
+#~ msgstr "Пожалуйста, будьте уверены что папка %s открыта для записи."
+#~ msgid "One Click Upgrade"
+#~ msgstr "Обновление в один клик"
+#~ msgid "Should I upgrade?"
+#~ msgstr "Зачем мне обновляться?"
+#~ msgid "Additional META:"
+#~ msgstr "Дополнительные META:"
+#~ msgid "Part %page%"
+#~ msgstr "Часть %page%"
+

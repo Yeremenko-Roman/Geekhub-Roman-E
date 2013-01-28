@@ -1,0 +1,165 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Comment Toolbar\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-06-11 11:43+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: cristianofino.net <cristiano.fino@bbs.olografix.org>\n"
+"Language-Team: cristianofino.NET\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../cf_comment_toolbar.php:35
+msgid "Reply"
+msgstr ""
+
+#: ../cf_comment_toolbar.php:36
+msgid "Quote"
+msgstr ""
+
+#: ../cf_comment_toolbar.php:37
+msgid "wrote"
+msgstr ""
+
+#: ../cf_comment_toolbar.php:143
+msgid "Options saved."
+msgstr ""
+
+#: ../cf_comment_toolbar.php:148
+msgid "Comment Toolbar Plugin Options"
+msgstr ""
+
+#: ../cf_comment_toolbar.php:156
+msgid "Label of 'Reply' button (or link):"
+msgstr ""
+
+#: ../cf_comment_toolbar.php:160
+#: ../cf_comment_toolbar.php:169
+msgid "(to not display, leave blank)"
+msgstr ""
+
+#: ../cf_comment_toolbar.php:165
+msgid "Label of 'Quote' button (or link):"
+msgstr ""
+
+#: ../cf_comment_toolbar.php:174
+msgid "Text message of 'Quote' action:"
+msgstr ""
+
+#: ../cf_comment_toolbar.php:182
+msgid "Characters of separation between the buttons (or links):"
+msgstr ""
+
+#: ../cf_comment_toolbar.php:186
+msgid "(you can insert HTML code also)"
+msgstr ""
+
+#: ../cf_comment_toolbar.php:191
+msgid "Enclose commentator's name in html tag &lt;b&gt;...&lt;/b&gt; :"
+msgstr ""
+
+#: ../cf_comment_toolbar.php:195
+#: ../cf_comment_toolbar.php:206
+#: ../cf_comment_toolbar.php:263
+#: ../cf_comment_toolbar.php:275
+msgid "No"
+msgstr ""
+
+#: ../cf_comment_toolbar.php:196
+#: ../cf_comment_toolbar.php:207
+#: ../cf_comment_toolbar.php:264
+#: ../cf_comment_toolbar.php:276
+msgid "Yes"
+msgstr ""
+
+#: ../cf_comment_toolbar.php:202
+msgid "Add a link to his commentary on the name of the commentator :"
+msgstr ""
+
+#: ../cf_comment_toolbar.php:213
+msgid "Text to insert in anchor link, before comment ID :"
+msgstr ""
+
+#: ../cf_comment_toolbar.php:217
+msgid "(Insert <b>co_</b> if you do not know the format's links to comments of your theme)"
+msgstr ""
+
+#: ../cf_comment_toolbar.php:222
+msgid "Toolbar style:"
+msgstr ""
+
+#: ../cf_comment_toolbar.php:226
+msgid "Buttons"
+msgstr ""
+
+#: ../cf_comment_toolbar.php:227
+msgid "Links"
+msgstr ""
+
+#: ../cf_comment_toolbar.php:228
+msgid "Images"
+msgstr ""
+
+#: ../cf_comment_toolbar.php:230
+msgid "To customize the graphic appearance of image buttons, replace files 'first.png','previous.png', 'next.png', 'last.png', 'reply.png','quote.png', in the plugin's <b>images</b> folder using the same names for files"
+msgstr ""
+
+#: ../cf_comment_toolbar.php:235
+msgid "Toolbar position:"
+msgstr ""
+
+#: ../cf_comment_toolbar.php:239
+msgid "Top of comment"
+msgstr ""
+
+#: ../cf_comment_toolbar.php:240
+msgid "Bottom of comment"
+msgstr ""
+
+#: ../cf_comment_toolbar.php:246
+msgid "Toolbar alignment:"
+msgstr ""
+
+#: ../cf_comment_toolbar.php:250
+msgid "Left"
+msgstr ""
+
+#: ../cf_comment_toolbar.php:251
+msgid "Right"
+msgstr ""
+
+#: ../cf_comment_toolbar.php:252
+msgid "Center"
+msgstr ""
+
+#: ../cf_comment_toolbar.php:253
+msgid "CSS style settings"
+msgstr ""
+
+#: ../cf_comment_toolbar.php:259
+msgid "Show buttons to navigate on your comments :"
+msgstr ""
+
+#: ../cf_comment_toolbar.php:266
+#: ../cf_comment_toolbar.php:278
+msgid "This feature is automatically disabled when using the paging of the comments"
+msgstr ""
+
+#: ../cf_comment_toolbar.php:271
+msgid "Enable smooth scrolling :"
+msgstr ""
+
+#: ../cf_comment_toolbar.php:283
+msgid "Update Options"
+msgstr ""
+
+#: ../cf_comment_toolbar.php:327
+#: ../cf_comment_toolbar.php:352
+msgid "Go to comment of this author"
+msgstr ""
+

@@ -1,0 +1,235 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 0.2\n"
+"Report-Msgid-Bugs-To: vladimir@sjinks.org.ua\n"
+"POT-Creation-Date: 2008-06-22 06:56+0300\n"
+"PO-Revision-Date: 2008-06-22 06:58+0300\n"
+"Last-Translator: Vladimir Kolesnikov <vladimir@sjinks.org.ua>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: template.php:2
+msgid "Add to Social Bookmarks"
+msgstr ""
+
+#: template.php:4
+msgid "Add to Blink"
+msgstr ""
+
+#: template.php:4
+msgid "Blink"
+msgstr ""
+
+#: template.php:5
+msgid "Add to del.ici.ous"
+msgstr ""
+
+#: template.php:5
+msgid "del.ici.ous"
+msgstr ""
+
+#: template.php:6
+msgid "Add to Digg"
+msgstr ""
+
+#: template.php:6
+msgid "Digg"
+msgstr ""
+
+#: template.php:7
+msgid "Add to Furl"
+msgstr ""
+
+#: template.php:7
+msgid "Furl"
+msgstr ""
+
+#: template.php:8
+msgid "Add to Google"
+msgstr ""
+
+#: template.php:8
+msgid "Google"
+msgstr ""
+
+#: template.php:9
+msgid "Add to Simpy"
+msgstr ""
+
+#: template.php:9
+msgid "Simpy"
+msgstr ""
+
+#: template.php:10
+msgid "Add to Spurl"
+msgstr ""
+
+#: template.php:10
+msgid "Spurl"
+msgstr ""
+
+#: template.php:11
+msgid "Add to Y! MyWeb"
+msgstr ""
+
+#: template.php:11
+msgid "Y! MyWeb"
+msgstr ""
+
+#: template.php:12
+msgid "Add to BobrDobr"
+msgstr ""
+
+#: template.php:12
+msgid "BobrDobr"
+msgstr ""
+
+#: template.php:13
+msgid "Add to Mister Wong"
+msgstr ""
+
+#: template.php:13
+msgid "Mr. Wong"
+msgstr ""
+
+#: template.php:14
+msgid "Add to Yandex.Bookmarks"
+msgstr ""
+
+#: template.php:14
+msgid "Yandex.Bookmarks"
+msgstr ""
+
+#: template.php:15
+msgid "Add to Text 2.0"
+msgstr ""
+
+#: template.php:15
+msgid "Text 2.0"
+msgstr ""
+
+#: template.php:16
+msgid "Add to News2"
+msgstr ""
+
+#: template.php:16
+msgid "News2"
+msgstr ""
+
+#: template.php:17
+msgid "Add to AddScoop"
+msgstr ""
+
+#: template.php:17
+msgid "AddScoop"
+msgstr ""
+
+#: template.php:18
+msgid "Add to RuSpace"
+msgstr ""
+
+#: template.php:18
+msgid "RuSpace"
+msgstr ""
+
+#: template.php:19
+msgid "Add to RUmarkz"
+msgstr ""
+
+#: template.php:19
+msgid "RUmarkz"
+msgstr ""
+
+#: template.php:20
+msgid "Add to Memori"
+msgstr ""
+
+#: template.php:20
+msgid "Memori"
+msgstr ""
+
+#: template.php:21
+msgid "Add to Google Bookmarks"
+msgstr ""
+
+#: template.php:21
+msgid "Google Bookmarks"
+msgstr ""
+
+#: template.php:22
+msgid "Add to Pisali"
+msgstr ""
+
+#: template.php:22
+msgid "Pisali"
+msgstr ""
+
+#: template.php:23
+msgid "Add to SMI 2"
+msgstr ""
+
+#: template.php:23
+msgid "SMI 2"
+msgstr ""
+
+#: template.php:24
+msgid "Add to Moe Mesto"
+msgstr ""
+
+#: template.php:24
+msgid "Moe Mesto"
+msgstr ""
+
+#: template.php:25
+msgid "Add to Sto Zakladok"
+msgstr ""
+
+#: template.php:25
+msgid "100 Zakladok"
+msgstr ""
+
+#: template.php:26
+msgid "Add to Vaau!"
+msgstr ""
+
+#: template.php:26
+msgid "Vaau!"
+msgstr ""
+
+#: template.php:27
+msgid "Add to Technorati"
+msgstr ""
+
+#: template.php:27
+msgid "Technorati"
+msgstr ""
+
+#: template.php:28
+msgid "Add to RuCity"
+msgstr ""
+
+#: template.php:28
+msgid "RuCity"
+msgstr ""
+
+#: template.php:29
+msgid "Add to LinkStore"
+msgstr ""
+
+#: template.php:29
+msgid "LinkStore"
+msgstr ""
+
+#: template.php:30
+msgid "Add to NewsLand"
+msgstr ""
+
+#: template.php:30
+msgid "NewsLand"
+msgstr ""
+
+#: onebutton.php:63 onebutton.php:67
+msgid "Add to Bookmarks"
+msgstr ""

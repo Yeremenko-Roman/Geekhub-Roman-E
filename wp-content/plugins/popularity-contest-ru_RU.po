@@ -1,0 +1,465 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Popularity Contest\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-07-12 22:49+0600\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Kalinin Ivan <lecactus@lecactus.ru>\n"
+"Language-Team: Lecactus <lecactus@lecactus.ru>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Russian\n"
+"X-Poedit-Country: RUSSIAN FEDERATION\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: X:\\web\\wordpress\\main\\project-wp281rus\\перевод\\wordpress\\wp-content\\plugins\\popularity-contest\n"
+
+#: X:\web\wordpress\main\project-wp281rus\ïåðåâîä\wordpress\wp-content\plugins\popularity-contest/popularity-contest.php:183
+msgid ""
+"\n"
+"<h2>Popularity Contest Installation Failed</h2>\n"
+"<p>Sorry, Popularity Contest was not successfully installed. Please try again, or try one of the following options for support:</p>\n"
+"<ul>\n"
+"\t<li><a href=\"http://wphelpcenter.com\">WordPress HelpCenter</a> (the official support provider for Popularity Contest)</li>\n"
+"\t<li><a href=\"http://wordpress.org\">WordPress Forums</a> (community support forums)</li>\n"
+"</ul>\n"
+"<p>If you are having trouble and need to disable Popularity Contest immediately, simply delete the popularity-contest.php file from within your wp-content/plugins directory.</p>\n"
+"\t\t\t\t\t"
+msgstr ""
+
+#: X:\web\wordpress\main\project-wp281rus\ïåðåâîä\wordpress\wp-content\plugins\popularity-contest/popularity-contest.php:794
+#: X:\web\wordpress\main\project-wp281rus\ïåðåâîä\wordpress\wp-content\plugins\popularity-contest/popularity-contest.php:800
+msgid "Yes"
+msgstr "Да"
+
+#: X:\web\wordpress\main\project-wp281rus\ïåðåâîä\wordpress\wp-content\plugins\popularity-contest/popularity-contest.php:795
+#: X:\web\wordpress\main\project-wp281rus\ïåðåâîä\wordpress\wp-content\plugins\popularity-contest/popularity-contest.php:801
+msgid "No"
+msgstr "Нет"
+
+#: X:\web\wordpress\main\project-wp281rus\ïåðåâîä\wordpress\wp-content\plugins\popularity-contest/popularity-contest.php:807
+#: X:\web\wordpress\main\project-wp281rus\ïåðåâîä\wordpress\wp-content\plugins\popularity-contest/popularity-contest.php:2182
+msgid "Popularity Contest Options"
+msgstr "Настройки рейтинга популярности"
+
+#: X:\web\wordpress\main\project-wp281rus\ïåðåâîä\wordpress\wp-content\plugins\popularity-contest/popularity-contest.php:810
+#: X:\web\wordpress\main\project-wp281rus\ïåðåâîä\wordpress\wp-content\plugins\popularity-contest/popularity-contest.php:2170
+msgid "Settings"
+msgstr "Настройки"
+
+#: X:\web\wordpress\main\project-wp281rus\ïåðåâîä\wordpress\wp-content\plugins\popularity-contest/popularity-contest.php:812
+msgid "Ignore views by site authors:"
+msgstr "Игнорировать просмотры авторов сайта:"
+
+#: X:\web\wordpress\main\project-wp281rus\ïåðåâîä\wordpress\wp-content\plugins\popularity-contest/popularity-contest.php:818
+msgid "Show popularity rank for posts:"
+msgstr "Показывать рейтинг популярности в записях:"
+
+#: X:\web\wordpress\main\project-wp281rus\ïåðåâîä\wordpress\wp-content\plugins\popularity-contest/popularity-contest.php:824
+msgid "Show the [?] help link:"
+msgstr "Показывать ссылку помощи [?]:"
+
+#: X:\web\wordpress\main\project-wp281rus\ïåðåâîä\wordpress\wp-content\plugins\popularity-contest/popularity-contest.php:830
+msgid "Search Engine Domains (space separated):"
+msgstr "Поисковые домены (разделяйте пробелами):"
+
+#: X:\web\wordpress\main\project-wp281rus\ïåðåâîä\wordpress\wp-content\plugins\popularity-contest/popularity-contest.php:835
+msgid "Popularity Values"
+msgstr "Значения Популярности"
+
+#: X:\web\wordpress\main\project-wp281rus\ïåðåâîä\wordpress\wp-content\plugins\popularity-contest/popularity-contest.php:836
+msgid "Adjust the values below as you see fit. When you save the new options the <a href=\"index.php?page=popularity-contest.php\"><strong>popularity rankings</strong></a> for your posts will be automatically updated to reflect the new values you have chosen."
+msgstr "Подстройте значения так, как вы считаете нужным. Когда вы сохраните новые настройки, <a href=\"index.php?page=popularity-contest.php\"><strong>ранжирование популярности</strong></a> для ваших записей будут автоматически обновлено чтобы отразить новые значения, которые Вы выбрали."
+
+#: X:\web\wordpress\main\project-wp281rus\ïåðåâîä\wordpress\wp-content\plugins\popularity-contest/popularity-contest.php:839
+msgid "Permalink Views:"
+msgstr "Просмотры одиночных записей:"
+
+#: X:\web\wordpress\main\project-wp281rus\ïåðåâîä\wordpress\wp-content\plugins\popularity-contest/popularity-contest.php:843
+msgid "Permalink Views from Search Engines:"
+msgstr "Просмотры постоянных ссылок поисковыми машинами:"
+
+#: X:\web\wordpress\main\project-wp281rus\ïåðåâîä\wordpress\wp-content\plugins\popularity-contest/popularity-contest.php:847
+msgid "Home Views:"
+msgstr "Просмотры на главной странице:"
+
+#: X:\web\wordpress\main\project-wp281rus\ïåðåâîä\wordpress\wp-content\plugins\popularity-contest/popularity-contest.php:851
+msgid "Archive Views:"
+msgstr "Просмотры архивов:"
+
+#: X:\web\wordpress\main\project-wp281rus\ïåðåâîä\wordpress\wp-content\plugins\popularity-contest/popularity-contest.php:855
+msgid "Category Views:"
+msgstr "Просмотры рубрик:"
+
+#: X:\web\wordpress\main\project-wp281rus\ïåðåâîä\wordpress\wp-content\plugins\popularity-contest/popularity-contest.php:859
+msgid "Tag Views:"
+msgstr "Просмотры меток:"
+
+#: X:\web\wordpress\main\project-wp281rus\ïåðåâîä\wordpress\wp-content\plugins\popularity-contest/popularity-contest.php:863
+msgid "Feed Views (full content only):"
+msgstr "Просмотры Feed'ов (только полное содержание):"
+
+#: X:\web\wordpress\main\project-wp281rus\ïåðåâîä\wordpress\wp-content\plugins\popularity-contest/popularity-contest.php:867
+msgid "Comments:"
+msgstr "Комментарии:"
+
+#: X:\web\wordpress\main\project-wp281rus\ïåðåâîä\wordpress\wp-content\plugins\popularity-contest/popularity-contest.php:871
+msgid "Pingbacks:"
+msgstr "Пинги:"
+
+#: X:\web\wordpress\main\project-wp281rus\ïåðåâîä\wordpress\wp-content\plugins\popularity-contest/popularity-contest.php:875
+msgid "Trackbacks:"
+msgstr "Трэкбеки:"
+
+#: X:\web\wordpress\main\project-wp281rus\ïåðåâîä\wordpress\wp-content\plugins\popularity-contest/popularity-contest.php:879
+msgid "Example"
+msgstr "Образец"
+
+#: X:\web\wordpress\main\project-wp281rus\ïåðåâîä\wordpress\wp-content\plugins\popularity-contest/popularity-contest.php:881
+msgid "Post #1 receives 11 Home Page Views (11 * 2 = 22), 6 Permalink Views (6 * 10 = 60) and 3 Comments (3 * 20 = 60) for a total value of: <strong>142</strong>"
+msgstr "Запись #1 получила 11 просмотров домашней страницы (11 * 2 = 22), 6 просмотров пермалинков (6 * 10 = 60) и имеет 3 комментария (3 * 20 = 60), итоговое значение получится:  <strong>142</strong>"
+
+#: X:\web\wordpress\main\project-wp281rus\ïåðåâîä\wordpress\wp-content\plugins\popularity-contest/popularity-contest.php:882
+msgid "Post #2 receives 7 Home Page Views (7 * 2 = 14), 10 Permalink Views (10 * 10 = 100), 7 Comments (7 * 20 = 140) and 3 Trackbacks (3 * 80 = 240) for a total value of: <strong>494</strong>"
+msgstr "Запись #2 получила 7 просмотров домашней страницы (7 * 2 = 14), 10 просмотров пермалинков (10 * 10 = 100), 7 комментариев (7 * 20 = 140) и имеет 3 трэкбека (3 * 80 = 240), итоговое значение получится: <strong>494</strong>"
+
+#: X:\web\wordpress\main\project-wp281rus\ïåðåâîä\wordpress\wp-content\plugins\popularity-contest/popularity-contest.php:888
+msgid "Save Popularity Contest Options"
+msgstr "Сохранить настройки Popularity Contest"
+
+#: X:\web\wordpress\main\project-wp281rus\ïåðåâîä\wordpress\wp-content\plugins\popularity-contest/popularity-contest.php:889
+msgid "Reset Comments/Trackback/Pingback Counts"
+msgstr "Сбросить счетчики Комментариев/Трэкбеков/Пингов"
+
+#: X:\web\wordpress\main\project-wp281rus\ïåðåâîä\wordpress\wp-content\plugins\popularity-contest/popularity-contest.php:896
+msgid "Popularity Contest Template Tags"
+msgstr "Теги шаблона для рейтинга популярности"
+
+#: X:\web\wordpress\main\project-wp281rus\ïåðåâîä\wordpress\wp-content\plugins\popularity-contest/popularity-contest.php:900
+msgid "Put this tag within <a href=\"http://codex.wordpress.org/The_Loop\">The Loop</a> to show the popularity of the post being shown. The popularity is shown as a percentage of your most popular post. For example, if the popularity total for Post #1 is 500 and your popular post has a total of 1000, this tag will show a value of <strong>50%</strong>."
+msgstr "Вставьте тег внутри <a href=\"http://codex.wordpress.org/The_Loop\">The Loop</a> чтобы отобразить популярность показываемой записи. Популярность показывается как процент от вашей самой популярной записи. Например, если общая популярность для Записи #1 равна 500, а вашей самой популярной записи равна 1000, этот тег покажет значение <strong>50%</strong>."
+
+#: X:\web\wordpress\main\project-wp281rus\ïåðåâîä\wordpress\wp-content\plugins\popularity-contest/popularity-contest.php:908
+msgid "Put this tag outside of <a href=\"http://codex.wordpress.org/The_Loop\">The Loop</a> (perhaps in your sidebar?) to show a list (like the archives/categories/links list) of your most popular posts. All arguments are optional, the defaults are included in the example above."
+msgstr "Вставьте этот тег вне The Loop (возможно в вашем сайдбаре?) чтобы показать список (такой как список архивов/рубрик/ссылок) ваших самых популярных записей. Все аргументы опциональны, значения по умолчанию включены в примере выше."
+
+#: X:\web\wordpress\main\project-wp281rus\ïåðåâîä\wordpress\wp-content\plugins\popularity-contest/popularity-contest.php:925
+msgid "Put this tag outside of <a href=\"http://codex.wordpress.org/The_Loop\">The Loop</a> (perhaps in your sidebar?) to show a list of the most popular posts in a specific category. You may want to use this on category archive pages. All arguments are"
+msgstr "Вставьте этот тег вне The Loop (возможно в вашем сайдбаре?) чтобы показать список самых популярных записей в выбранной рубрике. Вы можете использовать это на страницах архивов. Все аргументы"
+
+#: X:\web\wordpress\main\project-wp281rus\ïåðåâîä\wordpress\wp-content\plugins\popularity-contest/popularity-contest.php:943
+msgid "Put this tag outside of <a href=\"http://codex.wordpress.org/The_Loop\">The Loop</a> (perhaps in your sidebar?) to show a list of the most popular posts in a specific month. You may want to use this on monthly archive pages."
+msgstr "Вставьте этот тег вне The Loop (возможно в вашем сайдбаре?) чтобы показать список самых популярных записей в выбранном месяце. Вы можете использовать это на страницах архивов по месяцам."
+
+#: X:\web\wordpress\main\project-wp281rus\ïåðåâîä\wordpress\wp-content\plugins\popularity-contest/popularity-contest.php:961
+msgid "Put this tag outside of <a href=\"http://codex.wordpress.org/The_Loop\">The Loop</a> (perhaps in your sidebar?) to show a list of the most popular posts in the last (your chosen number, default = 45) days."
+msgstr "Вставьте этот тег вне <a href=\"http://codex.wordpress.org/The_Loop\">The Loop</a> (возможно в вашем сайдбаре?) чтобы показать список самых популярных записей за последние (выбранное вами количество, по умолчанию = 45) дни."
+
+#: X:\web\wordpress\main\project-wp281rus\ïåðåâîä\wordpress\wp-content\plugins\popularity-contest/popularity-contest.php:1237
+#: X:\web\wordpress\main\project-wp281rus\ïåðåâîä\wordpress\wp-content\plugins\popularity-contest/popularity-contest.php:2423
+msgid "Average by Category"
+msgstr "Среднее по рубрикам"
+
+#: X:\web\wordpress\main\project-wp281rus\ïåðåâîä\wordpress\wp-content\plugins\popularity-contest/popularity-contest.php:1249
+msgid "Average by Tag"
+msgstr "Среднее по меткам"
+
+#: X:\web\wordpress\main\project-wp281rus\ïåðåâîä\wordpress\wp-content\plugins\popularity-contest/popularity-contest.php:1262
+msgid " Average by Month"
+msgstr " Среднее по месяцам"
+
+#: X:\web\wordpress\main\project-wp281rus\ïåðåâîä\wordpress\wp-content\plugins\popularity-contest/popularity-contest.php:1295
+#: X:\web\wordpress\main\project-wp281rus\ïåðåâîä\wordpress\wp-content\plugins\popularity-contest/popularity-contest.php:2430
+msgid "Views w/o Feedback"
+msgstr "Просмотры без отзывов"
+
+#: X:\web\wordpress\main\project-wp281rus\ïåðåâîä\wordpress\wp-content\plugins\popularity-contest/popularity-contest.php:1302
+#: X:\web\wordpress\main\project-wp281rus\ïåðåâîä\wordpress\wp-content\plugins\popularity-contest/popularity-contest.php:1664
+msgid "Feedback"
+msgstr "Обратная связь"
+
+#: X:\web\wordpress\main\project-wp281rus\ïåðåâîä\wordpress\wp-content\plugins\popularity-contest/popularity-contest.php:1307
+msgid "Older Than 1 Year"
+msgstr "Старше 1 года"
+
+#: X:\web\wordpress\main\project-wp281rus\ïåðåâîä\wordpress\wp-content\plugins\popularity-contest/popularity-contest.php:1321
+#: X:\web\wordpress\main\project-wp281rus\ïåðåâîä\wordpress\wp-content\plugins\popularity-contest/popularity-contest.php:2424
+msgid "Last 30 Days"
+msgstr "Последние 30 дней"
+
+#: X:\web\wordpress\main\project-wp281rus\ïåðåâîä\wordpress\wp-content\plugins\popularity-contest/popularity-contest.php:1325
+#: X:\web\wordpress\main\project-wp281rus\ïåðåâîä\wordpress\wp-content\plugins\popularity-contest/popularity-contest.php:2425
+msgid "Last 60 Days"
+msgstr "Последние 60 дней"
+
+#: X:\web\wordpress\main\project-wp281rus\ïåðåâîä\wordpress\wp-content\plugins\popularity-contest/popularity-contest.php:1329
+#: X:\web\wordpress\main\project-wp281rus\ïåðåâîä\wordpress\wp-content\plugins\popularity-contest/popularity-contest.php:2426
+msgid "Last 90 Days"
+msgstr "Последние 90 дней"
+
+#: X:\web\wordpress\main\project-wp281rus\ïåðåâîä\wordpress\wp-content\plugins\popularity-contest/popularity-contest.php:1333
+msgid "Last Year"
+msgstr "Последний год"
+
+#: X:\web\wordpress\main\project-wp281rus\ïåðåâîä\wordpress\wp-content\plugins\popularity-contest/popularity-contest.php:1338
+msgid "Last Day"
+msgstr "Последний день"
+
+#: X:\web\wordpress\main\project-wp281rus\ïåðåâîä\wordpress\wp-content\plugins\popularity-contest/popularity-contest.php:1341
+#, php-format
+msgid "Last %s Days"
+msgstr "Последние %s дней"
+
+#: X:\web\wordpress\main\project-wp281rus\ïåðåâîä\wordpress\wp-content\plugins\popularity-contest/popularity-contest.php:1362
+#: X:\web\wordpress\main\project-wp281rus\ïåðåâîä\wordpress\wp-content\plugins\popularity-contest/popularity-contest.php:2433
+msgid "Feed Views"
+msgstr "Просмотры фидов"
+
+#: X:\web\wordpress\main\project-wp281rus\ïåðåâîä\wordpress\wp-content\plugins\popularity-contest/popularity-contest.php:1367
+#: X:\web\wordpress\main\project-wp281rus\ïåðåâîä\wordpress\wp-content\plugins\popularity-contest/popularity-contest.php:2434
+msgid "Home Page Views"
+msgstr "Просмотры на главной странице"
+
+#: X:\web\wordpress\main\project-wp281rus\ïåðåâîä\wordpress\wp-content\plugins\popularity-contest/popularity-contest.php:1372
+#: X:\web\wordpress\main\project-wp281rus\ïåðåâîä\wordpress\wp-content\plugins\popularity-contest/popularity-contest.php:2435
+msgid "Archive Views"
+msgstr "Просмотры архивов"
+
+#: X:\web\wordpress\main\project-wp281rus\ïåðåâîä\wordpress\wp-content\plugins\popularity-contest/popularity-contest.php:1377
+msgid "Category Views"
+msgstr "Просмотры рубрик"
+
+#: X:\web\wordpress\main\project-wp281rus\ïåðåâîä\wordpress\wp-content\plugins\popularity-contest/popularity-contest.php:1382
+msgid "Tag Views"
+msgstr "Просмотры меток"
+
+#: X:\web\wordpress\main\project-wp281rus\ïåðåâîä\wordpress\wp-content\plugins\popularity-contest/popularity-contest.php:1387
+msgid "Single Post Views"
+msgstr "Просмотры одиночных записей"
+
+#: X:\web\wordpress\main\project-wp281rus\ïåðåâîä\wordpress\wp-content\plugins\popularity-contest/popularity-contest.php:1392
+msgid "Search Engine Traffic"
+msgstr "Трафик поисковых систем"
+
+#: X:\web\wordpress\main\project-wp281rus\ïåðåâîä\wordpress\wp-content\plugins\popularity-contest/popularity-contest.php:1397
+msgid "Comments"
+msgstr "Комментарии"
+
+#: X:\web\wordpress\main\project-wp281rus\ïåðåâîä\wordpress\wp-content\plugins\popularity-contest/popularity-contest.php:1402
+#: X:\web\wordpress\main\project-wp281rus\ïåðåâîä\wordpress\wp-content\plugins\popularity-contest/popularity-contest.php:2437
+msgid "Pingbacks"
+msgstr "Пинги"
+
+#: X:\web\wordpress\main\project-wp281rus\ïåðåâîä\wordpress\wp-content\plugins\popularity-contest/popularity-contest.php:1407
+#: X:\web\wordpress\main\project-wp281rus\ïåðåâîä\wordpress\wp-content\plugins\popularity-contest/popularity-contest.php:2438
+msgid "Trackbacks"
+msgstr "Трэкбеки"
+
+#: X:\web\wordpress\main\project-wp281rus\ïåðåâîä\wordpress\wp-content\plugins\popularity-contest/popularity-contest.php:1420
+#: X:\web\wordpress\main\project-wp281rus\ïåðåâîä\wordpress\wp-content\plugins\popularity-contest/popularity-contest.php:1436
+#: X:\web\wordpress\main\project-wp281rus\ïåðåâîä\wordpress\wp-content\plugins\popularity-contest/popularity-contest.php:1453
+msgid "(none)"
+msgstr "(нет)"
+
+#: X:\web\wordpress\main\project-wp281rus\ïåðåâîä\wordpress\wp-content\plugins\popularity-contest/popularity-contest.php:1425
+msgid "Page Views"
+msgstr "Просмотры страниц"
+
+#: X:\web\wordpress\main\project-wp281rus\ïåðåâîä\wordpress\wp-content\plugins\popularity-contest/popularity-contest.php:1442
+#: X:\web\wordpress\main\project-wp281rus\ïåðåâîä\wordpress\wp-content\plugins\popularity-contest/popularity-contest.php:1626
+#: X:\web\wordpress\main\project-wp281rus\ïåðåâîä\wordpress\wp-content\plugins\popularity-contest/popularity-contest.php:2421
+msgid "Most Popular"
+msgstr "Самое популярное"
+
+#: X:\web\wordpress\main\project-wp281rus\ïåðåâîä\wordpress\wp-content\plugins\popularity-contest/popularity-contest.php:1493
+msgid "Title"
+msgstr "Заголовок"
+
+#: X:\web\wordpress\main\project-wp281rus\ïåðåâîä\wordpress\wp-content\plugins\popularity-contest/popularity-contest.php:1494
+#: X:\web\wordpress\main\project-wp281rus\ïåðåâîä\wordpress\wp-content\plugins\popularity-contest/popularity-contest.php:1703
+msgid "Categories"
+msgstr "Рубрики"
+
+#: X:\web\wordpress\main\project-wp281rus\ïåðåâîä\wordpress\wp-content\plugins\popularity-contest/popularity-contest.php:1495
+msgid "Single"
+msgstr "Одиночная"
+
+#: X:\web\wordpress\main\project-wp281rus\ïåðåâîä\wordpress\wp-content\plugins\popularity-contest/popularity-contest.php:1496
+msgid "Search"
+msgstr "Поиск"
+
+#: X:\web\wordpress\main\project-wp281rus\ïåðåâîä\wordpress\wp-content\plugins\popularity-contest/popularity-contest.php:1497
+msgid "Cat"
+msgstr "Рубрика"
+
+#: X:\web\wordpress\main\project-wp281rus\ïåðåâîä\wordpress\wp-content\plugins\popularity-contest/popularity-contest.php:1498
+msgid "Tag"
+msgstr "Метка"
+
+#: X:\web\wordpress\main\project-wp281rus\ïåðåâîä\wordpress\wp-content\plugins\popularity-contest/popularity-contest.php:1499
+msgid "Arch"
+msgstr "Архив"
+
+#: X:\web\wordpress\main\project-wp281rus\ïåðåâîä\wordpress\wp-content\plugins\popularity-contest/popularity-contest.php:1500
+msgid "Home"
+msgstr "Главная"
+
+#: X:\web\wordpress\main\project-wp281rus\ïåðåâîä\wordpress\wp-content\plugins\popularity-contest/popularity-contest.php:1501
+msgid "Feed"
+msgstr "Фид"
+
+#: X:\web\wordpress\main\project-wp281rus\ïåðåâîä\wordpress\wp-content\plugins\popularity-contest/popularity-contest.php:1502
+msgid "Com"
+msgstr "Комментарии"
+
+#: X:\web\wordpress\main\project-wp281rus\ïåðåâîä\wordpress\wp-content\plugins\popularity-contest/popularity-contest.php:1503
+msgid "Ping"
+msgstr "Пинг"
+
+#: X:\web\wordpress\main\project-wp281rus\ïåðåâîä\wordpress\wp-content\plugins\popularity-contest/popularity-contest.php:1504
+msgid "Track"
+msgstr "Трэкбек"
+
+#: X:\web\wordpress\main\project-wp281rus\ïåðåâîä\wordpress\wp-content\plugins\popularity-contest/popularity-contest.php:1612
+msgid "No posts found."
+msgstr "Не найдены записи."
+
+#: X:\web\wordpress\main\project-wp281rus\ïåðåâîä\wordpress\wp-content\plugins\popularity-contest/popularity-contest.php:1635
+msgid "Date Range"
+msgstr "Временной интервал"
+
+#: X:\web\wordpress\main\project-wp281rus\ïåðåâîä\wordpress\wp-content\plugins\popularity-contest/popularity-contest.php:1648
+msgid "Views"
+msgstr "Просмотры"
+
+#: X:\web\wordpress\main\project-wp281rus\ïåðåâîä\wordpress\wp-content\plugins\popularity-contest/popularity-contest.php:1675
+msgid "Averages"
+msgstr "Среднее"
+
+#: X:\web\wordpress\main\project-wp281rus\ïåðåâîä\wordpress\wp-content\plugins\popularity-contest/popularity-contest.php:1685
+msgid "Tags"
+msgstr "Метки"
+
+#: X:\web\wordpress\main\project-wp281rus\ïåðåâîä\wordpress\wp-content\plugins\popularity-contest/popularity-contest.php:1687
+msgid "Add report for tag:"
+msgstr "Добавить отчет для метки:"
+
+#: X:\web\wordpress\main\project-wp281rus\ïåðåâîä\wordpress\wp-content\plugins\popularity-contest/popularity-contest.php:1689
+msgid "Add"
+msgstr "Добавить"
+
+#: X:\web\wordpress\main\project-wp281rus\ïåðåâîä\wordpress\wp-content\plugins\popularity-contest/popularity-contest.php:1691
+msgid "Adding tag...popularity-contest"
+msgstr "Добавить метку...popularity-contest"
+
+#: X:\web\wordpress\main\project-wp281rus\ïåðåâîä\wordpress\wp-content\plugins\popularity-contest/popularity-contest.php:1699
+msgid "No tag reports chosen."
+msgstr "Никаких отчетов по меткам не было выбрано."
+
+#: X:\web\wordpress\main\project-wp281rus\ïåðåâîä\wordpress\wp-content\plugins\popularity-contest/popularity-contest.php:1734
+msgid "[X]"
+msgstr "[X]"
+
+#: X:\web\wordpress\main\project-wp281rus\ïåðåâîä\wordpress\wp-content\plugins\popularity-contest/popularity-contest.php:1738
+msgid "Removing..."
+msgstr "Удаление..."
+
+#: X:\web\wordpress\main\project-wp281rus\ïåðåâîä\wordpress\wp-content\plugins\popularity-contest/popularity-contest.php:1828
+msgid "What does this mean?"
+msgstr "Что это определяет?"
+
+#: X:\web\wordpress\main\project-wp281rus\ïåðåâîä\wordpress\wp-content\plugins\popularity-contest/popularity-contest.php:1834
+#: X:\web\wordpress\main\project-wp281rus\ïåðåâîä\wordpress\wp-content\plugins\popularity-contest/popularity-contest.php:1837
+msgid "Popularity:"
+msgstr "Популярность:"
+
+#: X:\web\wordpress\main\project-wp281rus\ïåðåâîä\wordpress\wp-content\plugins\popularity-contest/popularity-contest.php:1837
+msgid "unranked"
+msgstr "0"
+
+#: X:\web\wordpress\main\project-wp281rus\ïåðåâîä\wordpress\wp-content\plugins\popularity-contest/popularity-contest.php:2172
+msgid "Reports"
+msgstr "Отчеты"
+
+#: X:\web\wordpress\main\project-wp281rus\ïåðåâîä\wordpress\wp-content\plugins\popularity-contest/popularity-contest.php:2183
+msgid "Popularity"
+msgstr "Популярность"
+
+#: X:\web\wordpress\main\project-wp281rus\ïåðåâîä\wordpress\wp-content\plugins\popularity-contest/popularity-contest.php:2192
+#: X:\web\wordpress\main\project-wp281rus\ïåðåâîä\wordpress\wp-content\plugins\popularity-contest/popularity-contest.php:2193
+msgid "Most Popular Posts"
+msgstr "Самые популярные записи"
+
+#: X:\web\wordpress\main\project-wp281rus\ïåðåâîä\wordpress\wp-content\plugins\popularity-contest/popularity-contest.php:2313
+msgid "Show popular posts as ranked by Popularity Contest"
+msgstr "Показывать популярность записей как посчитанную Popularity Contest"
+
+#: X:\web\wordpress\main\project-wp281rus\ïåðåâîä\wordpress\wp-content\plugins\popularity-contest/popularity-contest.php:2314
+msgid "Popularity Contest"
+msgstr "Popularity Contest"
+
+#: X:\web\wordpress\main\project-wp281rus\ïåðåâîä\wordpress\wp-content\plugins\popularity-contest/popularity-contest.php:2416
+msgid "Widget Title"
+msgstr "Заголовок виджета"
+
+#: X:\web\wordpress\main\project-wp281rus\ïåðåâîä\wordpress\wp-content\plugins\popularity-contest/popularity-contest.php:2422
+msgid "By Category"
+msgstr "По рубрикам"
+
+#: X:\web\wordpress\main\project-wp281rus\ïåðåâîä\wordpress\wp-content\plugins\popularity-contest/popularity-contest.php:2427
+msgid "Last (n) Days"
+msgstr "Последние (n) дней"
+
+#: X:\web\wordpress\main\project-wp281rus\ïåðåâîä\wordpress\wp-content\plugins\popularity-contest/popularity-contest.php:2428
+msgid "Older than 1 Year"
+msgstr "Старше 1 года"
+
+#: X:\web\wordpress\main\project-wp281rus\ïåðåâîä\wordpress\wp-content\plugins\popularity-contest/popularity-contest.php:2429
+msgid "Average by Year"
+msgstr "Среднее по годам"
+
+#: X:\web\wordpress\main\project-wp281rus\ïåðåâîä\wordpress\wp-content\plugins\popularity-contest/popularity-contest.php:2431
+msgid "Most Feedback"
+msgstr "Самое обсуждаемое"
+
+#: X:\web\wordpress\main\project-wp281rus\ïåðåâîä\wordpress\wp-content\plugins\popularity-contest/popularity-contest.php:2432
+msgid "Most Commented"
+msgstr "Самое комментируемое"
+
+#: X:\web\wordpress\main\project-wp281rus\ïåðåâîä\wordpress\wp-content\plugins\popularity-contest/popularity-contest.php:2436
+msgid "Permalink Views"
+msgstr "Просмотры одиночных записей"
+
+#: X:\web\wordpress\main\project-wp281rus\ïåðåâîä\wordpress\wp-content\plugins\popularity-contest/popularity-contest.php:2441
+msgid "Report Type"
+msgstr "Тип отчета"
+
+#: X:\web\wordpress\main\project-wp281rus\ïåðåâîä\wordpress\wp-content\plugins\popularity-contest/popularity-contest.php:2454
+msgid "Number of days"
+msgstr "Количество дней"
+
+#: X:\web\wordpress\main\project-wp281rus\ïåðåâîä\wordpress\wp-content\plugins\popularity-contest/popularity-contest.php:2460
+msgid "Number of posts to display"
+msgstr "Количество отображаемых записей"
+
+#: X:\web\wordpress\main\project-wp281rus\ïåðåâîä\wordpress\wp-content\plugins\popularity-contest/popularity-contest.php:2465
+msgid "Exclude pages"
+msgstr "Исключить страницы"
+
+#: X:\web\wordpress\main\project-wp281rus\ïåðåâîä\wordpress\wp-content\plugins\popularity-contest/popularity-contest.php:2478
+#, php-format
+msgid "Sorry, could not find the requested tag: %s"
+msgstr "Извините, невозможно найти запрошенную метку: %s"
+
+#: X:\web\wordpress\main\project-wp281rus\ïåðåâîä\wordpress\wp-content\plugins\popularity-contest/popularity-contest.php:2481
+#, php-format
+msgid "Looks like you already have a report for tag: %s"
+msgstr "Похоже что у вас уже есть отчет для метки: %s"
+
+#~ msgid "Post"
+#~ msgstr "Запись"
+#~ msgid "Update Popularity Values"
+#~ msgstr "Обновить значения популярности"
+

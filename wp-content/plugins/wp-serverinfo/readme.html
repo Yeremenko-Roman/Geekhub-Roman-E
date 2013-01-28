@@ -1,0 +1,397 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>	
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<title>WP-ServerInfo 1.50 Readme</title>
+	<style type="text/css" media="screen">
+		/* Default Style */
+		BODY {
+			font-family: Verdana, Arial;
+			font-size: 12px;
+			color: #000000;
+			background: #FFFFFF;
+		}
+		P {
+			padding-left: 10px;
+		}
+		BLOCKQUOTE {
+			margin: 10px 20px 0px 20px;
+			padding: 10px;
+			border: 1px solid #8d8d8d;
+			background-color: #f5f5f5;
+		}
+		LI {
+			margin-top: 20px;
+		}
+		UL LI UL LI {
+			margin-top: 10px;
+		}
+		A, A:active, A:link, A:visited {
+			color: #2d3a4c;
+			text-decoration: none;
+		}
+		A:hover {
+			color: #5577a5;
+			text-decoration: underline;
+		}
+		/* Place Holder Style */
+		#Container {
+			width: 780px;
+			margin-left: auto;
+			margin-right: auto; 
+		}
+		#Content {
+			background-color: #fafafa;
+			border: 1px solid #a2b6cb;
+			padding: 10px;
+			margin-top: -13px;
+		}
+		/* Title Style */
+		#Title {
+			font-family: Verdana, Arial;
+			font-size: 22px;
+			font-weight: bold;
+			color: #389aff;
+			border-bottom: 1px solid #389aff;
+			margin-bottom: 10px;
+		}
+		.SubTitle {
+			font-family: Verdana, Arial;
+			font-size: 18px;
+			font-weight: bold;
+			color: #5b87b4;
+		}
+		.SubSubTitle {
+			font-family: Verdana, Arial;
+			font-size: 14px;
+			font-weight: bold;
+			color: #73a4d6;
+		}
+		/* Tabs */
+		UL#Tabs {
+			font-family: Verdana, Arial;
+			font-size: 12px;
+			font-weight: bold;
+			list-style-type: none;
+			padding-bottom: 28px;
+			border-bottom: 1px solid #a2b6cb;
+			margin-bottom: 12px;
+			z-index: 1;
+		}
+		#Tabs LI.Tab {
+			float: right;
+			height: 25px;
+			background-color: #deedfb;
+			margin: 2px 0px 0px 5px;
+			border: 1px solid #a2b6cb;
+		}
+		#Tabs LI.Tab A {
+			float: left;
+			display: block;
+			color: #666666;
+			text-decoration: none;
+			padding: 5px;
+		}
+		#Tabs LI.Tab A:hover {
+			background-color: #bfe0fe;
+			border-bottom: 1px solid #bfe0fe;
+		}
+		/* Selected Tab */
+		#Tabs LI.SelectedTab {
+			float: right;
+			height: 25px;
+			background-color: #fafafa;
+			margin: 2px 0px 0px 5px;
+			border-top: 1px solid #a2b6cb;
+			border-right: 1px solid #a2b6cb;
+			border-bottom: 1px solid #fafafa;
+			border-left: 1px solid #a2b6cb;
+		}
+		#Tabs LI.SelectedTab A {
+			float: left;
+			display: block;
+			color: #666666;
+			text-decoration: none;
+			padding: 5px;
+			cursor: default;
+		}
+		/* Copyright */
+		#Copyright {
+			text-align: center;
+		}
+	</style>
+	<script type="text/javascript">
+	/* <![CDATA[*/
+		// Index Page
+		function index() {
+			// Tab
+			document.getElementById('IndexTab').className = 'SelectedTab';
+			document.getElementById('ChangelogTab').className = 'Tab';
+			document.getElementById('InstallTab').className = 'Tab';
+			document.getElementById('UpgradeTab').className = 'Tab';
+			document.getElementById('UsageTab').className = 'Tab';
+			// Page
+			document.getElementById('Index').style.display= 'block';
+			document.getElementById('Changelog').style.display = 'none';
+			document.getElementById('Install').style.display = 'none';
+			document.getElementById('Upgrade').style.display = 'none';
+			document.getElementById('Usage').style.display = 'none';
+		}
+		// Changelog Page
+		function changelog() {
+			// Tab
+			document.getElementById('IndexTab').className = 'Tab';
+			document.getElementById('ChangelogTab').className = 'SelectedTab';
+			document.getElementById('InstallTab').className = 'Tab';
+			document.getElementById('UpgradeTab').className = 'Tab';
+			document.getElementById('UsageTab').className = 'Tab';
+			// Page
+			document.getElementById('Index').style.display = 'none';
+			document.getElementById('Changelog').style.display = 'block';
+			document.getElementById('Install').style.display = 'none';
+			document.getElementById('Upgrade').style.display = 'none';
+			document.getElementById('Usage').style.display = 'none';
+		}
+		// Installation Page
+		function install() {
+			// Tab
+			document.getElementById('IndexTab').className = 'Tab';
+			document.getElementById('ChangelogTab').className = 'Tab';
+			document.getElementById('InstallTab').className = 'SelectedTab';
+			document.getElementById('UpgradeTab').className = 'Tab';
+			document.getElementById('UsageTab').className = 'Tab';
+			// Page
+			document.getElementById('Index').style.display= 'none';
+			document.getElementById('Changelog').style.display = 'none';
+			document.getElementById('Install').style.display = 'block';
+			document.getElementById('Upgrade').style.display = 'none';
+			document.getElementById('Usage').style.display = 'none';
+		}
+		// Upgrade Page
+		function upgrade() {
+			// Tab
+			document.getElementById('IndexTab').className = 'Tab';
+			document.getElementById('ChangelogTab').className = 'Tab';
+			document.getElementById('InstallTab').className = 'Tab';
+			document.getElementById('UpgradeTab').className = 'SelectedTab';
+			document.getElementById('UsageTab').className = 'Tab';
+			// Page
+			document.getElementById('Index').style.display= 'none';
+			document.getElementById('Changelog').style.display = 'none';
+			document.getElementById('Install').style.display = 'none';
+			document.getElementById('Upgrade').style.display = 'block';
+			document.getElementById('Usage').style.display = 'none';
+		}
+		// Usage Page
+		function usage() {
+			// Tab
+			document.getElementById('IndexTab').className = 'Tab';
+			document.getElementById('ChangelogTab').className = 'Tab';
+			document.getElementById('InstallTab').className = 'Tab';
+			document.getElementById('UpgradeTab').className = 'Tab';
+			document.getElementById('UsageTab').className = 'SelectedTab';
+			// Page
+			document.getElementById('Index').style.display= 'none';
+			document.getElementById('Changelog').style.display = 'none';
+			document.getElementById('Install').style.display = 'none';
+			document.getElementById('Upgrade').style.display = 'none';
+			document.getElementById('Usage').style.display = 'block';
+		}
+	/* ]]> */
+	</script>
+</head>
+<body>
+<div id="Container">
+	<!-- Title -->
+	<div id="Title">WP-ServerInfo 1.50&nbsp;&nbsp;&nbsp;<span style="color: #aaaaaa;">Readme</span></div>
+
+	<!-- Tabs -->
+	<ul id="Tabs">
+		<li id="UsageTab" class="Tab"><a href="#Usage" onclick="usage(); return false;" title="Usage Instructions">Usage</a></li>
+		<li id="UpgradeTab" class="Tab"><a href="#Upgrade" onclick="upgrade(); return false;" title="Upgrade Instructions">Upgrade</a></li>
+		<li id="InstallTab" class="Tab"><a href="#Installation" onclick="install(); return false;" title="Installation Instructions">Installation</a></li>
+		<li id="ChangelogTab" class="Tab"><a href="#Changelog" onclick="changelog(); return false;" title="Changelog">Changelog</a></li>
+		<li id="IndexTab" class="SelectedTab"><a href="#Index" onclick="index(); return false;" title="Index Instructions">Index</a></li>
+	</ul>
+
+	<!-- Content -->
+	<div id="Content">
+		<!-- Index -->
+		<div id="Index">
+			<div class="SubTitle">&raquo; Index</div>
+			<div class="SubSubTitle">Plugin Information</div>
+			<p>
+				<strong>Author:</strong><br />
+				<strong>&raquo;</strong> Lester 'GaMerZ' Chan
+			</p>
+			<p>
+				<strong>Website:</strong><br />
+				<strong>&raquo;</strong> <a href="http://lesterchan.net/" title="http://lesterchan.net/">http://lesterchan.net/</a>
+			</p>
+			<p>
+				<strong>Features:</strong><br />
+				<strong>&raquo;</strong> Display your host's server PHP and MYSQL information (integrated into WordPress Admin Style) on your WordPress dashboard.
+			</p>
+			<p>
+				<strong>Download:</strong><br />
+				<strong>&raquo;</strong> <a href="http://downloads.wordpress.org/plugin/wp-serverinfo.1.50.zip" title="http://downloads.wordpress.org/plugin/wp-serverinfo.1.50.zip">WP-ServerInfo 1.50 For WordPress 2.8.x</a><br />
+				<strong>&raquo;</strong> <a href="http://downloads.wordpress.org/plugin/wp-serverinfo.1.40.zip" title="http://downloads.wordpress.org/plugin/wp-serverinfo.1.40.zip">WP-ServerInfo 1.40 For WordPress 2.7.x</a><br />
+				<strong>&raquo;</strong> <a href="http://downloads.wordpress.org/plugin/wp-serverinfo.1.31.zip" title="http://downloads.wordpress.org/plugin/wp-serverinfo.1.31.zip">WP-ServerInfo 1.31 For WordPress 2.5.x And 2.6.x</a><br />
+				<strong>&raquo;</strong> <a href="http://downloads.wordpress.org/plugin/wp-serverinfo.1.00.zip" title="http://downloads.wordpress.org/plugin/wp-serverinfo.1.00.zip">WP-ServerInfo 1.00 For WordPress 2.1.x, 2.2.x And 2.3.x</a><br />
+			</p>
+			<p>
+				<strong>Screenshots:</strong><br />
+				<strong>&raquo;</strong> <a href="http://lesterchan.net/wordpress/screenshots/browse/wp-serverinfo/" title="http://lesterchan.net/wordpress/screenshots/browse/wp-serverinfo/">http://lesterchan.net/wordpress/screenshots/browse/wp-serverinfo/</a>
+			</p>
+			<p>
+				<strong>Demo:</strong><br />
+				<strong>&raquo;</strong> N/A
+			</p>
+			<p>
+				<strong>Development:</strong><br />
+				<strong>&raquo;</strong> <a href="http://dev.wp-plugins.org/browser/wp-serverinfo/" title="http://dev.wp-plugins.org/browser/wp-serverinfo/">http://dev.wp-plugins.org/browser/wp-serverinfo/</a>
+			</p>
+			<p>
+				<strong>Translations:</strong><br />
+				<strong>&raquo;</strong> <a href="http://dev.wp-plugins.org/browser/wp-serverinfo/i18n/" title="http://dev.wp-plugins.org/browser/wp-serverinfo/i18n/">http://dev.wp-plugins.org/browser/wp-serverinfo/i18n/</a>
+			</p>
+			<p>
+				<strong>Support Forums:</strong><br />
+				<strong>&raquo;</strong> <a href="http://forums.lesterchan.net/index.php?board=25.0" title="http://forums.lesterchan.net/index.php?board=25.0">http://forums.lesterchan.net/index.php?board=25.0</a>
+			</p>
+			<p>
+				<strong>Credits:</strong><br />
+				<strong>&raquo;</strong> Right To Left Language Support by <a href="http://persian-programming.com/" title="http://persian-programming.com/">Kambiz R. Khojasteh</a>.
+			</p>
+			<p>
+				<strong>Note:</strong><br />
+				<strong>&raquo;</strong> The <strong>Changelog</strong>, <strong>Installation</strong>, <strong>Upgrade</strong>, <strong>Usage</strong> Tab at the top of the page.
+			</p>
+			<p>
+				<strong>Donations:</strong><br />
+				<strong>&raquo;</strong> I spent most of my free time creating, updating, maintaining and supporting these plugins, if you really love my plugins and could spare me a couple of bucks as my school allowance, I will really appericiate it. If not feel free to use it without any obligations. Thank You. My Paypal account is 
+				<script type="text/javascript">
+					/* <![CDATA[*/
+					document.write(' <strong>lesterchan@gmail.com</strong>.');
+					/* ]]> */
+				</script>
+			</p>
+		</div>
+
+		<!-- Changelog -->
+		<div id="Changelog" style="display: none;">
+			<div class="SubTitle">&raquo; Changelog</div>
+			<ul>
+				<li>
+					<strong>Version 1.50 (01-06-2009)</strong>
+					<ul>
+						<li>NEW: Works For WordPress 2.8</li>
+						<li>NEW: Minified Javascript Instead Of Packed Javascript</li>
+						<li>NEW: Renamed serverinfo-js-packed.js To serverinfo-js.js</li>
+						<li>NEW: Renamed serverinfo-js.js To pserverinfo-js.dev.js</li>
+						<li>NEW: Added "View all" Link To WP-ServerInfo Page On WP-ServerInfo Dashboard Widget</li>
+						<li>FIXED: Server Date/Time Too Fast</li>
+					</ul>
+				</li>
+				<li>
+					<strong>Version 1.40 (12-12-2008)</strong>
+					<ul>
+						<li>NEW: Works For WordPress 2.7 Only</li>
+						<li>NEW: Load Admin JS And CSS Only In WP-ServerInfo Dashboard Page</li>
+						<li>NEW: Right To Left Language Support by <a href="http://persian-programming.com/" title="http://persian-programming.com/">Kambiz R. Khojasteh</a></li>
+						<li>NEW: Uses plugins_url()</li>
+						<li>FIXED: SSL Support</li>
+						<li>FIXED: In "General Overview", Used format_filesize() To Format Size Related PHP Values by <a href="http://persian-programming.com/" title="http://persian-programming.com/">Kambiz R. Khojasteh</a></li>
+					</ul>
+				</li>
+				<li>
+					<strong>Version 1.31 (16-07-2008)</strong>
+					<ul>
+						<li>NEW: Works For WordPress 2.6</li>
+					</ul>
+				</li>
+				<li>
+					<strong>Version 1.30 (01-06-2008)</strong>
+					<ul>
+						<li>NEW: Works With WordPress 2.5 Only</li>
+						<li>NEW: Uses /wp-serverinfo/ Folder Instead Of /serverinfo/</li>
+						<li>NEW: Uses wp-serverinfo.php Instead Of serverinfo.php</li>
+						<li>NEW: Renamed serverinfo-js.php To serverinfo-js.js</li>
+						<li>NEW: Uses serverinfo-js-packed.js</li>
+						<li>NEW: Removed serverinfo-css.css</li>
+					</ul>
+				</li>
+				<li>
+					<strong>Version 1.00 (01-02-2007)</strong>
+					<ul>
+						<li>NEW: Initial Release</li>
+					</ul>
+				</li>
+			</ul>
+		</div>
+
+		<!-- Installation Instructions -->
+		<div id="Install" style="display: none;">
+			<div class="SubTitle">&raquo; Installation Instructions</div>
+			<ol>
+				<li>
+					Open <strong>wp-content/plugins</strong> Folder
+				</li>
+				<li>
+					Put:
+					<blockquote>Folder: wp-serverinfo</blockquote>
+				</li>
+				<li>
+					<strong>Activate</strong> WP-ServerInfo Plugin
+				</li>
+				<li>
+					Refer To <strong>Usage</strong> For Further Instructions
+				</li>
+			</ol>
+		</div>
+
+		<!-- Upgrade Instructions -->	
+		<div id="Upgrade" style="display: none;">
+			<div class="SubTitle">&raquo; Upgrade Instructions</div>
+			<div class="SubSubTitle">From v1.0x To v1.50</div>
+			<ol>
+				<li>
+					<strong>Deactivate</strong> WP-ServerInfo Plugin
+				</li>
+				<li>
+					Open <strong>wp-content/plugins</strong> Folder
+				</li>
+				<li>
+					Put/Overwrite:
+					<blockquote>Folder: wp-serverinfo</blockquote>
+				</li>
+				<li>
+					Delete this folder if exists:
+					<blockquote>
+						Folder: serverinfo
+					</blockquote>
+				</li>
+				<li>
+					<strong>Activate</strong> WP-ServerInfo Plugin
+				</li>
+				<li>
+					Refer To <strong>Usage</strong> For Further Instructions
+				</li>
+			</ol>
+		</div>
+
+		<!-- Usage Instructions -->	
+		<div id="Usage" style="display: none;">
+			<div class="SubTitle">&raquo; Usage Instructions</div>
+			<div class="SubSubTitle">General Usage</div>
+			<ol>
+				<li>
+					Go to '<strong>WP-Admin -> Dashboard -> WP-ServerInfo</strong>'
+				</li>
+			</ol>
+		</div>
+	</div>
+</div>
+<p id="Copyright">WP-ServerInfo 1.50<br />Copyright &copy; 2008 Lester 'GaMerZ' Chan. All Rights Reserved.</p>
+</body>
+</html>

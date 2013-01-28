@@ -1,0 +1,702 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Adminimize Russian\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-08-25 21:20+0600\n"
+"PO-Revision-Date: 2009-08-25 21:20+0600\n"
+"Last-Translator: Kalinin Ivan <lecactus@lecactus.ru>\n"
+"Language-Team: Lecactus <lecactus@lecactus.ru>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Language: Russian\n"
+"X-Poedit-Country: RUSSIAN FEDERATION\n"
+"X-Poedit-SearchPath-0: X:\\web\\wordpress\\main\\project-wp284rus\\перевод\\wordpress\\wp-content\\plugins\\adminimize\n"
+
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize.php:91
+msgid "Unknown error."
+msgstr "Неизвестная ошибка."
+
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize.php:98
+msgid "The updates was saved."
+msgstr "Настройки были сохранены."
+
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize.php:99
+msgid "You have not enough rights for edit entries in the database."
+msgstr "У вас нет прав для редактирования записей в базе данных."
+
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize.php:100
+msgid "All entries in the database was delleted."
+msgstr "Все записи в базе данных были удалены."
+
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize.php:101
+msgid "Set the checkbox on deinstall-button."
+msgstr "Установите галочку возле кнопки деинсталляции."
+
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize.php:102
+msgid "Can't load menu and submenu."
+msgstr "Невозможно загрузить меню или подменю."
+
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize.php:103
+msgid "Backend-Theme was activated!"
+msgstr "Тема админки активирована!"
+
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize.php:104
+msgid "Load user data to themes was successful."
+msgstr "Успешная загрузка пользовательских данных в Темы."
+
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize.php:355
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize_page.php:411
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize_page.php:845
+msgid "Categories"
+msgstr "Рубрики"
+
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize.php:361
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize.php:372
+msgid "+ Add New Category"
+msgstr "+ Добавить новую рубрику"
+
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize.php:363
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize.php:374
+msgid "New category name"
+msgstr "Имя новой рубрики"
+
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize.php:364
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize.php:376
+msgid "Parent category"
+msgstr "Родительская рубрика"
+
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize.php:365
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize.php:377
+msgid "Add"
+msgstr "Добавить"
+
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize.php:374
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize_page.php:412
+msgid "Add New Category"
+msgstr "Добавить новую рубрику"
+
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize.php:398
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize.php:399
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize_page.php:410
+msgid "Tags"
+msgstr "Метки"
+
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize.php:439
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize.php:453
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize.php:467
+msgid "Blue"
+msgstr "Голубой"
+
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize.php:446
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize.php:460
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize.php:474
+msgid "Gray"
+msgstr "Серый"
+
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize.php:482
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize.php:524
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize.php:547
+msgid "Classic"
+msgstr "Классический"
+
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize.php:489
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize.php:531
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize.php:554
+msgid "Fresh"
+msgstr "Новый"
+
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize.php:496
+msgid "WordPress 2.3"
+msgstr "WordPress 2.3"
+
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize.php:503
+msgid "Maybe i'm colorblind"
+msgstr "Очень ярко и контрастно"
+
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize.php:510
+msgid "Grey"
+msgstr "Серый"
+
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize.php:638
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize.php:641
+msgid "Dashboard"
+msgstr "Доска объявлений"
+
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize.php:700
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize.php:702
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize.php:715
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize.php:717
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize.php:915
+msgid "Log Out"
+msgstr "Выход"
+
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize.php:934
+msgid "Visit plugin homepage"
+msgstr "Посетить домашнюю страницу плагина"
+
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize.php:937
+msgid "plugin"
+msgstr "плагин"
+
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize.php:937
+msgid "Version"
+msgstr "Версия"
+
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize.php:937
+msgid "History"
+msgstr "История"
+
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize.php:937
+msgid "Author"
+msgstr "Автор"
+
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize.php:940
+msgid "plugin activate"
+msgstr "плагин активирован"
+
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize.php:960
+msgid "Settings"
+msgstr "Настройки"
+
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize.php:1021
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize.php:1042
+msgid "<a href=\"http://wordpress.org/extend/plugins/adminimize/\">Documentation</a>"
+msgstr "<a href=\"http://wordpress.org/extend/plugins/adminimize/\">Документация</a>"
+
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize.php:1038
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize_page.php:85
+msgid "Adminimize"
+msgstr "Adminimize"
+
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize.php:1040
+msgid "Adminimize Options"
+msgstr "Настройки Adminimize"
+
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize.php:1059
+msgid "Cheatin&#8217; uh?"
+msgstr "Не балуйся :-)"
+
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize_page.php:89
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize_page.php:232
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize_page.php:346
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize_page.php:644
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize_page.php:726
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize_page.php:808
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize_page.php:929
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize_page.php:1025
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize_page.php:1045
+msgid "Click to toggle"
+msgstr "Щелкните чтобы переключить"
+
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize_page.php:90
+msgid "Backend Options"
+msgstr "Настройки админки"
+
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize_page.php:99
+msgid "User-Info"
+msgstr "Информация о пользователе"
+
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize_page.php:103
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize_page.php:116
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize_page.php:126
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize_page.php:136
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize_page.php:146
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize_page.php:156
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize_page.php:166
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize_page.php:176
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize_page.php:205
+msgid "Default"
+msgstr "По умолчанию"
+
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize_page.php:104
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize_page.php:127
+msgid "Hide"
+msgstr "Скрыть"
+
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize_page.php:105
+msgid "Only logout"
+msgstr "Только выход"
+
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize_page.php:106
+msgid "User &amp; Logout"
+msgstr "Профиль пользователя и выход"
+
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize_page.php:107
+msgid "The &quot;User-Info-area&quot; is on the top right side of the backend. You can hide or reduced show."
+msgstr "Профиль пользователя и выход в верхнем правом углу панели администрирования. Вы ожете скрыть или изменить ее вид."
+
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize_page.php:112
+msgid "Change User-Info, redirect to"
+msgstr "После изменения пользовательской информации, переадресовывать на"
+
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize_page.php:117
+msgid "Frontpage of the Blog"
+msgstr "Блог"
+
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize_page.php:118
+msgid "When the &quot;User-Info-area&quot; change it, then it is possible to change the redirect."
+msgstr "При изменении блока вывода информации о пользователе, возможно изменить перенаправление."
+
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize_page.php:122
+msgid "Footer"
+msgstr "Подвал"
+
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize_page.php:128
+msgid "The Footer-area kann hide, include all links and details."
+msgstr "Подвал админки можно скрыть, включая все ссылки и детали."
+
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize_page.php:132
+msgid "WriteScroll"
+msgstr "Прокрутка окна написания"
+
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize_page.php:137
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize_page.php:147
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize_page.php:157
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize_page.php:167
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize_page.php:177
+msgid "Activate"
+msgstr "Активировать"
+
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize_page.php:138
+msgid "With the WriteScroll option active, these pages will automatically scroll to an optimal position for editing, when you visit Write Post or Write Page."
+msgstr "При активной опции WriteScroll, страницы создание записей и страниц будут автоматически прокручиваться до оптимальной позации для редактирования."
+
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize_page.php:142
+msgid "Timestamp"
+msgstr "Дата и время"
+
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize_page.php:148
+msgid "Opens the post timestamp editing fields without you having to click the \"Edit\" link every time."
+msgstr "Открывает поле редактирования даты и времени без клика по ссылке \"Изменить\" каждый раз."
+
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize_page.php:152
+msgid "Thickbox FullScreen"
+msgstr "Полноэкранный режим Thickbox"
+
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize_page.php:158
+msgid "All Thickbox-function use the full area of the browser. Thickbox is for examble in upload media-files."
+msgstr "Все Thickbox-функции используют все пространство окна браузера. Thickbox например используется при загрузке медиа-файлов."
+
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize_page.php:162
+msgid "Flashuploader"
+msgstr "Флэш-загрузчик"
+
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize_page.php:168
+msgid "Disable the flashuploader and users use only the standard uploader."
+msgstr "Отключить флэш-загрузчик и использовать только стандартный загрузчик."
+
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize_page.php:172
+msgid "Advice in Footer"
+msgstr "Советы в Подвале"
+
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize_page.php:179
+msgid "In the Footer kann you display a advice for change the Default-design, (x)HTML is possible."
+msgstr "В «подвале» вы можете показать свою информацию, изменяя шаблон по умолчанию. Разрешено использовать (x)HTML."
+
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize_page.php:201
+msgid "Dashboard deaktivate, redirect to"
+msgstr "Когда Доска объявлений отключена, перенаправлять на "
+
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize_page.php:206
+msgid "Manage Posts"
+msgstr "Управление записями"
+
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize_page.php:207
+msgid "Manage Pages"
+msgstr "Управление страницами"
+
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize_page.php:208
+msgid "Write Post"
+msgstr "Создание записи"
+
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize_page.php:209
+msgid "Write Page"
+msgstr "Создание страницы"
+
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize_page.php:210
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize_page.php:417
+msgid "Comments"
+msgstr "Комментарии"
+
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize_page.php:211
+msgid "other Page"
+msgstr "другая страница"
+
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize_page.php:214
+msgid "You have deaktivate the Dashboard, please select a page for redirect?"
+msgstr "Если вы деактивируете «Доску объявлений», пожалуйста выберите страницу, на которую будет перенаправлен пользователь."
+
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize_page.php:223
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize_page.php:337
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize_page.php:635
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize_page.php:717
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize_page.php:799
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize_page.php:919
+msgid "Update Options"
+msgstr "Обновить настройки"
+
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize_page.php:233
+msgid "Global options"
+msgstr "Глобальные настройки"
+
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize_page.php:240
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize_page.php:312
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize_page.php:692
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize_page.php:774
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize_page.php:816
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize_page.php:894
+msgid "Option"
+msgstr "Настройка"
+
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize_page.php:243
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize_page.php:356
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize_page.php:655
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize_page.php:737
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize_page.php:819
+msgid "Deactivate for"
+msgstr "Отключить для "
+
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize_page.php:263
+msgid "Favorite Actions"
+msgstr "Любимые действия"
+
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize_page.php:264
+msgid "Screen-Meta"
+msgstr "Настройки экрана"
+
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize_page.php:265
+msgid "Screen Options"
+msgstr "Настройки экрана"
+
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize_page.php:266
+msgid "Contextual Help"
+msgstr "Контекстная помощь"
+
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize_page.php:267
+msgid "Admin Color Scheme"
+msgstr "Цветовая схема админки"
+
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize_page.php:311
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize_page.php:893
+msgid "Your own options"
+msgstr "Ваши собственные настройки"
+
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize_page.php:311
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize_page.php:691
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize_page.php:773
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize_page.php:893
+msgid "ID or class"
+msgstr "ID или класс"
+
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize_page.php:318
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize_page.php:698
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize_page.php:780
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize_page.php:900
+msgid "It is possible to add your own IDs or classes from elements and tags. You can find IDs and classes with the FireBug Add-on for Firefox. Assign a value and the associate name per line."
+msgstr "Существует возможность добавлять ваши собственные ID и классы из элементов и тегов. Вы можете найти ID-ы и классы с помощью аддона FireBug для FireFox. Переназначьте значения и связанные имена по одному в каждой строке."
+
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize_page.php:324
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize_page.php:704
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize_page.php:786
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize_page.php:906
+msgid "Possible nomination for ID or class. Separate multiple nomination through a carriage return."
+msgstr "Возможные номинанты на ID или классы.  Разделите несколько значений с помощью возврата каретки (нажатием «Enter»)."
+
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize_page.php:329
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize_page.php:709
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize_page.php:791
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize_page.php:911
+msgid "Possible IDs or classes. Separate multiple values through a carriage return."
+msgstr "Возможные ID или классы. Разделите несколько значений с помощью возврата каретки (нажатием «Enter»)."
+
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize_page.php:347
+msgid "Menu Options"
+msgstr "Настройки меню"
+
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize_page.php:353
+msgid "Menu options - Menu, <span style=\\\"font-weight: 400;\\\">Submenu</span>"
+msgstr "Настройки меню - Меню, <span style=\\\"font-weight: 400;\\\">Подменю</span>"
+
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize_page.php:409
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize_page.php:492
+msgid "Permalink"
+msgstr "Постоянная ссылка"
+
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize_page.php:413
+msgid "Excerpt"
+msgstr "Цитата"
+
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize_page.php:414
+msgid "Trackbacks"
+msgstr "Трэкбеки"
+
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize_page.php:415
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize_page.php:493
+msgid "Custom Fields"
+msgstr "Произвольные поля"
+
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize_page.php:416
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize_page.php:494
+msgid "Comments &amp; Pings"
+msgstr "Комментарии и уведомления"
+
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize_page.php:418
+msgid "Password Protect This Post"
+msgstr "Защитить запись паролем"
+
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize_page.php:419
+msgid "Post Author"
+msgstr "Автор записи"
+
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize_page.php:420
+msgid "Post Revisions"
+msgstr "Ревизии записи"
+
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize_page.php:421
+msgid "Related, Shortcuts"
+msgstr "Связанное, Ярлыки"
+
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize_page.php:422
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize_page.php:502
+msgid "Messenges"
+msgstr "Сообщения"
+
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize_page.php:423
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize_page.php:503
+msgid "h2: Advanced Options"
+msgstr "h2: Расширенные настройки"
+
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize_page.php:424
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize_page.php:504
+msgid "Media Buttons (all)"
+msgstr "Кнопки Медиа (все)"
+
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize_page.php:425
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize_page.php:505
+msgid "Word count"
+msgstr "Счетчик слов"
+
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize_page.php:426
+msgid "Post Slug, Slug Box"
+msgstr "Ярлык записи, блок ярлыка"
+
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize_page.php:427
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize_page.php:507
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize_page.php:849
+msgid "Publish Actions"
+msgstr "Действия публикации"
+
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize_page.php:431
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize_page.php:511
+msgid "Suggested tags from"
+msgstr "Связанные метки из"
+
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize_page.php:433
+msgid "Text Control"
+msgstr "Управление текстом"
+
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize_page.php:435
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize_page.php:513
+msgid "HTML Special Characters"
+msgstr "Специальные символы HTML"
+
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize_page.php:495
+msgid "Password Protect This Page"
+msgstr "Защитить страницу паролем"
+
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize_page.php:496
+msgid "Page Parent"
+msgstr "Родительская страница"
+
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize_page.php:497
+msgid "Page Template"
+msgstr "Шаблон страницы"
+
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize_page.php:498
+msgid "Page Order"
+msgstr "Порядковый номер страницы"
+
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize_page.php:499
+msgid "Page Author"
+msgstr "Автор"
+
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize_page.php:500
+msgid "Page Revisions"
+msgstr "Ревизии страницы"
+
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize_page.php:501
+msgid "Related"
+msgstr "Связанные"
+
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize_page.php:506
+msgid "Page Slug, Slug Box"
+msgstr "Ярлык страницы, блок ярлыка"
+
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize_page.php:551
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize_page.php:599
+msgid "After activate the check box it heavy attitudes will change."
+msgstr "После активации флажок изменится."
+
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize_page.php:582
+msgid "Profile"
+msgstr "Профиль"
+
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize_page.php:645
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize_page.php:652
+msgid "Write options - Post"
+msgstr "Настройки написания - Запись"
+
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize_page.php:691
+msgid "Your own post options"
+msgstr "Ваши собственные настройки записи"
+
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize_page.php:727
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize_page.php:734
+msgid "Write options - Page"
+msgstr "Настройки написания - Страница"
+
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize_page.php:773
+msgid "Your own page options"
+msgstr "Ваши собственные настройки страницы"
+
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize_page.php:809
+msgid "Links options"
+msgstr "Настройки ссылок"
+
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize_page.php:842
+msgid "Name"
+msgstr "Имя"
+
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize_page.php:843
+msgid "Web Address"
+msgstr "Веб адрес"
+
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize_page.php:844
+msgid "Description"
+msgstr "Описание"
+
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize_page.php:846
+msgid "Target"
+msgstr "Цель"
+
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize_page.php:847
+msgid "Link Relationship (XFN)"
+msgstr "Отношение к ссылке (XFN)"
+
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize_page.php:848
+msgid "Advanced"
+msgstr "Дополнительно"
+
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize_page.php:930
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize_page.php:1015
+msgid "Set Theme"
+msgstr "Установить тему"
+
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize_page.php:937
+msgid "For better peformance with many users on your blog; load only userlist, when you will change the theme options for users."
+msgstr "Для лучшей производительности если у вас много пользователей: загрузите только список пользователей, затем вы сможете изменить настройки тем для пользователей."
+
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize_page.php:940
+msgid "Load User Data"
+msgstr "Загрузить пользовательские данные"
+
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize_page.php:951
+msgid "User-ID"
+msgstr "ID пользователя"
+
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize_page.php:952
+msgid "Username"
+msgstr "Имя пользователя"
+
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize_page.php:953
+msgid "Display name publicly as"
+msgstr "Отображать публичное имя как"
+
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize_page.php:954
+msgid "Admin-Color Scheme"
+msgstr "Цветовая схема админки"
+
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize_page.php:955
+msgid "User Level"
+msgstr "Уровень пользователя"
+
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize_page.php:956
+msgid "Role"
+msgstr "Роль"
+
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize_page.php:1026
+msgid "Deinstall Options"
+msgstr "Настройки деинсталляции"
+
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize_page.php:1029
+msgid "Use this option for clean your database from all entries of this plugin. When you deactivate the plugin, the deinstall of the plugin <strong>clean not</strong> all entries in the database."
+msgstr "Используйте эту опцию для очистки базы данных от всех записей этого плагина. При обычной деактивации плагина, деинсталляция плагина НЕ УДАЛЯЕТ все записи плагина из базы данных."
+
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize_page.php:1033
+msgid "Delete Options"
+msgstr "Настройки удаления"
+
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize_page.php:1046
+msgid "About the plugin"
+msgstr "Об этом плагине"
+
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize_page.php:1048
+msgid "Further information: Visit the <a href=\"http://bueltge.de/wordpress-admin-theme-adminimize/674/\">plugin homepage</a> for further information or to grab the latest version of this plugin."
+msgstr "Дополнительная информация: Посетите <a href='http://bueltge.de/wordpress-admin-theme-adminimize/674/''>домашнюю страницу плагина</a> для получение дополнительной информации или скачивания свежей версии плагина. Русификация плагина: <a href='http://lecactus.ru''>Lecactus.ru</a>."
+
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize_page.php:1054
+msgid "PayPal - The safer, easier way to pay online!"
+msgstr "PayPal - безопасный и просто путь для онлайн платежей!"
+
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\adminimize/adminimize_page.php:1058
+msgid "You want to thank me? Visit my <a href=\"http://bueltge.de/wunschliste/\">wishlist</a> or donate."
+msgstr "Хотите отблагодарить меня? Посетите мой <a href='http://bueltge.de/wunschliste/'>список пожеланий</a> или сделайте пожертвование."
+
+#~ msgid "All"
+#~ msgstr "Все"
+#~ msgid "None"
+#~ msgstr "Ничего"
+#~ msgid "It is possible to hide the favorite-actions in the header."
+#~ msgstr "Возможно скрыть «любимые действия» из заголовка."
+#~ msgid "It is possible to hide the screen-options."
+#~ msgstr "Возможно скрыть «настройки экрана»"
+#~ msgid "Menu Order"
+#~ msgstr "Порядок меню"
+#~ msgid "It is possible to set a new menu-order."
+#~ msgstr "Возможно задать новый порядок меню."
+#~ msgid "Sidebar Width"
+#~ msgstr "Ширина боковой колонки"
+#~ msgid ""
+#~ "The sidebar on the right side in the area <em>Edit</em> is configurable. "
+#~ "Default is 200 pixel in the WordPress Theme <em>Classic</em> and "
+#~ "<em>Fresh</em>"
+#~ msgstr ""
+#~ "Боковая колонка с правой стороны области <em>редактирования</em> "
+#~ "настраиваема. По умолчанию ширина ее составляет 200 пикселей в стилях "
+#~ "WordPress <em>Классический</em> и <em>Новый</em>"
+#~ msgid "Dashmenu"
+#~ msgstr "Меню панели"
+#~ msgid ""
+#~ "The &quot;Dashboard-area&quot; is on the top left side of the backend. "
+#~ "You can hide show."
+#~ msgstr ""
+#~ "Область «доски объявлений» в левом верхнем углу. Вы можете скрыть ее."
+#~ msgid "It is possible to hide the Admin Color Schemes."
+#~ msgstr "Возможно скрыть цветовые схемы админки."
+#~ msgid "Deactivate for Subscriber"
+#~ msgstr "Отключить для подписчиков"
+#~ msgid "Deactivate for Contributor"
+#~ msgstr "Отключить для участников"
+#~ msgid "Deactivate for Editor"
+#~ msgstr "Отключить для редакторов"
+#~ msgid "Deactivate for Administrator"
+#~ msgstr "Отключить для администраторов"
+#~ msgid "All items"
+#~ msgstr "Все типы"
+#~ msgid "Write Options"
+#~ msgstr "Настройки написания"
+

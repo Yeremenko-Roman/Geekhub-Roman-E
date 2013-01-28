@@ -1,0 +1,165 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Comment Toolbar\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-06-11 11:43+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Kalinin Ivan <lecactus@lecactus.ru>\n"
+"Language-Team: cristianofino.net\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Russian\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: X:\\web\\wordpress\\main\\project-wp284rus\\перевод\\wordpress\\wp-content\\plugins\\comment-toolbar\n"
+
+#: ../cf_comment_toolbar.php:35
+msgid "Reply"
+msgstr "Ответить"
+
+#: ../cf_comment_toolbar.php:36
+msgid "Quote"
+msgstr "Цитировать"
+
+#: ../cf_comment_toolbar.php:37
+msgid "wrote"
+msgstr "пишет"
+
+#: ../cf_comment_toolbar.php:143
+msgid "Options saved."
+msgstr "Настройки сохранены."
+
+#: ../cf_comment_toolbar.php:148
+msgid "Comment Toolbar Plugin Options"
+msgstr "Настройки Comment Toolbar Plugin"
+
+#: ../cf_comment_toolbar.php:156
+msgid "Label of 'Reply' button (or link):"
+msgstr "Текст для кнопки или ссылки 'Ответ':"
+
+#: ../cf_comment_toolbar.php:160
+#: ../cf_comment_toolbar.php:169
+msgid "(to not display, leave blank)"
+msgstr "(чтобы не показывать, оставтьте пустым)"
+
+#: ../cf_comment_toolbar.php:165
+msgid "Label of 'Quote' button (or link):"
+msgstr "Текст для кнопки или ссылки 'Цитата':"
+
+#: ../cf_comment_toolbar.php:174
+msgid "Text message of 'Quote' action:"
+msgstr "Текст для сообщения о цитировании:"
+
+#: ../cf_comment_toolbar.php:182
+msgid "Characters of separation between the buttons (or links):"
+msgstr "Символ, разделяющий кнопки или ссылки:"
+
+#: ../cf_comment_toolbar.php:186
+msgid "(you can insert HTML code also)"
+msgstr "(можно использовать HTML-код)"
+
+#: ../cf_comment_toolbar.php:191
+msgid "Enclose commentator's name in html tag &lt;b&gt;...&lt;/b&gt; :"
+msgstr "Заключить имя комментатора в тег &lt;b&gt;...&lt;/b&gt; :"
+
+#: ../cf_comment_toolbar.php:195
+#: ../cf_comment_toolbar.php:206
+#: ../cf_comment_toolbar.php:263
+#: ../cf_comment_toolbar.php:275
+msgid "No"
+msgstr "Нет"
+
+#: ../cf_comment_toolbar.php:196
+#: ../cf_comment_toolbar.php:207
+#: ../cf_comment_toolbar.php:264
+#: ../cf_comment_toolbar.php:276
+msgid "Yes"
+msgstr "Да"
+
+#: ../cf_comment_toolbar.php:202
+msgid "Add a link to his commentary on the name of the commentator :"
+msgstr "Add a link to his commentary on the name of the commentator :"
+
+#: ../cf_comment_toolbar.php:213
+msgid "Text to insert in anchor link, before comment ID :"
+msgstr "Текст, который будет добавлятся к адресу, перед ID комментария :"
+
+#: ../cf_comment_toolbar.php:217
+msgid "(Insert <b>co_</b> if you do not know the format's links to comments of your theme)"
+msgstr "(Вставьте <b>co_</b> если не знаете, какой формат ссылок используется в вашей теме)"
+
+#: ../cf_comment_toolbar.php:222
+msgid "Toolbar style:"
+msgstr "Стиль тулбара:"
+
+#: ../cf_comment_toolbar.php:226
+msgid "Buttons"
+msgstr "Кнопки"
+
+#: ../cf_comment_toolbar.php:227
+msgid "Links"
+msgstr "Ссылки"
+
+#: ../cf_comment_toolbar.php:228
+msgid "Images"
+msgstr "Images"
+
+#: ../cf_comment_toolbar.php:230
+msgid "To customize the graphic appearance of image buttons, replace files 'first.png','previous.png', 'next.png', 'last.png', 'reply.png','quote.png', in the plugin's <b>images</b> folder using the same names for files"
+msgstr "To customize the graphic appearance of image buttons, replace files 'first.png','previous.png', 'next.png', 'last.png', 'reply.png','quote.png', in the plugin's <b>images</b> folder using the same names for files"
+
+#: ../cf_comment_toolbar.php:235
+msgid "Toolbar position:"
+msgstr "Позиция тулбара:"
+
+#: ../cf_comment_toolbar.php:239
+msgid "Top of comment"
+msgstr "Сверху"
+
+#: ../cf_comment_toolbar.php:240
+msgid "Bottom of comment"
+msgstr "Снизу"
+
+#: ../cf_comment_toolbar.php:246
+msgid "Toolbar alignment:"
+msgstr "Выравнивание тулбара:"
+
+#: ../cf_comment_toolbar.php:250
+msgid "Left"
+msgstr "Слева"
+
+#: ../cf_comment_toolbar.php:251
+msgid "Right"
+msgstr "Справа"
+
+#: ../cf_comment_toolbar.php:252
+msgid "Center"
+msgstr "По центру"
+
+#: ../cf_comment_toolbar.php:253
+msgid "CSS style settings"
+msgstr "По CSS-настройками"
+
+#: ../cf_comment_toolbar.php:259
+msgid "Show buttons to navigate on your comments :"
+msgstr "Показывать кнопки навигации по комментариям :"
+
+#: ../cf_comment_toolbar.php:266
+#: ../cf_comment_toolbar.php:278
+msgid "This feature is automatically disabled when using the paging of the comments"
+msgstr "This feature is automatically disabled when using the paging of the comments"
+
+#: ../cf_comment_toolbar.php:271
+msgid "Enable smooth scrolling :"
+msgstr "Разрешить 'плавную прокрутку':"
+
+#: ../cf_comment_toolbar.php:283
+msgid "Update Options"
+msgstr "Сохранить"
+
+#: ../cf_comment_toolbar.php:327
+#: ../cf_comment_toolbar.php:352
+msgid "Go to comment of this author"
+msgstr "Go to comment of this author"
+

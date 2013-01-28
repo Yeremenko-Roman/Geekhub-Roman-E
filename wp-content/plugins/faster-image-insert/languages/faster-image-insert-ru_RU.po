@@ -1,0 +1,232 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR David Frank
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Faster Image Insert\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-08-25 21:23+0600\n"
+"PO-Revision-Date: 2009-08-25 21:23+0600\n"
+"Last-Translator: Kalinin Ivan <lecactus@lecactus.ru>\n"
+"Language-Team: Lecactus <lecactus@lecactus.ru>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Russian\n"
+"X-Poedit-Country: RUSSIAN FEDERATION\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: X:\\web\\wordpress\\main\\project-wp284rus\\перевод\\wordpress\\wp-content\\plugins\\faster-image-insert\n"
+
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\faster-image-insert/faster-image-insert.php:121
+msgid "(Quick Links)"
+msgstr "(Быстрые ссылки)"
+
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\faster-image-insert/faster-image-insert.php:122
+msgid "Enter a word to look up:"
+msgstr "Введите слово для поиска:"
+
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\faster-image-insert/faster-image-insert.php:123
+msgid "Dictionary lookup"
+msgstr "Поиск по словарю"
+
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\faster-image-insert/faster-image-insert.php:124
+msgid "lookup"
+msgstr "поиск"
+
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\faster-image-insert/faster-image-insert.php:125
+msgid "Close all open tags"
+msgstr "Закрыть все открытые теги"
+
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\faster-image-insert/faster-image-insert.php:126
+msgid "close tags"
+msgstr "закрыть теги"
+
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\faster-image-insert/faster-image-insert.php:127
+msgid "Enter the URL"
+msgstr "Введите URL"
+
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\faster-image-insert/faster-image-insert.php:128
+msgid "Enter the URL of the image"
+msgstr "Введите URL к изображению"
+
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\faster-image-insert/faster-image-insert.php:129
+msgid "Enter a description of the image"
+msgstr "Введите описание изображения"
+
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\faster-image-insert/faster-image-insert.php:140
+msgid "Select items you want to insert"
+msgstr "Выберите элементы, которые вы хотите вставить"
+
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\faster-image-insert/faster-image-insert.php:144
+msgid "Insert selected images"
+msgstr "Вставить выбранные изображения"
+
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\faster-image-insert/faster-image-insert.php:145
+msgid "Invert selection"
+msgstr "Инвертировать выделение"
+
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\faster-image-insert/faster-image-insert.php:148
+msgid "Reversed ordering"
+msgstr "Обратный порядок"
+
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\faster-image-insert/faster-image-insert.php:151
+msgid "Toggle items"
+msgstr "Переключить"
+
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\faster-image-insert/faster-image-insert.php:191
+msgid "Mass Image Edit"
+msgstr "Массовое редактирование изображений"
+
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\faster-image-insert/faster-image-insert.php:193
+msgid "Apply changes"
+msgstr "Применить изменения"
+
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\faster-image-insert/faster-image-insert.php:193
+msgid "Press \"Save all changes\" to save. Only Title/Captions can be permanently saved."
+msgstr "Нажмите «Сохранить все изменения» для срхранения. Только заголовки/подписи могут сохраняться постоянно."
+
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\faster-image-insert/faster-image-insert.php:195
+msgid "Image Titles"
+msgstr "Заголовки изображений"
+
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\faster-image-insert/faster-image-insert.php:196
+msgid "Image Captions / Alt-Texts"
+msgstr "Описания изображений / Альтернативный текст"
+
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\faster-image-insert/faster-image-insert.php:197
+msgid "Image Alignment"
+msgstr "Выравнивание изображения"
+
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\faster-image-insert/faster-image-insert.php:198
+msgid "Image Sizes"
+msgstr "Размеры изображений"
+
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\faster-image-insert/faster-image-insert.php:202
+msgid "None"
+msgstr "нет"
+
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\faster-image-insert/faster-image-insert.php:202
+msgid "Left"
+msgstr "слева"
+
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\faster-image-insert/faster-image-insert.php:202
+msgid "Center"
+msgstr "центр"
+
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\faster-image-insert/faster-image-insert.php:202
+msgid "Right"
+msgstr "справа"
+
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\faster-image-insert/faster-image-insert.php:203
+msgid "Thumbnail"
+msgstr "миниатюра"
+
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\faster-image-insert/faster-image-insert.php:203
+msgid "Medium"
+msgstr "средний"
+
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\faster-image-insert/faster-image-insert.php:203
+msgid "Large"
+msgstr "большой"
+
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\faster-image-insert/faster-image-insert.php:203
+msgid "Full size"
+msgstr "оригинал"
+
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\faster-image-insert/faster-image-insert.php:332
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\faster-image-insert/faster-image-insert.php:412
+msgid "Faster Image Insert - User Options"
+msgstr "Пользовательские настройки «Faster Image Insert»"
+
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\faster-image-insert/faster-image-insert.php:383
+msgid "Settings saved."
+msgstr "Настройки сохранены."
+
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\faster-image-insert/faster-image-insert.php:407
+msgid "Settings deleted."
+msgstr "Настройки удалены."
+
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\faster-image-insert/faster-image-insert.php:413
+msgid "Updates your settings here"
+msgstr "Обновите ваш настройки здесь"
+
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\faster-image-insert/faster-image-insert.php:421
+msgid "Load media manager WITHOUT jQuery ?"
+msgstr "Загружать менеджер медиафайлов БЕЗ использования jQuery ?"
+
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\faster-image-insert/faster-image-insert.php:422
+msgid "Enable this if you're having trouble getting media manager to load in editing interface (ie. blank metabox). Needed for WordPress 2.6"
+msgstr "Включите эту опцию если у вас есть проблемы с менеджером медиафайлов в интерфейсе редактирования (например пустой блок). Требуется для WordPress 2.6"
+
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\faster-image-insert/faster-image-insert.php:426
+msgid "Load HTML upload form instead of FLASH upload form ?"
+msgstr "HTML-форма загрузки вместо FLASH-формы ?"
+
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\faster-image-insert/faster-image-insert.php:427
+msgid "Enable this if you're having trouble with flash uploader."
+msgstr "Включите это если у вас есть проблемы с FLASH-загрузчиком."
+
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\faster-image-insert/faster-image-insert.php:431
+msgid "Insert multiple images in ONE line ?"
+msgstr "Вставлять несколько изображений в ОДНУ строку?"
+
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\faster-image-insert/faster-image-insert.php:432
+msgid "Enable this if you just want to insert a serial of thumbnails without newlines."
+msgstr "Включите это, если вы хотите вставить серию миниатюр без перехода на новые строки."
+
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\faster-image-insert/faster-image-insert.php:436
+msgid "Number of separators between each image"
+msgstr "Количество разделителей между изображениями"
+
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\faster-image-insert/faster-image-insert.php:437
+msgid "Depends on previous option, it either means blank line or blank space. Default is 4."
+msgstr "Зависит от предыдущей опции, означает пустую строку или пробел. По-умолчанию это 4."
+
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\faster-image-insert/faster-image-insert.php:441
+msgid "Disable Captions ?"
+msgstr "Отключить подписи?"
+
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\faster-image-insert/faster-image-insert.php:442
+msgid "WordPress use caption as alternative text, but it also appends [caption] if set manually, Enable this if you want to set alternative text without appending caption. works in WordPress 2.6.1 or above."
+msgstr "WordPress использует подписи в качестве альтернативного текста, но также добавляет тег  [caption] если он определен вручную. Включите это если вы хотите задать альтернативный текст без добавления подписи. Работает в версии 2.6.1 и новее."
+
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\faster-image-insert/faster-image-insert.php:446
+msgid "Enable mass-editing ?"
+msgstr "Разрешить массовое редактирование?"
+
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\faster-image-insert/faster-image-insert.php:447
+msgid "Enable this if you want to use the mass-edit function, works well with WordPress 2.7+"
+msgstr "Включите это, если вы хотите попробовать новую функцию массового редактирования, работает корректно с WordPress 2.7+"
+
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\faster-image-insert/faster-image-insert.php:451
+msgid "Disable backward-compatible mode ?"
+msgstr "Отключить режим обратной совместимости?"
+
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\faster-image-insert/faster-image-insert.php:452
+msgid "WordPress 2.8 has added feature to sort gallery, and fix a bug we reported, if you're using 2.8+, you may enable this to save a few bytes."
+msgstr "WordPress 2.8 добавил функциональность для сортировки галереи, и исправляет ошибку, которую мы сообщили, Если вы используете 2.8+, вы можете включить это для сохранения нескольких байт."
+
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\faster-image-insert/faster-image-insert.php:456
+msgid "Enable debug mode ?"
+msgstr "Включить режим отладки?"
+
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\faster-image-insert/faster-image-insert.php:457
+msgid "Enable this option to remove registered javascript for this plugin, FOR DEBUGGING."
+msgstr "Включение этой опции вызовет отключение зарегистрированного javascript для этогго плагина. ИСПОЛЬЗОВАТЬ ДЛЯ ОТЛАДКИ."
+
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\faster-image-insert/faster-image-insert.php:463
+msgid "Save Changes"
+msgstr "Сохранить изменения"
+
+#: X:\web\wordpress\main\project-wp284rus\ïåðåâîä\wordpress\wp-content\plugins\faster-image-insert/faster-image-insert.php:464
+msgid "Uninstall"
+msgstr "Деинсталляция"
+
+#, fuzzy
+#~ msgid "Faster Image Insert"
+#~ msgstr "Пользовательские настройки «Faster Image Insert»"
+

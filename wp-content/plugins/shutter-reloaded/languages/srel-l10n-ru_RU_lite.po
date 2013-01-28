@@ -1,0 +1,50 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Shutter Reloaded\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-12-06 03:28+0600\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Kalinin Ivan <lecactus@lecactus.ru>\n"
+"Language-Team: Lecactus <lecactus@lecactus.ru>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Russian\n"
+"X-Poedit-Country: RUSSIAN FEDERATION\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: X:\\web\\wordpress-Modifications\\wordpress\\shutter-reloaded\n"
+
+#: X:\web\wordpress-Modifications\wordpress\shutter-reloaded/shutter-reloaded.php:92
+msgid "Previous"
+msgstr "Назад"
+
+#: X:\web\wordpress-Modifications\wordpress\shutter-reloaded/shutter-reloaded.php:92
+msgid "Next"
+msgstr "Вперед"
+
+#: X:\web\wordpress-Modifications\wordpress\shutter-reloaded/shutter-reloaded.php:92
+msgid "Close"
+msgstr "Закрыть"
+
+#: X:\web\wordpress-Modifications\wordpress\shutter-reloaded/shutter-reloaded.php:92
+msgid "Full Size"
+msgstr "Полный размер"
+
+#: X:\web\wordpress-Modifications\wordpress\shutter-reloaded/shutter-reloaded.php:92
+msgid "Fit to Screen"
+msgstr "Подстроить под размер экрана"
+
+#: X:\web\wordpress-Modifications\wordpress\shutter-reloaded/shutter-reloaded.php:92
+msgid "Image"
+msgstr "Изображение"
+
+#: X:\web\wordpress-Modifications\wordpress\shutter-reloaded/shutter-reloaded.php:92
+msgid "of"
+msgstr "из"
+
+#: X:\web\wordpress-Modifications\wordpress\shutter-reloaded/shutter-reloaded.php:92
+msgid "Loading..."
+msgstr "Загрузка..."
+

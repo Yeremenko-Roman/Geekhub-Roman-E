@@ -1,0 +1,296 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Search Everything 6.2.5\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-07-22 00:59+0600\n"
+"PO-Revision-Date: 2009-07-22 01:01+0600\n"
+"Last-Translator: Kalinin Ivan <lecactus@lecactus.ru>\n"
+"Language-Team: Lecactus & Silver Ghost <lecactus@lecactus.ru>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Language: Russian\n"
+"X-Poedit-Country: RUSSIAN FEDERATION\n"
+"X-Poedit-SearchPath-0: X:\\web\\wordpress\\main\\project-wp282rus\\перевод\\wordpress\\wp-content\\plugins\\search-everything\n"
+
+#: X:\web\wordpress\main\project-wp282rus\ïåðåâîä\wordpress\wp-content\plugins\search-everything/SE-Admin.php:29
+msgid "Search Everything Options  <strong>Updated</strong>."
+msgstr "Настройки Search Everything <strong>обновлены</strong>."
+
+#: X:\web\wordpress\main\project-wp282rus\ïåðåâîä\wordpress\wp-content\plugins\search-everything/SE-Admin.php:65
+msgid "Use this form to configure your search options."
+msgstr "Используйте эту форму для настройки параметров поиска."
+
+#: X:\web\wordpress\main\project-wp282rus\ïåðåâîä\wordpress\wp-content\plugins\search-everything/SE-Admin.php:66
+msgid "The options selected below will be used in every search query on this site; in addition to the built-in post search."
+msgstr "Настройки, выбранные ниже, будут применены к каждому поисковому запросу на этом сайте. В противном случае, будет использован встроенный поиск."
+
+#: X:\web\wordpress\main\project-wp282rus\ïåðåâîä\wordpress\wp-content\plugins\search-everything/SE-Admin.php:71
+msgid "Search Options Form"
+msgstr "Форма настройки поиска"
+
+#: X:\web\wordpress\main\project-wp282rus\ïåðåâîä\wordpress\wp-content\plugins\search-everything/SE-Admin.php:73
+#: X:\web\wordpress\main\project-wp282rus\ïåðåâîä\wordpress\wp-content\plugins\search-everything/views/options.php:255
+msgid "Exclude some post or page IDs"
+msgstr "Исключить некоторые записи или ID страниц"
+
+#: X:\web\wordpress\main\project-wp282rus\ïåðåâîä\wordpress\wp-content\plugins\search-everything/SE-Admin.php:74
+#: X:\web\wordpress\main\project-wp282rus\ïåðåâîä\wordpress\wp-content\plugins\search-everything/views/options.php:258
+msgid "Comma separated Post IDs (example: 1, 5, 9)"
+msgstr "ID записей, разделенные запятой (пример: 1, 5, 9)"
+
+#: X:\web\wordpress\main\project-wp282rus\ïåðåâîä\wordpress\wp-content\plugins\search-everything/SE-Admin.php:78
+#: X:\web\wordpress\main\project-wp282rus\ïåðåâîä\wordpress\wp-content\plugins\search-everything/views/options.php:262
+msgid "Exclude Categories"
+msgstr "Исключить категории"
+
+#: X:\web\wordpress\main\project-wp282rus\ïåðåâîä\wordpress\wp-content\plugins\search-everything/SE-Admin.php:79
+#: X:\web\wordpress\main\project-wp282rus\ïåðåâîä\wordpress\wp-content\plugins\search-everything/views/options.php:265
+msgid "Comma separated category IDs (example: 1, 4)"
+msgstr "ID категорий, разделенные запятой (пример: 1, 4)"
+
+#: X:\web\wordpress\main\project-wp282rus\ïåðåâîä\wordpress\wp-content\plugins\search-everything/SE-Admin.php:83
+msgid "Search every page (non-password protected)"
+msgstr "Искать на каждой странице (не защищенной паролем)"
+
+#: X:\web\wordpress\main\project-wp282rus\ïåðåâîä\wordpress\wp-content\plugins\search-everything/SE-Admin.php:85
+msgid "Search approved pages only?"
+msgstr "Искать только на опубликованных страницах"
+
+#: X:\web\wordpress\main\project-wp282rus\ïåðåâîä\wordpress\wp-content\plugins\search-everything/SE-Admin.php:91
+#: X:\web\wordpress\main\project-wp282rus\ïåðåâîä\wordpress\wp-content\plugins\search-everything/views/options.php:117
+msgid "Search every tag name"
+msgstr "Искать каждую метку"
+
+#: X:\web\wordpress\main\project-wp282rus\ïåðåâîä\wordpress\wp-content\plugins\search-everything/SE-Admin.php:98
+msgid "Search every category name"
+msgstr "Искать каждое имя рубрики"
+
+#: X:\web\wordpress\main\project-wp282rus\ïåðåâîä\wordpress\wp-content\plugins\search-everything/SE-Admin.php:102
+#: X:\web\wordpress\main\project-wp282rus\ïåðåâîä\wordpress\wp-content\plugins\search-everything/views/options.php:142
+msgid "Search every comment"
+msgstr "Искать каждый комментарий"
+
+#: X:\web\wordpress\main\project-wp282rus\ïåðåâîä\wordpress\wp-content\plugins\search-everything/SE-Admin.php:105
+msgid "Search approved comments only?"
+msgstr "Искать только в опубликованных комментариях"
+
+#: X:\web\wordpress\main\project-wp282rus\ïåðåâîä\wordpress\wp-content\plugins\search-everything/SE-Admin.php:108
+#: X:\web\wordpress\main\project-wp282rus\ïåðåâîä\wordpress\wp-content\plugins\search-everything/views/options.php:172
+msgid "Search every excerpt"
+msgstr "Искать каждую цитату"
+
+#: X:\web\wordpress\main\project-wp282rus\ïåðåâîä\wordpress\wp-content\plugins\search-everything/SE-Admin.php:113
+#: X:\web\wordpress\main\project-wp282rus\ïåðåâîä\wordpress\wp-content\plugins\search-everything/views/options.php:185
+msgid "Search every draft"
+msgstr "Искать каждый черновик"
+
+#: X:\web\wordpress\main\project-wp282rus\ïåðåâîä\wordpress\wp-content\plugins\search-everything/SE-Admin.php:116
+#: X:\web\wordpress\main\project-wp282rus\ïåðåâîä\wordpress\wp-content\plugins\search-everything/views/options.php:196
+msgid "Search every attachment"
+msgstr "Искать каждый прикрепленный файл"
+
+#: X:\web\wordpress\main\project-wp282rus\ïåðåâîä\wordpress\wp-content\plugins\search-everything/SE-Admin.php:118
+#: X:\web\wordpress\main\project-wp282rus\ïåðåâîä\wordpress\wp-content\plugins\search-everything/views/options.php:216
+msgid "Search every author"
+msgstr "Искать каждого автора"
+
+#: X:\web\wordpress\main\project-wp282rus\ïåðåâîä\wordpress\wp-content\plugins\search-everything/SE-Admin.php:120
+msgid "Search every custom field (metadata)"
+msgstr "Искать каждое произвольное поле (метаданные)"
+
+#: X:\web\wordpress\main\project-wp282rus\ïåðåâîä\wordpress\wp-content\plugins\search-everything/SE-Admin.php:127
+#: X:\web\wordpress\main\project-wp282rus\ïåðåâîä\wordpress\wp-content\plugins\search-everything/views/options.php:76
+#: X:\web\wordpress\main\project-wp282rus\ïåðåâîä\wordpress\wp-content\plugins\search-everything/views/options.php:281
+msgid "Update Options"
+msgstr "Обновить настройки"
+
+#: X:\web\wordpress\main\project-wp282rus\ïåðåâîä\wordpress\wp-content\plugins\search-everything/SE-Admin.php:133
+msgid "SE Search Form"
+msgstr "SE форма поиска"
+
+#: X:\web\wordpress\main\project-wp282rus\ïåðåâîä\wordpress\wp-content\plugins\search-everything/SE-Admin.php:136
+#: X:\web\wordpress\main\project-wp282rus\ïåðåâîä\wordpress\wp-content\plugins\search-everything/views/options.php:312
+msgid "Use this search form to run a live search test."
+msgstr "Используйте эту форму для тестирования поиска."
+
+#: X:\web\wordpress\main\project-wp282rus\ïåðåâîä\wordpress\wp-content\plugins\search-everything/SE-Admin.php:140
+msgid "Site Search"
+msgstr "Поиск по сайту"
+
+#: X:\web\wordpress\main\project-wp282rus\ïåðåâîä\wordpress\wp-content\plugins\search-everything/SE-Admin.php:142
+msgid "Enter search terms"
+msgstr "Введите, что будем искать"
+
+#: X:\web\wordpress\main\project-wp282rus\ïåðåâîä\wordpress\wp-content\plugins\search-everything/SE-Admin.php:144
+#: X:\web\wordpress\main\project-wp282rus\ïåðåâîä\wordpress\wp-content\plugins\search-everything/views/options.php:318
+msgid "Run Test Search"
+msgstr "Искать"
+
+#: X:\web\wordpress\main\project-wp282rus\ïåðåâîä\wordpress\wp-content\plugins\search-everything/views/options.php:54
+#: X:\web\wordpress\main\project-wp282rus\ïåðåâîä\wordpress\wp-content\plugins\search-everything/views/options.php:61
+msgid "Your default search settings have been <strong>updated</strong> by Search Everything. </p><p> What are you waiting for? Go check out the new search results!"
+msgstr ""
+
+#: X:\web\wordpress\main\project-wp282rus\ïåðåâîä\wordpress\wp-content\plugins\search-everything/views/options.php:71
+msgid "Search Everything Version:"
+msgstr "Версия плагина:"
+
+#: X:\web\wordpress\main\project-wp282rus\ïåðåâîä\wordpress\wp-content\plugins\search-everything/views/options.php:84
+msgid "Basic Configuration"
+msgstr ""
+
+#: X:\web\wordpress\main\project-wp282rus\ïåðåâîä\wordpress\wp-content\plugins\search-everything/views/options.php:92
+msgid "Search every page"
+msgstr "Искать по всем страницам"
+
+#: X:\web\wordpress\main\project-wp282rus\ïåðåâîä\wordpress\wp-content\plugins\search-everything/views/options.php:96
+#: X:\web\wordpress\main\project-wp282rus\ïåðåâîä\wordpress\wp-content\plugins\search-everything/views/options.php:107
+#: X:\web\wordpress\main\project-wp282rus\ïåðåâîä\wordpress\wp-content\plugins\search-everything/views/options.php:121
+#: X:\web\wordpress\main\project-wp282rus\ïåðåâîä\wordpress\wp-content\plugins\search-everything/views/options.php:135
+#: X:\web\wordpress\main\project-wp282rus\ïåðåâîä\wordpress\wp-content\plugins\search-everything/views/options.php:146
+#: X:\web\wordpress\main\project-wp282rus\ïåðåâîä\wordpress\wp-content\plugins\search-everything/views/options.php:156
+#: X:\web\wordpress\main\project-wp282rus\ïåðåâîä\wordpress\wp-content\plugins\search-everything/views/options.php:166
+#: X:\web\wordpress\main\project-wp282rus\ïåðåâîä\wordpress\wp-content\plugins\search-everything/views/options.php:176
+#: X:\web\wordpress\main\project-wp282rus\ïåðåâîä\wordpress\wp-content\plugins\search-everything/views/options.php:189
+#: X:\web\wordpress\main\project-wp282rus\ïåðåâîä\wordpress\wp-content\plugins\search-everything/views/options.php:200
+#: X:\web\wordpress\main\project-wp282rus\ïåðåâîä\wordpress\wp-content\plugins\search-everything/views/options.php:210
+#: X:\web\wordpress\main\project-wp282rus\ïåðåâîä\wordpress\wp-content\plugins\search-everything/views/options.php:220
+#: X:\web\wordpress\main\project-wp282rus\ïåðåâîä\wordpress\wp-content\plugins\search-everything/views/options.php:230
+msgid "Yes"
+msgstr ""
+
+#: X:\web\wordpress\main\project-wp282rus\ïåðåâîä\wordpress\wp-content\plugins\search-everything/views/options.php:103
+msgid "Search approved pages only"
+msgstr "Искать только на опубликованных страницах"
+
+#: X:\web\wordpress\main\project-wp282rus\ïåðåâîä\wordpress\wp-content\plugins\search-everything/views/options.php:131
+msgid "Search every category name and description"
+msgstr "Искать по каждому имени рубрики и ее описанию"
+
+#: X:\web\wordpress\main\project-wp282rus\ïåðåâîä\wordpress\wp-content\plugins\search-everything/views/options.php:152
+#, fuzzy
+msgid "Search comment authors"
+msgstr "Искать каждого автора"
+
+#: X:\web\wordpress\main\project-wp282rus\ïåðåâîä\wordpress\wp-content\plugins\search-everything/views/options.php:162
+#, fuzzy
+msgid "Search approved comments only"
+msgstr "Искать только в опубликованных комментариях"
+
+#: X:\web\wordpress\main\project-wp282rus\ïåðåâîä\wordpress\wp-content\plugins\search-everything/views/options.php:196
+msgid "(post type = attachment)"
+msgstr ""
+
+#: X:\web\wordpress\main\project-wp282rus\ïåðåâîä\wordpress\wp-content\plugins\search-everything/views/options.php:206
+#, fuzzy
+msgid "Search every custom field"
+msgstr "Искать каждое произвольное поле (метаданные)"
+
+#: X:\web\wordpress\main\project-wp282rus\ïåðåâîä\wordpress\wp-content\plugins\search-everything/views/options.php:206
+msgid "(metadata)"
+msgstr ""
+
+#: X:\web\wordpress\main\project-wp282rus\ïåðåâîä\wordpress\wp-content\plugins\search-everything/views/options.php:226
+#, fuzzy
+msgid "Highlight Search Terms"
+msgstr "Введите, что будем искать"
+
+#: X:\web\wordpress\main\project-wp282rus\ïåðåâîä\wordpress\wp-content\plugins\search-everything/views/options.php:236
+msgid "Highlight Background Color"
+msgstr ""
+
+#: X:\web\wordpress\main\project-wp282rus\ïåðåâîä\wordpress\wp-content\plugins\search-everything/views/options.php:239
+msgid "Examples:<br/>'#FFF984' or 'red'"
+msgstr ""
+
+#: X:\web\wordpress\main\project-wp282rus\ïåðåâîä\wordpress\wp-content\plugins\search-everything/views/options.php:249
+msgid "Advanced Configuration - Exclusion"
+msgstr ""
+
+#: X:\web\wordpress\main\project-wp282rus\ïåðåâîä\wordpress\wp-content\plugins\search-everything/views/options.php:269
+msgid "Full Highlight Style"
+msgstr ""
+
+#: X:\web\wordpress\main\project-wp282rus\ïåðåâîä\wordpress\wp-content\plugins\search-everything/views/options.php:271
+msgid "Important: 'Highlight Background Color' must be blank to use this advanced styling."
+msgstr ""
+
+#: X:\web\wordpress\main\project-wp282rus\ïåðåâîä\wordpress\wp-content\plugins\search-everything/views/options.php:273
+msgid "Example:<br/>background-color: #FFF984; font-weight: bold; color: #000; padding: 0 1px;"
+msgstr ""
+
+#: X:\web\wordpress\main\project-wp282rus\ïåðåâîä\wordpress\wp-content\plugins\search-everything/views/options.php:286
+msgid "Developed by Dan Cameron of"
+msgstr ""
+
+#: X:\web\wordpress\main\project-wp282rus\ïåðåâîä\wordpress\wp-content\plugins\search-everything/views/options.php:286
+msgid "Sprout Venture"
+msgstr ""
+
+#: X:\web\wordpress\main\project-wp282rus\ïåðåâîä\wordpress\wp-content\plugins\search-everything/views/options.php:286
+msgid "We Provide custom WordPress Plugins and Themes and a whole lot more."
+msgstr ""
+
+#: X:\web\wordpress\main\project-wp282rus\ïåðåâîä\wordpress\wp-content\plugins\search-everything/views/options.php:290
+msgid "Reset Button"
+msgstr ""
+
+#: X:\web\wordpress\main\project-wp282rus\ïåðåâîä\wordpress\wp-content\plugins\search-everything/views/options.php:298
+msgid "Find a bug?"
+msgstr ""
+
+#: X:\web\wordpress\main\project-wp282rus\ïåðåâîä\wordpress\wp-content\plugins\search-everything/views/options.php:298
+msgid "Post it as a new issue"
+msgstr ""
+
+#: X:\web\wordpress\main\project-wp282rus\ïåðåâîä\wordpress\wp-content\plugins\search-everything/views/options.php:305
+#, fuzzy
+msgid "Test Search Form"
+msgstr "SE форма поиска"
+
+#: X:\web\wordpress\main\project-wp282rus\ïåðåâîä\wordpress\wp-content\plugins\search-everything/views/options.php:329
+msgid "News"
+msgstr ""
+
+#: X:\web\wordpress\main\project-wp282rus\ïåðåâîä\wordpress\wp-content\plugins\search-everything/views/options.php:330
+msgid "Development Support"
+msgstr ""
+
+#: X:\web\wordpress\main\project-wp282rus\ïåðåâîä\wordpress\wp-content\plugins\search-everything/views/options.php:331
+msgid "Localization Support"
+msgstr ""
+
+#: X:\web\wordpress\main\project-wp282rus\ïåðåâîä\wordpress\wp-content\plugins\search-everything/views/options.php:337
+msgid "LOCALIZATION SUPPORT:"
+msgstr ""
+
+#: X:\web\wordpress\main\project-wp282rus\ïåðåâîä\wordpress\wp-content\plugins\search-everything/views/options.php:337
+msgid "Version 6 was a major update and a few areas need new localization support. If you can help send me your translations by posting them as a new issue, "
+msgstr ""
+
+#: X:\web\wordpress\main\project-wp282rus\ïåðåâîä\wordpress\wp-content\plugins\search-everything/views/options.php:337
+msgid "here"
+msgstr ""
+
+#: X:\web\wordpress\main\project-wp282rus\ïåðåâîä\wordpress\wp-content\plugins\search-everything/views/options.php:338
+msgid "Thank You!"
+msgstr ""
+
+#: X:\web\wordpress\main\project-wp282rus\ïåðåâîä\wordpress\wp-content\plugins\search-everything/views/options.php:338
+msgid "The development of Search Everything since Version one has primarily come from the WordPress community, I&#8217;m grateful for their dedicated and continued support."
+msgstr ""
+
+#: X:\web\wordpress\main\project-wp282rus\ïåðåâîä\wordpress\wp-content\plugins\search-everything/views/options.php:348
+msgid "and many more..."
+msgstr ""
+
+#: X:\web\wordpress\main\project-wp282rus\ïåðåâîä\wordpress\wp-content\plugins\search-everything/views/options.php:348
+msgid "how about you?"
+msgstr ""
+
+#~ msgid "SE Search Options"
+#~ msgstr "SE настройки поиска"
+

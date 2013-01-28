@@ -1,0 +1,137 @@
+@charset "utf-8";
+
+.clearfix:after {
+    content: "EasyClearing";
+    display: block;
+    height: 0;
+    clear: both;
+    visibility: hidden;
+}
+
+html>body .clearfix { display: block; }
+.clearfix { display: inline-block; }
+/*\*/
+* html .clearfix { height: 1%; }
+/**/
+
+.onebutton {
+    display: table;
+    margin: .5em 0;
+    position: relative;
+}
+
+.onebutton .atb {
+    font-weight: bold;
+    cursor: pointer;
+    color: #154BA0;
+}
+
+.onebutton:hover #sharepage {
+    display: block !important;
+}
+
+#sharepage {
+    border: 1px solid #CCC;
+    padding: 0 0 5px 5px;
+    width: 495px;
+    position: absolute;
+    background: #FFF;
+    z-index: 10;
+    display: none;
+}
+
+#sharepage .title {
+    text-align: center;
+    color: #000;
+    margin: 0 0 5px -5px;
+    font: bold 13px Verdana, Tahoma, Arial, Helvetica, sans-seif;
+    background: #EEE;
+    padding: 2px 0;
+    border-bottom: 1px solid #CCC;
+}
+
+#sharepage ul {
+    display: block;
+    margin: 0 !important;
+    padding: 0 !important;
+    list-style: none !important;
+}
+
+#sharepage li {
+    font: 12px Verdana, Tahoma, Arial, Helvetica, sans-seif;
+    display: block;
+    margin: 1px 10px 2px 0 !important;
+    padding: 0 0 0 19px !important;
+    background: url(add.png) no-repeat;
+    height: 16px;
+    line-height: 16px;
+    overflow: hidden;
+    cursor: pointer;
+    float: left;
+    width: 130px;
+    list-style: none !important;
+}
+
+#sharepage li#blink { background-position: 0 0; }
+#sharepage li#delicious { background-position: 0 -15px; }
+#sharepage li#digg { background-position: 0 -30px; }
+#sharepage li#furl { background-position: 0 -45px; }
+#sharepage li#google { background-position: 0 -60px; }
+#sharepage li#simpy { background-position: 0 -75px; }
+#sharepage li#spurl { background-position: 0 -90px; }
+#sharepage li#ymyweb { background-position: 0 -105px; }
+#sharepage li#bobrdobr { background-position: 0 -121px; }
+#sharepage li#mrwong { background-position: 0 -137px; }
+#sharepage li#yabm { background-position: 0 -153px; }
+#sharepage li#text20 { background-position: 0 -169px; }
+#sharepage li#news2 { background-position: 0 -185px; }
+#sharepage li#addscoop { background-position: 0 -201px; }
+#sharepage li#ruspace { background-position: 0 -217px; }
+#sharepage li#rumarkz { background-position: 0 -233px; }
+#sharepage li#memori { background-position: 0 -249px; }
+#sharepage li#googlebm { background-position: 0 -265px; }
+#sharepage li#pisali { background-position: 0 -281px; }
+#sharepage li#smi2 { background-position: 0 -297px; }
+#sharepage li#myplace { background-position: 0 -313px; }
+#sharepage li#bm100 { background-position: 0 -329px; }
+#sharepage li#wow { background-position: 0 -345px; }
+#sharepage li#technorati { background-position: 0 -361px; }
+#sharepage li#rucity { background-position: 0 -377px; }
+#sharepage li#linkstore { background-position: 0 -393px; }
+#sharepage li#newsland { background-position: 0 -409px; }
+#sharepage li#lopas { background-position: 0 -425px; }
+#sharepage li#liua { background-position: 0 -441px; }
+#sharepage li#connotea { background-position: 0 -457px; }
+#sharepage li#bibsonomy { background-position: 0 -473px; }
+#sharepage li#trucking { background-position: 0 -489px; }
+#sharepage li#communizm { background-position: 0 -505px; }
+#sharepage li#uca { background-position: 0 -521px; }
+
+#sharepage li a {
+    text-decoration: none;
+    display: block;
+    outline: 0;
+}
+
+#sharepage li a:hover {
+    text-decoration: none;
+}
+
+#sharepage li:hover { 
+    background-color: #FFA;
+}
+
+* html .onebutton { z-index: 5; width: 81px; }
+*:first-child+html .onebutton { z-index: 5; width: 81px; }
+* html .onebutton .atb { display: none; }
+* html .onebutton a.obie { background: url(bookmarks.png) no-repeat; height: 16px; width: 81px; display: block; }
+* html .onebutton table, * html .onebutton td { margin: 0; padding: 0; border-collapse: collapse; }
+* html .onebutton table { left: 0; top: 16px; position: absolute; visibility: hidden; }
+* html body .onebutton a:hover { position: static; }
+* html body .onebutton a:hover table { visibility: visible; }
+* html .onebutton a #sharepage { display: block; position: static; width: 475px; }
+* html .onebutton #sharepage { left: 0; top: 16px; }
+*:first-child+html #sharepage { left: 0; top: 16px; }
+* html #sharepage li a:hover { text-decoration: underline; }
+* html #sharepage .title { margin-right: -10px; }
+* html table #sharepage .title { margin-right: 0; }

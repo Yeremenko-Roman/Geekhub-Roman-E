@@ -1,0 +1,450 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Role Manager 2.2.3\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-02-09 22:16+0600\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Kalinin Ivan <lecactus@lecactus.ru>\n"
+"Language-Team: Lecactus <lecactus@lecactus.ru>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Russian\n"
+"X-Poedit-Country: RUSSIAN FEDERATION\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: X:\\web\\wordpress\\main\\project-wp27rus\\Wordpress-2.7-rus-lecactus-edition-powerpack\\wordpress\\wp-content\\plugins\\role-manager\n"
+
+#: X:\web\wordpress\main\project-wp27rus\Wordpress-2.7-rus-lecactus-edition-powerpack\wordpress\wp-content\plugins\role-manager/capability-management.php:84
+msgid "New capability created"
+msgstr "Создана новая способность"
+
+#: X:\web\wordpress\main\project-wp27rus\Wordpress-2.7-rus-lecactus-edition-powerpack\wordpress\wp-content\plugins\role-manager/capability-management.php:86
+msgid "Unused capabilites purged"
+msgstr "Неиспользуемые способности удалены"
+
+#: X:\web\wordpress\main\project-wp27rus\Wordpress-2.7-rus-lecactus-edition-powerpack\wordpress\wp-content\plugins\role-manager/capability-management.php:91
+msgid "Manage Capabilities"
+msgstr "Управление способностями"
+
+#: X:\web\wordpress\main\project-wp27rus\Wordpress-2.7-rus-lecactus-edition-powerpack\wordpress\wp-content\plugins\role-manager/capability-management.php:92
+msgid "This page is for editing capabilities."
+msgstr "Это страница для редактирования способностей."
+
+#: X:\web\wordpress\main\project-wp27rus\Wordpress-2.7-rus-lecactus-edition-powerpack\wordpress\wp-content\plugins\role-manager/capability-management.php:94
+msgid "Custom Capabilities"
+msgstr "Свои способности"
+
+#: X:\web\wordpress\main\project-wp27rus\Wordpress-2.7-rus-lecactus-edition-powerpack\wordpress\wp-content\plugins\role-manager/capability-management.php:96
+msgid "New Capability Name: "
+msgstr "Имя новой способности:"
+
+#: X:\web\wordpress\main\project-wp27rus\Wordpress-2.7-rus-lecactus-edition-powerpack\wordpress\wp-content\plugins\role-manager/capability-management.php:99
+msgid "Create Capability"
+msgstr "Создать способность"
+
+#: X:\web\wordpress\main\project-wp27rus\Wordpress-2.7-rus-lecactus-edition-powerpack\wordpress\wp-content\plugins\role-manager/capability-management.php:101
+#: X:\web\wordpress\main\project-wp27rus\Wordpress-2.7-rus-lecactus-edition-powerpack\wordpress\wp-content\plugins\role-manager/capability-management.php:113
+msgid "Purge Unused Capabilities"
+msgstr "Удалить неиспользуемые способности"
+
+#: X:\web\wordpress\main\project-wp27rus\Wordpress-2.7-rus-lecactus-edition-powerpack\wordpress\wp-content\plugins\role-manager/capability-management.php:105
+msgid "This capabilities are unused and will be purged"
+msgstr "Эти способности не используются и будут удалены"
+
+#: X:\web\wordpress\main\project-wp27rus\Wordpress-2.7-rus-lecactus-edition-powerpack\wordpress\wp-content\plugins\role-manager/capability-management.php:113
+msgid "If core capabilities are not currently assigned to any Role, then you must manually re-add them after this action if you want to use them.  Are you sure you want to do this?"
+msgstr "Если основные способности в настоящее время не назначены ни для одной роли, тогда вы должны вручную добавить их после этого действия, если вы хотите использовать их. Вы уверены что хотите сделать это?"
+
+#: X:\web\wordpress\main\project-wp27rus\Wordpress-2.7-rus-lecactus-edition-powerpack\wordpress\wp-content\plugins\role-manager/capability-management.php:117
+#: X:\web\wordpress\main\project-wp27rus\Wordpress-2.7-rus-lecactus-edition-powerpack\wordpress\wp-content\plugins\role-manager/general.php:123
+msgid "You don't have unused capabilities."
+msgstr "У вас нет неиспользуемых способностей."
+
+#: X:\web\wordpress\main\project-wp27rus\Wordpress-2.7-rus-lecactus-edition-powerpack\wordpress\wp-content\plugins\role-manager/capability-management.php:134
+msgid "Assign extra capabilites"
+msgstr "Назначить расширенные способности"
+
+#: X:\web\wordpress\main\project-wp27rus\Wordpress-2.7-rus-lecactus-edition-powerpack\wordpress\wp-content\plugins\role-manager/general.php:32
+msgid "Configuration saved"
+msgstr "Конфигурация сохранена"
+
+#: X:\web\wordpress\main\project-wp27rus\Wordpress-2.7-rus-lecactus-edition-powerpack\wordpress\wp-content\plugins\role-manager/general.php:37
+msgid "Configuration"
+msgstr "Конфигурация"
+
+#: X:\web\wordpress\main\project-wp27rus\Wordpress-2.7-rus-lecactus-edition-powerpack\wordpress\wp-content\plugins\role-manager/general.php:44
+msgid "Spaces allowed in Capabilities"
+msgstr "Разрешить пробелы в способностях"
+
+#: X:\web\wordpress\main\project-wp27rus\Wordpress-2.7-rus-lecactus-edition-powerpack\wordpress\wp-content\plugins\role-manager/general.php:47
+msgid "If you have trouble with other plugins and Role Managers Capability Check"
+msgstr "Если вы имеете проблемы с другими плагинами и отметкой способностей менеджера ролей"
+
+#: X:\web\wordpress\main\project-wp27rus\Wordpress-2.7-rus-lecactus-edition-powerpack\wordpress\wp-content\plugins\role-manager/general.php:51
+#: X:\web\wordpress\main\project-wp27rus\Wordpress-2.7-rus-lecactus-edition-powerpack\wordpress\wp-content\plugins\role-manager/general.php:55
+msgid "Store"
+msgstr "Сохранить"
+
+#: X:\web\wordpress\main\project-wp27rus\Wordpress-2.7-rus-lecactus-edition-powerpack\wordpress\wp-content\plugins\role-manager/general.php:60
+msgid "General information about your Roles and Capabilities and this Plugin"
+msgstr "Основная информация о ваших ролях и способностях, а также об этом плагине"
+
+#: X:\web\wordpress\main\project-wp27rus\Wordpress-2.7-rus-lecactus-edition-powerpack\wordpress\wp-content\plugins\role-manager/general.php:62
+msgid "Statistics"
+msgstr "Статистика"
+
+#: X:\web\wordpress\main\project-wp27rus\Wordpress-2.7-rus-lecactus-edition-powerpack\wordpress\wp-content\plugins\role-manager/general.php:64
+msgid "User-Statistic"
+msgstr "Статистика по пользователям"
+
+#: X:\web\wordpress\main\project-wp27rus\Wordpress-2.7-rus-lecactus-edition-powerpack\wordpress\wp-content\plugins\role-manager/general.php:66
+msgid "Users in your Blog: "
+msgstr "Пользователей в вашем блоге:"
+
+#: X:\web\wordpress\main\project-wp27rus\Wordpress-2.7-rus-lecactus-edition-powerpack\wordpress\wp-content\plugins\role-manager/general.php:68
+msgid "Roles-Statistic"
+msgstr "Статистика по ролям"
+
+#: X:\web\wordpress\main\project-wp27rus\Wordpress-2.7-rus-lecactus-edition-powerpack\wordpress\wp-content\plugins\role-manager/general.php:70
+msgid "Roles in your Blog: "
+msgstr "Ролей в вашем блоге:"
+
+#: X:\web\wordpress\main\project-wp27rus\Wordpress-2.7-rus-lecactus-edition-powerpack\wordpress\wp-content\plugins\role-manager/general.php:71
+msgid "Attached Roles: "
+msgstr "Включенные роли:"
+
+#: X:\web\wordpress\main\project-wp27rus\Wordpress-2.7-rus-lecactus-edition-powerpack\wordpress\wp-content\plugins\role-manager/general.php:78
+msgid "Detached Roles: "
+msgstr "Отключенные роли:"
+
+#: X:\web\wordpress\main\project-wp27rus\Wordpress-2.7-rus-lecactus-edition-powerpack\wordpress\wp-content\plugins\role-manager/general.php:86
+msgid "Capabilities-Statistic"
+msgstr "Статистика по способностям"
+
+#: X:\web\wordpress\main\project-wp27rus\Wordpress-2.7-rus-lecactus-edition-powerpack\wordpress\wp-content\plugins\role-manager/general.php:88
+msgid "Capabilities in your Blog: "
+msgstr "Способностей в вашем блоге:"
+
+#: X:\web\wordpress\main\project-wp27rus\Wordpress-2.7-rus-lecactus-edition-powerpack\wordpress\wp-content\plugins\role-manager/general.php:94
+msgid "Detached Capabilities: "
+msgstr "Отключенные способности:"
+
+#: X:\web\wordpress\main\project-wp27rus\Wordpress-2.7-rus-lecactus-edition-powerpack\wordpress\wp-content\plugins\role-manager/general.php:101
+msgid "You don't have detached capabilities."
+msgstr "Вы не имеете отключенных способностей."
+
+#: X:\web\wordpress\main\project-wp27rus\Wordpress-2.7-rus-lecactus-edition-powerpack\wordpress\wp-content\plugins\role-manager/general.php:105
+msgid "Dedicated Capabilities: "
+msgstr "Выделенные способности:"
+
+#: X:\web\wordpress\main\project-wp27rus\Wordpress-2.7-rus-lecactus-edition-powerpack\wordpress\wp-content\plugins\role-manager/general.php:112
+msgid "You don't have dedicated capabilities."
+msgstr "Вы не имеете выделенных способностей."
+
+#: X:\web\wordpress\main\project-wp27rus\Wordpress-2.7-rus-lecactus-edition-powerpack\wordpress\wp-content\plugins\role-manager/general.php:116
+msgid "Unused Capabilities: "
+msgstr "Неиспользуемые способности:"
+
+#: X:\web\wordpress\main\project-wp27rus\Wordpress-2.7-rus-lecactus-edition-powerpack\wordpress\wp-content\plugins\role-manager/help.php:30
+msgid "Help for the Role Manager Plugin"
+msgstr "Помощь по плагину менеджера ролей"
+
+#: X:\web\wordpress\main\project-wp27rus\Wordpress-2.7-rus-lecactus-edition-powerpack\wordpress\wp-content\plugins\role-manager/help.php:32
+msgid "General Help Contents"
+msgstr "Основное содержание помощи"
+
+#: X:\web\wordpress\main\project-wp27rus\Wordpress-2.7-rus-lecactus-edition-powerpack\wordpress\wp-content\plugins\role-manager/help.php:34
+msgid "Help TOC"
+msgstr "Содержание помощи"
+
+#: X:\web\wordpress\main\project-wp27rus\Wordpress-2.7-rus-lecactus-edition-powerpack\wordpress\wp-content\plugins\role-manager/help.php:35
+#: X:\web\wordpress\main\project-wp27rus\Wordpress-2.7-rus-lecactus-edition-powerpack\wordpress\wp-content\plugins\role-manager/help.php:45
+msgid "System Information for your Support Request"
+msgstr "Системная информация для запроса поддержки"
+
+#: X:\web\wordpress\main\project-wp27rus\Wordpress-2.7-rus-lecactus-edition-powerpack\wordpress\wp-content\plugins\role-manager/help.php:43
+msgid "No help file found!"
+msgstr "Файл помощи не найден!"
+
+#: X:\web\wordpress\main\project-wp27rus\Wordpress-2.7-rus-lecactus-edition-powerpack\wordpress\wp-content\plugins\role-manager/help.php:46
+msgid "Use this information if you have any problems or questions with the \"Role Manager\" at the \"<a href=\"http://www.im-web-gefunden.de/wordpress-plugins/role-manager\" title=\"Role Manager Plugin Homepage\">Role Manager Plugin Homepage</a>\"."
+msgstr "Используйте эту информацию если вы имеете какие-либо проблемы или вопросы по \"Менеджеру Ролей\" на \"<a href=\"http://www.im-web-gefunden.de/wordpress-plugins/role-manager\" title=\"Role Manager Plugin Homepage\">Домашней странице плагина Менеджера Ролей</a>\"."
+
+#: X:\web\wordpress\main\project-wp27rus\Wordpress-2.7-rus-lecactus-edition-powerpack\wordpress\wp-content\plugins\role-manager/help.php:49
+msgid "WordPress-Version"
+msgstr "WordPress-Version"
+
+#: X:\web\wordpress\main\project-wp27rus\Wordpress-2.7-rus-lecactus-edition-powerpack\wordpress\wp-content\plugins\role-manager/help.php:50
+msgid "WordPress-Db-Version"
+msgstr "WordPress-Db-Version"
+
+#: X:\web\wordpress\main\project-wp27rus\Wordpress-2.7-rus-lecactus-edition-powerpack\wordpress\wp-content\plugins\role-manager/help.php:51
+msgid "Role-Manager-Version"
+msgstr "Role-Manager-Version"
+
+#: X:\web\wordpress\main\project-wp27rus\Wordpress-2.7-rus-lecactus-edition-powerpack\wordpress\wp-content\plugins\role-manager/help.php:52
+msgid "PHP-Version"
+msgstr "PHP-Version"
+
+#: X:\web\wordpress\main\project-wp27rus\Wordpress-2.7-rus-lecactus-edition-powerpack\wordpress\wp-content\plugins\role-manager/help.php:54
+msgid "preg_replace"
+msgstr "preg_replace"
+
+#: X:\web\wordpress\main\project-wp27rus\Wordpress-2.7-rus-lecactus-edition-powerpack\wordpress\wp-content\plugins\role-manager/help.php:54
+msgid "yes"
+msgstr "yes"
+
+#: X:\web\wordpress\main\project-wp27rus\Wordpress-2.7-rus-lecactus-edition-powerpack\wordpress\wp-content\plugins\role-manager/help.php:54
+msgid "no"
+msgstr "no"
+
+#: X:\web\wordpress\main\project-wp27rus\Wordpress-2.7-rus-lecactus-edition-powerpack\wordpress\wp-content\plugins\role-manager/help.php:55
+msgid "Help-URI"
+msgstr "URI файла помощи"
+
+#: X:\web\wordpress\main\project-wp27rus\Wordpress-2.7-rus-lecactus-edition-powerpack\wordpress\wp-content\plugins\role-manager/help.php:58
+msgid "Your comments are also welcome!"
+msgstr "Ваши комментарии также приветствуются"
+
+#: X:\web\wordpress\main\project-wp27rus\Wordpress-2.7-rus-lecactus-edition-powerpack\wordpress\wp-content\plugins\role-manager/role-management.php:67
+#: X:\web\wordpress\main\project-wp27rus\Wordpress-2.7-rus-lecactus-edition-powerpack\wordpress\wp-content\plugins\role-manager/role-management.php:437
+msgid "Capability granted"
+msgstr "Способность предоставлена"
+
+#: X:\web\wordpress\main\project-wp27rus\Wordpress-2.7-rus-lecactus-edition-powerpack\wordpress\wp-content\plugins\role-manager/role-management.php:67
+#: X:\web\wordpress\main\project-wp27rus\Wordpress-2.7-rus-lecactus-edition-powerpack\wordpress\wp-content\plugins\role-manager/role-management.php:439
+msgid "Capability denied"
+msgstr "Способность убрана"
+
+#: X:\web\wordpress\main\project-wp27rus\Wordpress-2.7-rus-lecactus-edition-powerpack\wordpress\wp-content\plugins\role-manager/role-management.php:115
+#: X:\web\wordpress\main\project-wp27rus\Wordpress-2.7-rus-lecactus-edition-powerpack\wordpress\wp-content\plugins\role-manager/role-management.php:123
+msgid "Rename Role"
+msgstr "Переименовать роль"
+
+#: X:\web\wordpress\main\project-wp27rus\Wordpress-2.7-rus-lecactus-edition-powerpack\wordpress\wp-content\plugins\role-manager/role-management.php:119
+#: X:\web\wordpress\main\project-wp27rus\Wordpress-2.7-rus-lecactus-edition-powerpack\wordpress\wp-content\plugins\role-manager/role-management.php:205
+msgid "New Name:"
+msgstr "Новое имя:"
+
+#: X:\web\wordpress\main\project-wp27rus\Wordpress-2.7-rus-lecactus-edition-powerpack\wordpress\wp-content\plugins\role-manager/role-management.php:201
+#: X:\web\wordpress\main\project-wp27rus\Wordpress-2.7-rus-lecactus-edition-powerpack\wordpress\wp-content\plugins\role-manager/role-management.php:219
+msgid "Copy Role"
+msgstr "Копировать роль"
+
+#: X:\web\wordpress\main\project-wp27rus\Wordpress-2.7-rus-lecactus-edition-powerpack\wordpress\wp-content\plugins\role-manager/role-management.php:206
+msgid "Copy of"
+msgstr "Копия роли"
+
+#: X:\web\wordpress\main\project-wp27rus\Wordpress-2.7-rus-lecactus-edition-powerpack\wordpress\wp-content\plugins\role-manager/role-management.php:208
+#: X:\web\wordpress\main\project-wp27rus\Wordpress-2.7-rus-lecactus-edition-powerpack\wordpress\wp-content\plugins\role-manager/role-management.php:532
+msgid "Capabilities to be included:"
+msgstr "Способности, которые будут включены:"
+
+#: X:\web\wordpress\main\project-wp27rus\Wordpress-2.7-rus-lecactus-edition-powerpack\wordpress\wp-content\plugins\role-manager/role-management.php:259
+msgid "Delete Role"
+msgstr "Удалить роль"
+
+#: X:\web\wordpress\main\project-wp27rus\Wordpress-2.7-rus-lecactus-edition-powerpack\wordpress\wp-content\plugins\role-manager/role-management.php:260
+msgid "All users with this role will have it removed, and they will lose all capabilities from this role (unless other roles provide it). If a user has only this role, they will be assigned the default role, "
+msgstr "При удалении этой роли, все пользователи к которым она была применена, потеряют все ее способности (пока им не будет предоставлена другая роль). Если пользователь имеет только эту роль, тогда ему будет назначена роль по-умолчанию,"
+
+#: X:\web\wordpress\main\project-wp27rus\Wordpress-2.7-rus-lecactus-edition-powerpack\wordpress\wp-content\plugins\role-manager/role-management.php:265
+msgid "Confirm Delete Role"
+msgstr "Подтвердить удаление роли"
+
+#: X:\web\wordpress\main\project-wp27rus\Wordpress-2.7-rus-lecactus-edition-powerpack\wordpress\wp-content\plugins\role-manager/role-management.php:339
+msgid "Default role changed."
+msgstr "Роль по-умолчанию изменена!"
+
+#: X:\web\wordpress\main\project-wp27rus\Wordpress-2.7-rus-lecactus-edition-powerpack\wordpress\wp-content\plugins\role-manager/role-management.php:347
+msgid "Error: Default role not changed."
+msgstr "Ошибка: Роль по-умолчанию не изменена."
+
+#: X:\web\wordpress\main\project-wp27rus\Wordpress-2.7-rus-lecactus-edition-powerpack\wordpress\wp-content\plugins\role-manager/role-management.php:407
+msgid "Set user level of role."
+msgstr "Установить уровень пользователя роли."
+
+#: X:\web\wordpress\main\project-wp27rus\Wordpress-2.7-rus-lecactus-edition-powerpack\wordpress\wp-content\plugins\role-manager/role-management.php:441
+msgid "New role created"
+msgstr "Новая роль создана"
+
+#: X:\web\wordpress\main\project-wp27rus\Wordpress-2.7-rus-lecactus-edition-powerpack\wordpress\wp-content\plugins\role-manager/role-management.php:443
+msgid "Role renamed"
+msgstr "Роль переименована"
+
+#: X:\web\wordpress\main\project-wp27rus\Wordpress-2.7-rus-lecactus-edition-powerpack\wordpress\wp-content\plugins\role-manager/role-management.php:445
+msgid "Role copied"
+msgstr "Роль скопирована"
+
+#: X:\web\wordpress\main\project-wp27rus\Wordpress-2.7-rus-lecactus-edition-powerpack\wordpress\wp-content\plugins\role-manager/role-management.php:447
+msgid "Role deleted"
+msgstr "Роль удалена"
+
+#: X:\web\wordpress\main\project-wp27rus\Wordpress-2.7-rus-lecactus-edition-powerpack\wordpress\wp-content\plugins\role-manager/role-management.php:449
+msgid "Default role changed"
+msgstr "Роль по-умолчанию изменена"
+
+#: X:\web\wordpress\main\project-wp27rus\Wordpress-2.7-rus-lecactus-edition-powerpack\wordpress\wp-content\plugins\role-manager/role-management.php:451
+msgid "Set user level of role"
+msgstr "Установить уровень пользователя роли"
+
+#: X:\web\wordpress\main\project-wp27rus\Wordpress-2.7-rus-lecactus-edition-powerpack\wordpress\wp-content\plugins\role-manager/role-management.php:455
+msgid "Manage Roles"
+msgstr "Управление ролями"
+
+#: X:\web\wordpress\main\project-wp27rus\Wordpress-2.7-rus-lecactus-edition-powerpack\wordpress\wp-content\plugins\role-manager/role-management.php:456
+msgid "This page is for editing what capabilities are associated with each role. To change the capabilities of a specific user, click on Authors &amp; Users, then click Edit next to the user you want to change. You can <a href=\"#new-role\">add new roles</a> as well."
+msgstr "На этой странице вы можете определить какие способности имеет каждая роль. Чтобы изменить способности определенного пользователя, щелкните по \"Авторы и пользователи\", затем щелкните \"Редактировать\" по пользователю, права которого хотите изменить. Вы можете также <a href=\"#new-role\">добавить новые роли</a>."
+
+#: X:\web\wordpress\main\project-wp27rus\Wordpress-2.7-rus-lecactus-edition-powerpack\wordpress\wp-content\plugins\role-manager/role-management.php:473
+msgid "rename"
+msgstr "переименовать"
+
+#: X:\web\wordpress\main\project-wp27rus\Wordpress-2.7-rus-lecactus-edition-powerpack\wordpress\wp-content\plugins\role-manager/role-management.php:476
+msgid "copy"
+msgstr "копировать"
+
+#: X:\web\wordpress\main\project-wp27rus\Wordpress-2.7-rus-lecactus-edition-powerpack\wordpress\wp-content\plugins\role-manager/role-management.php:482
+msgid "delete"
+msgstr "удалить"
+
+#: X:\web\wordpress\main\project-wp27rus\Wordpress-2.7-rus-lecactus-edition-powerpack\wordpress\wp-content\plugins\role-manager/role-management.php:496
+#: X:\web\wordpress\main\project-wp27rus\Wordpress-2.7-rus-lecactus-edition-powerpack\wordpress\wp-content\plugins\role-manager/role-management.php:498
+msgid "Granted"
+msgstr "Предоставлено"
+
+#: X:\web\wordpress\main\project-wp27rus\Wordpress-2.7-rus-lecactus-edition-powerpack\wordpress\wp-content\plugins\role-manager/role-management.php:501
+msgid "Denied"
+msgstr "Убрано"
+
+#: X:\web\wordpress\main\project-wp27rus\Wordpress-2.7-rus-lecactus-edition-powerpack\wordpress\wp-content\plugins\role-manager/role-management.php:512
+msgid "Update"
+msgstr "Обновить"
+
+#: X:\web\wordpress\main\project-wp27rus\Wordpress-2.7-rus-lecactus-edition-powerpack\wordpress\wp-content\plugins\role-manager/role-management.php:523
+#, php-format
+msgid " User Level: %s"
+msgstr "Уровень пользователя: %s"
+
+#: X:\web\wordpress\main\project-wp27rus\Wordpress-2.7-rus-lecactus-edition-powerpack\wordpress\wp-content\plugins\role-manager/role-management.php:529
+msgid "Create a new Role"
+msgstr "Создать новую роль"
+
+#: X:\web\wordpress\main\project-wp27rus\Wordpress-2.7-rus-lecactus-edition-powerpack\wordpress\wp-content\plugins\role-manager/role-management.php:531
+msgid "Role Name:"
+msgstr "Имя роли:"
+
+#: X:\web\wordpress\main\project-wp27rus\Wordpress-2.7-rus-lecactus-edition-powerpack\wordpress\wp-content\plugins\role-manager/role-management.php:541
+msgid "Create Role"
+msgstr "Создать роль"
+
+#: X:\web\wordpress\main\project-wp27rus\Wordpress-2.7-rus-lecactus-edition-powerpack\wordpress\wp-content\plugins\role-manager/role-manager.php:132
+msgid "Role Management"
+msgstr "Управление ролями"
+
+#: X:\web\wordpress\main\project-wp27rus\Wordpress-2.7-rus-lecactus-edition-powerpack\wordpress\wp-content\plugins\role-manager/role-manager.php:132
+msgid "Roles"
+msgstr "Роли"
+
+#: X:\web\wordpress\main\project-wp27rus\Wordpress-2.7-rus-lecactus-edition-powerpack\wordpress\wp-content\plugins\role-manager/role-manager.php:134
+msgid "Capability Management"
+msgstr "Управление способностями"
+
+#: X:\web\wordpress\main\project-wp27rus\Wordpress-2.7-rus-lecactus-edition-powerpack\wordpress\wp-content\plugins\role-manager/role-manager.php:134
+msgid "Capabilities"
+msgstr "Способности"
+
+#: X:\web\wordpress\main\project-wp27rus\Wordpress-2.7-rus-lecactus-edition-powerpack\wordpress\wp-content\plugins\role-manager/role-manager.php:136
+msgid "Role-/Capability Management General"
+msgstr "Основное управление Ролями/Способностями"
+
+#: X:\web\wordpress\main\project-wp27rus\Wordpress-2.7-rus-lecactus-edition-powerpack\wordpress\wp-content\plugins\role-manager/role-manager.php:138
+msgid "Role-/Capability Management Help"
+msgstr "Помощь по управлению Ролями/Способностями"
+
+#: X:\web\wordpress\main\project-wp27rus\Wordpress-2.7-rus-lecactus-edition-powerpack\wordpress\wp-content\plugins\role-manager/role-manager.php:171
+#: X:\web\wordpress\main\project-wp27rus\Wordpress-2.7-rus-lecactus-edition-powerpack\wordpress\wp-content\plugins\role-manager/role-manager.php:613
+msgid "You can't remove this permission from a role assigned to you!"
+msgstr "Вы не можете удалить разрешения из роли, назначенной вам!"
+
+#: X:\web\wordpress\main\project-wp27rus\Wordpress-2.7-rus-lecactus-edition-powerpack\wordpress\wp-content\plugins\role-manager/role-manager.php:596
+msgid "You must enter a role name."
+msgstr "Вы должны ввести имя роли."
+
+#: X:\web\wordpress\main\project-wp27rus\Wordpress-2.7-rus-lecactus-edition-powerpack\wordpress\wp-content\plugins\role-manager/role-manager.php:597
+#, php-format
+msgid "Can't rename. A Role with the name %s already exists."
+msgstr "Невозможно переименовать. Роль с именем %s уже существует."
+
+#: X:\web\wordpress\main\project-wp27rus\Wordpress-2.7-rus-lecactus-edition-powerpack\wordpress\wp-content\plugins\role-manager/role-manager.php:598
+msgid "You cannot delete the default role."
+msgstr "Вы не можете удалить роль по-умолчанию."
+
+#: X:\web\wordpress\main\project-wp27rus\Wordpress-2.7-rus-lecactus-edition-powerpack\wordpress\wp-content\plugins\role-manager/role-manager.php:599
+#, php-format
+msgid "Can't make %s the default. Not a role."
+msgstr "Вы не можете сделать %s по умолчанию. Не роль."
+
+#: X:\web\wordpress\main\project-wp27rus\Wordpress-2.7-rus-lecactus-edition-powerpack\wordpress\wp-content\plugins\role-manager/role-manager.php:600
+#, php-format
+msgid "Can't create the new Role. A Role with the name %s already exists."
+msgstr "Невозможно создать новую роль. Роль с именем %s уже существует."
+
+#: X:\web\wordpress\main\project-wp27rus\Wordpress-2.7-rus-lecactus-edition-powerpack\wordpress\wp-content\plugins\role-manager/role-manager.php:601
+msgid "Role name to short or to long"
+msgstr "Имя роли слишком короткое или слишком длинное"
+
+#: X:\web\wordpress\main\project-wp27rus\Wordpress-2.7-rus-lecactus-edition-powerpack\wordpress\wp-content\plugins\role-manager/role-manager.php:602
+#: X:\web\wordpress\main\project-wp27rus\Wordpress-2.7-rus-lecactus-edition-powerpack\wordpress\wp-content\plugins\role-manager/role-manager.php:603
+msgid "A valid role name can only have letters, digits and spaces"
+msgstr "Допустимое имя роли может иметь только латинские буквы, цифры и пробелы"
+
+#: X:\web\wordpress\main\project-wp27rus\Wordpress-2.7-rus-lecactus-edition-powerpack\wordpress\wp-content\plugins\role-manager/role-manager.php:604
+#, php-format
+msgid "Can't create the new Role. A Capability with the name %s already exists."
+msgstr "Невозможно создать новую роль. Способность с именем %s уже существует."
+
+#: X:\web\wordpress\main\project-wp27rus\Wordpress-2.7-rus-lecactus-edition-powerpack\wordpress\wp-content\plugins\role-manager/role-manager.php:605
+msgid "You must enter a valid user level"
+msgstr "Вы должны выбрать допустимый уровень пользователя"
+
+#: X:\web\wordpress\main\project-wp27rus\Wordpress-2.7-rus-lecactus-edition-powerpack\wordpress\wp-content\plugins\role-manager/role-manager.php:606
+msgid "You must enter a capability name."
+msgstr "Вы должны ввести имя способности."
+
+#: X:\web\wordpress\main\project-wp27rus\Wordpress-2.7-rus-lecactus-edition-powerpack\wordpress\wp-content\plugins\role-manager/role-manager.php:607
+msgid "Capability don't exists."
+msgstr "Способность не существует."
+
+#: X:\web\wordpress\main\project-wp27rus\Wordpress-2.7-rus-lecactus-edition-powerpack\wordpress\wp-content\plugins\role-manager/role-manager.php:608
+msgid "Capability name to short or to long"
+msgstr "Имя способности слишком короткое или слишком длянное"
+
+#: X:\web\wordpress\main\project-wp27rus\Wordpress-2.7-rus-lecactus-edition-powerpack\wordpress\wp-content\plugins\role-manager/role-manager.php:609
+#: X:\web\wordpress\main\project-wp27rus\Wordpress-2.7-rus-lecactus-edition-powerpack\wordpress\wp-content\plugins\role-manager/role-manager.php:610
+msgid "A valid capability name can only have letters, digits and spaces. Try Role Managers \"Spaces allowed in Capabilities\" option."
+msgstr "Имя способности может содержать только латинские буквы, цифры и пробелы. Попробуйте опцию \"Разрешить пробелы в способностях\"."
+
+#: X:\web\wordpress\main\project-wp27rus\Wordpress-2.7-rus-lecactus-edition-powerpack\wordpress\wp-content\plugins\role-manager/role-manager.php:611
+#, php-format
+msgid "Can't create the new Capability. A Role with the name %s already exists."
+msgstr "Невозможно создать новую способность. Роль с именем %s уже существует."
+
+#: X:\web\wordpress\main\project-wp27rus\Wordpress-2.7-rus-lecactus-edition-powerpack\wordpress\wp-content\plugins\role-manager/role-manager.php:612
+msgid "You are not allowed to do this here"
+msgstr "Вам не разрешено делать это здесь"
+
+#: X:\web\wordpress\main\project-wp27rus\Wordpress-2.7-rus-lecactus-edition-powerpack\wordpress\wp-content\plugins\role-manager/role-manager.php:614
+msgid "You cannot remove the Edit Users or Manage Roles capability from yourself."
+msgstr "Вы не можете удалить Редактирование Пользователей и Управление Ролями у самого себя."
+
+#: X:\web\wordpress\main\project-wp27rus\Wordpress-2.7-rus-lecactus-edition-powerpack\wordpress\wp-content\plugins\role-manager/role-manager.php:615
+msgid "Wrong User-ID!"
+msgstr "Недопустимый ID пользователя!"
+
+#: X:\web\wordpress\main\project-wp27rus\Wordpress-2.7-rus-lecactus-edition-powerpack\wordpress\wp-content\plugins\role-manager/role-manager.php:616
+msgid "User don't exists!"
+msgstr "Пользователь не существует!"
+
