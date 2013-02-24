@@ -1,0 +1,386 @@
+/*
+Theme Name: geekhub
+Description: The Roman WordPress theme.
+Author: Roman
+*/
+
+
+/*----------------------------------------------------------------------------------*/
+/*------------------------------RESET DEFAULT STYLES--------------------------------*/
+/*----------------------------------------------------------------------------------*/
+html,body                       { width:100%; height:100%; }
+body                            { padding:0; margin:0; font:14px Arial, sans-serif; color:#4B7589; background: url(images/bg.jpg) left top repeat-x #fff;}
+div,p,a,span,em,strong,img,h1,h2,h3,h4,h5,h6,ul,ol,li,dl,dt,dd,table,td,tr,form,fieldset,label,select,checkbox,input,textarea {
+	padding:0;
+	margin:0;
+	outline:none;
+	list-style:none;
+}
+select, input, textarea        { font-size:12px; vertical-align:middle; }
+textarea                       { vertical-align:top; }
+:focus                         { outline:none; }
+input[type=submit]             { cursor:pointer; }
+img, fieldset                  { border:0; }
+table                          { border-collapse:collapse; border-spacing:0; }
+a:link, a:visited              { font:15px Arial, sans-serif; color:#E11D5D; text-decoration:none; }
+a:hover                        {color:#E11D5C; text-decoration:underline; }
+/*----------------------------------------------------------------------------------*/
+/*-------------------------------------DEFAULT CLASSES------------------------------*/
+/*----------------------------------------------------------------------------------*/
+.float-r           	           { float:right !important; }
+.float-l                       { float:left !important; }
+.no-float                      { float:none !important; }
+.no-border                     { border:0 !important; }
+.no-bg                         { background:none !important; }
+.no-margin                     { margin:0 !important; }
+.no-padding                    { padding:0 !important; }
+.no-display                    { display:none !important; }
+.display                       { display:block !important; }
+.inline                        { display:inline !important; }
+.overflow                      { overflow:hidden !important; }
+.align-r                       { text-align:right !important; }
+.align-l                       { text-align:left !important; }
+.align-c                       { text-align:center !important; }
+.clear                         { clear:both; }
+/*----------------------------------------------------------------------------------*/
+/*-------------------------------------WRAPPER--------------------------------------*/
+/*----------------------------------------------------------------------------------*/
+body#home{
+	background: url(images/bg.jpg) left top repeat-x #fff;
+}
+.wrapper {
+	margin:0 auto;
+	overflow:hidden;
+	width: 900px;
+}
+.small-bg {
+	background: url(images/header-bg.jpg) left top repeat-x;
+}
+
+/*----------------------------------------------------------------------------------*/
+/*-------------------------------------HEADER---------------------------------------*/
+/*----------------------------------------------------------------------------------*/
+.header {
+	overflow:hidden;
+}
+.header  h1 {
+	float:left;
+	margin:15px 95px 15px 0;
+}
+.header-sprites {
+	border-bottom: 1px solid #8EA8B3;
+	margin:45px 0 0;
+	padding: 0 0 65px;
+}
+.header-sprites li {
+	float:left;
+	margin:0 10px 0 0;
+}
+.header-sprites li a {
+	display:block;
+	height:24px;
+	width:24px;
+}
+#menu-item-40 a {
+	background: url(images/header-sprites.png) left top no-repeat;
+	text-indent:-800px;
+}
+#menu-item-41 a {
+	background: url(images/header-sprites.png) -33px top no-repeat;
+	text-indent:-800px;
+}
+#menu-item-42 a {
+	background: url(images/header-sprites.png) -65px top no-repeat;
+	text-indent:-800px;
+}
+#menu-item-43 a {
+	background: url(images/header-sprites.png) -97px top no-repeat;
+	text-indent:-800px;
+}
+#menu-item-44 a {
+	background: url(images/header-sprites.png) -129px top no-repeat;
+	text-indent:-800px;
+}
+.small-bg .header-sprites {
+	border:0;
+}
+/*----------------------------------------------------------------------------------*/
+/*-------------------------------------NAV------------------------------------------*/
+/*----------------------------------------------------------------------------------*/
+.nav {
+	float:right;
+	margin:50px 0 0;
+}
+.nav li {
+    display: block;
+    float: right;
+    margin: 0 0 0 25px;
+    padding: 0 0 40px;
+}
+.nav  li a {
+	color:#396375;
+	font:600 15px "Myriad Pro", sans-serif;
+	text-transform:uppercase;
+}
+.nav  li a:hover{
+	color:#E11D5C;
+	text-decoration:none;
+}
+li.current-menu-item a{
+	color:#E11D5C;
+}
+.small-bg .current-menu-item {
+	background: url(images/nav-active-arrow.png) center bottom no-repeat;
+}
+/*----------------------------------------------------------------------------------*/
+/*-------------------------------------CONTENT--------------------------------------*/
+/*----------------------------------------------------------------------------------*/
+.registration {
+	background: url(images/content-splash.png) no-repeat 140px top;
+    height: 297px;
+    margin: 42px auto 0;
+    width: 715px;
+}
+.registration h2{
+	font:600 53px "Trebuchet MS", sans-serif;
+	padding:30px 0;
+	text-align:center;
+}
+.registration a {
+	background: url(images/content-register.png) left top no-repeat;
+	display:block;
+	color:#fff;
+	font:600 26px "Trebuchet MS", sans-serif;
+	margin: 0 210px;
+	height:58px;	
+    padding: 22px 0 0 55px;
+	width:252px;
+}
+.registration  a:hover{
+	text-decoration:none;
+}
+.content > p {
+	line-height:1.5;
+	margin:40px auto 30px;
+	width:760px;
+}
+.index-html .content  h3 {
+	border-bottom: 1px solid #A7C3CF;
+	font-size:19px;
+	font-weight: 100;
+	letter-spacing:8px;
+	padding:0 0 10px;
+	text-align:center;
+	text-transform:uppercase;
+}
+.content-courses {
+	margin:0 0 50px;
+	overflow:hidden;
+}
+.content-courses li {
+	margin:25px 0 0;
+	overflow:hidden;
+	width:450px;
+}
+.content-courses li img{
+	float:left;
+	margin:0 20px 0 0;
+}
+.content-courses li h4{
+	float:left;
+	font:100 28px "Trebuchet MS", sans-serif;
+	color:#E92777;
+	margin:0 0 10px;
+}
+.content-courses li p{
+	font-size:12px;
+	line-height:1.5;
+	width:300px;
+	overflow:hidden;
+}
+li.left-column{
+	float:left;
+	margin:25px 50px 0 0;
+	width:400px;
+}
+li.left-column p{
+	width:250px;
+}
+.content-facebook-group {
+	float:left;
+	margin:20px 0 0;
+}
+.content-our-sponsors{
+	float:right;
+	margin:20px 0 0;
+	width:275px;
+}
+.content-our-sponsors h3{
+	font-size:16px;
+}
+.content-our-sponsors ul li a{
+	display:block;
+	height:55px;
+	width:70px
+}
+.content-our-sponsors ul li{
+	float:left;
+	margin:0 32px 0 0;
+}
+.content-our-sponsors ul {
+	margin:25px 15px 0 10px;
+}
+.povnahata {
+	background: url(images/content-sponsors.png) left top no-repeat;
+}
+ul li a.sergium {
+	background: url(images/content-sponsors.png) -148px top no-repeat;
+	width:45px;
+}
+.moc {
+	background: url(images/content-sponsors.png) -73px top no-repeat;
+}
+ul li.sponsors-valco-margin{
+	margin:5px 26px 0 50px;
+}
+.valco {
+	background: url(images/content-sponsors.png) -191px top no-repeat;
+}
+.yothog {
+	background: url(images/content-sponsors.png) -255px top no-repeat;
+}
+.content-sertificates {
+	margin: 0 auto 60px;
+	overflow:hidden;
+	width:276px;
+}
+.content-sertificates a{
+	background: url(images/sertificates.jpg) left top no-repeat;
+	display:block;
+	width:276px;
+	height:214px;
+}
+.small-bg .content h2 {
+	border-bottom: 1px solid #A7C3CF;
+    font: 100 50px "Trebuchet MS";
+    margin:25px 0;
+    padding: 0 0 10px;
+}
+.page-id-7 .content ul {
+	margin:0 35px 30px;
+	overflow:hidden;
+}
+.page-id-7 .content ul li p {
+	float:right;
+	font-weight:normal;
+	margin:0 0 10px;
+	width:530px;
+}
+.page-id-9 .content ul {
+	margin:0 35px 40px;
+}
+.page-id-9 .content ul li{
+	margin:0 0 10px;
+	overflow:hidden;
+}
+.page-id-9 .content ul li h3{
+	color:#EA2778;
+	float:left;
+	font:100 25px "Trebuchet MS";
+	margin:35px 0 0; 
+	text-align:right;
+	width:185px;
+}
+.page-id-9 .content ul li h3 span{
+	color: #F3753E;
+    font:100 12px arial;
+}
+.page-id-9 .content ul li img{
+	float:left;
+	margin:0 20px;
+}
+.page-id-9 .content ul li p {
+	margin:30px 0;
+}
+.page-id-9 .content .right h3{
+	float:right;
+	text-align:left;
+}
+.page-id-9 .content .right img{
+	float:right;
+}
+.page-id-9 .content .right p{
+	text-align:right;
+}
+.page-id-11 .content dl {
+	margin:0 35px;
+	overflow:hidden;
+	text-align:center;
+}
+.content-come-in{
+	width:415px;
+	text-align:center;
+}
+.page-id-11 .content dl dt{
+	color: #EB3580;
+    font-size: 27px;
+    margin: 0 0 12px;
+}
+.page-id-11 .content dl dd{
+	color:#4B7589;
+	font:500 35px "Trebuchet MS";
+	margin:0 0 30px;
+}
+.page-id-11 .content dl dd ul {
+	float:right;
+	margin:0 95px 0 0;
+	overflow:hidden;
+}
+.page-id-11 .content dl dd ul li {
+	float:left;
+	margin:0 20px 0 0;
+}
+.page-id-11 .content dl dd ul li a{
+	display:block;
+	height:48px;
+	width:48px;
+}
+.social-facebook{
+	background: url(images/contact-social-sprites.png) left top no-repeat;
+}
+.social-vk{	
+	background: url(images/contact-social-sprites.png) center top no-repeat;
+}
+.social-twit{
+	background: url(images/contact-social-sprites.png) right top no-repeat;
+}
+/*----------------------------------------------------------------------------------*/
+/*-------------------------------------SIDEBAR--------------------------------------*/
+/*----------------------------------------------------------------------------------*/
+/*----------------------------------------------------------------------------------*/
+/*-------------------------------------FOOTER---------------------------------------*/
+/*----------------------------------------------------------------------------------*/
+.footer {
+	border-top:1px solid #8EA8B3;
+}
+.footer span {
+	color:#A7C3CF;
+	float:right;
+	font-size:11px;
+	margin: 20px 0;
+}
+.footer ul{
+	float:left;
+	padding:20px 0;
+	margin:0 0 50px;
+}
+.footer ul li {
+	float:right;
+	display:inline;
+	margin:0 15px 0 0;
+}
+.footer  a{
+	color:#396375;
+	font:bold 11px Arial, sans-sherif;
+	text-transform:uppercase;
+}

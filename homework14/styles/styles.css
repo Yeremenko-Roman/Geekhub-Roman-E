@@ -51,7 +51,6 @@ a:hover                        {color:#E11D5C; text-decoration:underline; }
 /*-------------------------------------HEADER---------------------------------------*/
 /*----------------------------------------------------------------------------------*/
 .header {
-	border-bottom: 1px solid #8EA8B3;
 	overflow:hidden;
 }
 .header  h1 {
@@ -59,8 +58,9 @@ a:hover                        {color:#E11D5C; text-decoration:underline; }
 	margin:15px 95px 15px 0;
 }
 .header-sprites {
+	border-bottom: 1px solid #8EA8B3;
 	margin:45px 0 0;
-	overflow:hidden;
+	padding: 0 0 65px;
 }
 .header-sprites li {
 	float:left;
@@ -122,7 +122,7 @@ li.header-active a {
 /*----------------------------------------------------------------------------------*/
 .registration {
 	background: url(../images/content-splash.png) no-repeat 140px top;
-    height: 298px;
+    height: 297px;
     margin: 42px auto 0;
     width: 715px;
 }
@@ -175,10 +175,11 @@ li.header-active a {
 	float:left;
 	font:100 28px "Trebuchet MS", sans-serif;
 	color:#E92777;
-	margin:0 0 20px;
+	margin:0 0 10px;
 }
 .content-courses li p{
 	font-size:12px;
+	line-height:1.5;
 	width:300px;
 	overflow:hidden;
 }
