@@ -1,0 +1,331 @@
+/*----------------------------------------------------------------------------------*/
+/*------------------------------RESET DEFAULT STYLES--------------------------------*/
+/*----------------------------------------------------------------------------------*/
+html,body                       { width:100%; height:100%; }
+body                            { padding:0; margin:0; font:14px Arial, sans-serif; color:#595959;  background:url(../images/bg.png) left top repeat-x #fff; }
+div,p,a,span,em,strong,img,h1,h2,h3,h4,h5,h6,ul,ol,li,dl,dt,dd,table,td,tr,form,fieldset,label,select,checkbox,input,textarea {
+	padding:0;
+	margin:0;
+	outline:none;
+	list-style:none;
+}
+select, input, textarea        { font-size:12px; vertical-align:middle; }
+textarea                       { vertical-align:top; }
+:focus                         { outline:none; }
+input[type=submit]             { cursor:pointer; }
+img, fieldset                  { border:0; }
+table                          { border-collapse:collapse; border-spacing:0; }
+a:link, a:visited              { font:16px Arial, sans-serif; color:#000; text-decoration:none; }
+a:hover                        { text-decoration:none; }
+/*----------------------------------------------------------------------------------*/
+/*-------------------------------------DEFAULT CLASSES------------------------------*/
+/*----------------------------------------------------------------------------------*/
+.float-r           	           { float:right !important; }
+.float-l                       { float:left !important; }
+.no-float                      { float:none !important; }
+.no-border                     { border:0 !important; }
+.no-bg                         { background:none !important; }
+.no-margin                     { margin:0 !important; }
+.no-padding                    { padding:0 !important; }
+.no-display                    { display:none !important; }
+.display                       { display:block !important; }
+.inline                        { display:inline !important; }
+.overflow                      { overflow:hidden !important; }
+.align-r                       { text-align:right !important; }
+.align-l                       { text-align:left !important; }
+.align-c                       { text-align:center !important; }
+.clear                         { clear:both; }
+/*----------------------------------------------------------------------------------*/
+/*-------------------------------------WRAPPER--------------------------------------*/
+/*----------------------------------------------------------------------------------*/
+.wrapper {
+	background:#fff;
+	margin:0 auto;
+	width:1056px;
+}
+/*----------------------------------------------------------------------------------*/
+/*-------------------------------------HEADER---------------------------------------*/
+/*----------------------------------------------------------------------------------*/
+.header {
+	margin:0 37px;
+	overflow:hidden;
+}
+.logo {
+	float:left;
+	margin:30px 115px 20px 0;
+	text-indent:-160px;
+}
+.contact-phone {
+	background: url(../images/header-phone-bg.png) left center no-repeat;
+	color:#1F93EB;
+	display:block;
+	float:right;
+	font-size:24px;
+	margin:45px 0 40px;
+	padding:0 0 0 25px;
+}
+/*----------------------------------------------------------------------------------*/
+/*-------------------------------------NAV------------------------------------------*/
+/*----------------------------------------------------------------------------------*/
+.nav {
+	margin:35px 0;
+	overflow:hidden;
+}
+.nav li {
+	float:left;
+	border-right:1px solid #ccc;
+	padding:12px 7px;
+}
+.nav li a {
+	font-size:17px;
+	padding:10px 15px;
+}
+.nav li a:hover, a.active-nav {
+	background: url(../images/nav-li-a-bg.png) center center repeat-x;
+	-webkit-border-radius: 25px;
+	-moz-border-radius: 25px;
+	border-radius: 25px;
+	color:#fff;
+	padding:10px 15px 10px 15px;
+}
+/*----------------------------------------------------------------------------------*/
+/*-------------------------------------CONTENT--------------------------------------*/
+/*----------------------------------------------------------------------------------*/
+/*.margin-left-right{
+	margin:0 38px 0 37px;
+}*/
+.content{
+	overflow:hidden;
+}
+.home-img {
+	float:left;
+	margin:0 13px 20px 0;
+}
+.content-video{
+	margin:0 0 10px;
+}
+.content-map {
+	margin:0 0 20px;
+	overflow:hidden;
+}
+.contacts {
+	border-bottom:1px solid #ccc;
+	margin:0 38px 20px 37px;
+	overflow:hidden;
+}
+.contacts li {
+	float:left;
+	margin:0 49px 20px 0;	
+	min-height:60px;
+	padding:0 0 0 90px;
+}
+.contacts li a {
+	display:block;
+	font-weight:bold;
+	margin:5px 0 0;
+}
+.contacts li span{
+	display:block;
+	font-size:10px;
+	width:120px;
+}
+li.mailboxes {
+	background: url(../images/content-mailboxes.jpg) left center no-repeat;
+}
+li.phone-service{	
+	background: url(../images/content-phone-services.jpg) left center no-repeat;
+	padding:0 0 0 80px;
+}
+li.office {
+	background: url(../images/content-office.jpg) left center no-repeat;	
+	padding:0 0 0 65px;
+}
+li.conference-room {
+	background: url(../images/content-conference-room.jpg) left center no-repeat;
+}
+.index-html-content-title {
+	font-size:20px;
+	float:left;
+	margin:0 50px 0 37px;
+}
+.index-html-body .content p {	
+	float:left;
+	margin:0 0 30px;
+	width:655px;
+}
+.registration-office {
+	margin:0 36px 10px 37px;
+	overflow: hidden;
+	padding:8px 0 25px;
+	position:relative;
+}
+.create-office a {
+	background: url(../images/create-office.jpg) left top no-repeat;
+	display:block;
+	height:149px;
+}
+.time-offer {
+	position:absolute;
+	left:310px;
+	top:0;
+}
+.time-offer a {
+	background: url(../images/limited-time.png) left top no-repeat;
+	display:block;
+	height:180px;
+	width:345px;
+}
+.about-us-content-title, .how-it-works-content-title {
+	font-size:32px;
+	color:#3D4F95;
+	margin:15px 0 20px;
+}
+.about-us-html-body .content p {
+	margin:0 37px 20px 0;
+}
+/*----------------------------------------------------------------------------------*/
+/*-------------------------------------SIDEBAR--------------------------------------*/
+/*----------------------------------------------------------------------------------*/
+.sidebar {
+	float:left;
+	margin: 75px 37px 0;
+	overflow:hidden;
+}
+.how-it-works-html-body .sidebar {
+	margin:10px 37px 0 50px;
+}
+.sidebar ul li{
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+	padding:15px 50px 15px 15px;
+	border:1px solid #c2c2c2;
+	width:220px;
+}
+.sidebar ul li span {
+	display:block;
+}
+.sidebar-li-name{
+	color:#7A7B7F;
+}
+.sidebar-li-contact{
+	color:#3D4F95;
+	font-size:24px;
+}
+.sidebar-email .sidebar-li-contact, .sidebar-mini-earth .sidebar-li-contact{
+	font-size:14px;
+}
+.sidebar-denver-virtual-offices{
+	background: url(../images/sidebar-phone.png) 240px center no-repeat;
+}
+.sidebar-skype {
+	background: url(../images/sidebar-skype.png) 240px center no-repeat;
+}
+.sidebar-email{
+	background: url(../images/sidebar-email.png) 240px center no-repeat;
+}
+.sidebar-mini-earth{
+	background: url(../images/sidebar-mini-earth.png) 240px center no-repeat;
+}
+.how-it-works-html-body .sidebar ul li {
+	border:0;
+	border-bottom:1px solid #c2c2c2;
+}
+.how-it-works-html-body .sidebar ul {
+	border: 1px solid #C2C2C2;
+	-webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+	border-radius: 10px;
+	margin-bottom:-1px;
+}
+.how-it-works-html-body .sidebar-contacts li {
+	padding-left:80px;
+}
+.how-it-works-html-body .office {
+	background: url(../images/content-office.jpg) 10px center no-repeat;	
+}
+.sidebar-contacts  {
+	margin-top:20px;
+	width:260px;
+}
+/*----------------------------------------------------------------------------------*/
+/*-------------------------------------FOOTER---------------------------------------*/
+/*----------------------------------------------------------------------------------*/
+.footer {
+	margin:0 36px 30px 37px;
+	overflow:hidden;
+}
+.social {
+	color:#585858;
+	float:left;
+	font-size:16px;
+	font-weight:bold;
+	margin:15px 0 0;
+}
+.social-links {
+	border-right:1px solid #ccc;
+	float:left;
+	height:45px;
+	padding:0 25px 0 0;
+}
+.social-links li {
+	float:left;
+	margin:10px 0 0 10px;
+}
+.social-links li a{
+	display:block;
+	height:30px;
+	width:30px;
+}
+.twit a {
+	background: url(../images/social-links.png) left center no-repeat;
+}
+.fb a{	
+	background: url(../images/social-links.png) center center no-repeat;
+}
+.rss a {
+	background: url(../images/social-links.png) right center no-repeat;
+}
+.notation {
+	color:#949494;
+    float: left;
+	margin:15px 25px;
+}
+.about-us-html-body .footer {
+	margin:10px 36px 30px 37px;
+	border-top:1px solid #ccc;
+	padding:30px 0 0;
+}
+.about-us-html-body .social-links {
+	border:0;
+	margin:0 80px 0 0;
+}
+.about-us-html-body .footer-links{
+	float:left;
+	margin:0 30px 0 0;
+}
+.about-us-html-body .footer-links h3{
+	font-size:12px;
+	color:#000;
+}
+.about-us-html-body .footer-links ul li a{
+	color:#359BCB;
+    font-size: 12px;
+}
+.about-us-html-body .copyrights{
+	float:right;
+}
+.fb-attendance li{
+	float:left;
+	margin: 0 10px 0 0;
+}
+.fb-likes a{
+	background: url(../images/fb-likes.png) right center no-repeat;
+	display:block;
+    height: 23px;
+    width: 49px;
+}
+.attendance-fb span{
+	background: url(../images/fb-mini-icon.png) left center no-repeat;
+	padding:0 0 0 15px;
+}
